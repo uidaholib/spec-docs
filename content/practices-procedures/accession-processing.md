@@ -7,7 +7,7 @@ topics:
 
 ### Accession Procedures
 
-If materials are deemed appropriate for inclusion in Spec, they will be accessioned. Manuscript, university, or photograph collections that have been accessioned will be noted with an identifying number beginning with **MA** or **UA**. For a step-by-step guide to accessioning, see *insert link to accession procedures*. 
+If materials are deemed appropriate for inclusion in Spec, they will be accessioned. Manuscript, university, or photograph collections that have been accessioned will be noted with an identifying number beginning with **MA** or **UA**. For a step-by-step guide to accessioning, see the [Accession Manual]({{ '/content/accessions/rehouse.html' | relative_url }}).
 
 The following is a summary of steps which make up the accessioning process:  
 1. If items cannot be accessioned immediately upon receipt, place items on shelving in intake area, as space allows, along with the completed Deed of Gift. 

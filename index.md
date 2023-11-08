@@ -3,7 +3,7 @@ title: Special Collections and Archives Documentation
 layout: lesson-content
 ---
 
-A minimal Jekyll theme with sidebar content nav for creating lesson and workshop websites using Markdown.
+These practices and procedures were developed from 2022-2023, and will be revised or updated as needed.  
 
 {% include toc.html %}
 
