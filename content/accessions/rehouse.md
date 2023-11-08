@@ -15,10 +15,4 @@ If material is already in folders use your best judgement about whether they sho
 
 Always use pencil when working around archival materials. If the material is not in folders, it is probably best to do some arranging and put them in folders. You can give folders titles if you are making groupings of documents. Note any condition issues in the accession record as you come upon them. Remember it is always best to discuss things with colleagues if you are unsure or would benefit from a second set of eyes.   
 
-If digital media such as floppy disks, CDs, DVDs, zip drives, come with a collection, please follow the ingest workflow outlined in **Digital Materials in Ingest**
-
-{% capture staff-note %}
-*This documentation is based on the Accessions Manual created by Ashlyn Velte in 2018 and subsequently updated by Amy Thompson in 2019 and 2022. It was again updated in 2023 by Dulce Kersting-Lark and Sara Szobody.*
-{% endcapture %}
-
-{% include alert.html text=staff-note color="warning" %}
+If digital media such as floppy disks, CDs, DVDs, zip drives, come with a collection, please follow the ingest workflow outlined in **Digital Materials in Ingest**.
