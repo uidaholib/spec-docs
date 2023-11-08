@@ -1,7 +1,7 @@
 ---
 section: Practices and Procedures
 nav_order: 3
-title: Access and Use
+title: Use and Access
 ---
 
 The holdings of Spec are maintained and made available for the benefit of university stakeholders and the public. The use of the collections is central to the mission of the department and should be facilitated whenever possible.  
