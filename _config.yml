@@ -42,7 +42,7 @@ content_license_link: https://creativecommons.org/licenses/by-sa/4.0/
 # these options tweak CSS, so should be valid CSS values.
 #
 # header-background: 
-# header-text-color: 
+# header-text-color: black
 # breadcrumbs-background: 
 # breadcrumbs-text-color: 
 # active-nav-color: 
