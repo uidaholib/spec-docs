@@ -1,6 +1,6 @@
 ---
 section_id: Practices and Procedures
-nav_order: 2
+nav_order: 1
 title: Physical Materials
 topics: 
 ---
