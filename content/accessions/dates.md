@@ -1,11 +1,11 @@
 ---
 section: Accession Manual
 nav_order: 3
-title: Accession Record - Dates
+title: Accession Record - Date
 topics: 
 ---
 
-This section of the Accession Record is used to document the dates of the materials in the accession. Include both bulk and inclusive dates when appropriate. Fields marked with * are mandatory (if information is known). Please consult with department colleagues if questions arise.
+The **Date** the Accession Record is used to document the dates of the materials in the accession. Include both bulk and inclusive dates when appropriate. Fields marked with * are mandatory (if information is known). Please consult with department colleagues if questions arise.
 
 {:.table .table-bordered}
 | Field | Required | Content | Examples |
