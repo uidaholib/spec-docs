@@ -1,7 +1,7 @@
 ---
 section: Accession Manual
 nav_order: 3
-title: Accession Record - Date
+title: Accession Record - Dates
 topics: 
 ---
 
