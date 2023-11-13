@@ -1,11 +1,11 @@
 ---
-section: Accession Manual
-nav_order: 3
-title: Accession Record - Dates
+section: Processing Manual
+nav_order: 5
+title: Resource Record - Dates
 topics: 
 ---
 
-The **Dates** section in the Accession Record is used to document the dates of the materials in the accession. Include both bulk and inclusive dates when appropriate. Fields marked with * are mandatory (if information is known). Please consult with department colleagues if questions arise.
+The **Dates** section in the Resource Record is used to document the dates of the materials in the accession. Include both bulk and inclusive dates when appropriate. May already be filled in if spawned from Accession Record. Fields marked with * are mandatory (if information is known). Please consult with department colleagues if questions arise.
 
 {:.table .table-bordered}
 | Field | Required | Content | Examples |
