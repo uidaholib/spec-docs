@@ -1,6 +1,6 @@
 ---
 section: Processing Manual
-nav_order: 3
+nav_order: 7
 title: AS Spreadsheet - Physical Materials
 ---
 
@@ -9,7 +9,7 @@ Use the ArchiveSpace Spreadsheet Upload Template to create the metadata needed t
 Rather than beginning to work in the template, you'll want to make a copy by using **Save As** into the proper file location. To save properly, follow this pile path: *Share Point > spec > Collections > Processed Collections > Finding Aid Files > choose the group you're adding to > add a folder with your collections identifier (ex: MG 571)*
 
 {% capture text %}
-**NOTE:** Fields in the spreadsheet template that are colored RED are required fields.
+**NOTE:** Fields in the spreadsheet template that are colored RED are required fields. This template is usually used for collections that are more than one box. Small collections can be added manually in ArchiveSpace.
 {% endcapture %}
 
 {% include alert.html text=text color="warning" %}
