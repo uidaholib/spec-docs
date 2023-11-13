@@ -1,7 +1,7 @@
 ---
 section: Processing Manual
-nav_order: 9
-title: Resource Record - Finding Aid Data
+nav_order: 10
+title: Resource Record - Related Accessions
 topics: 
 ---
 
