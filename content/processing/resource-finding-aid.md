@@ -1,6 +1,6 @@
 ---
 section: Processing Manual
-nav_order: 5
+nav_order: 9
 title: Resource Record - Finding Aid Data
 topics: 
 ---

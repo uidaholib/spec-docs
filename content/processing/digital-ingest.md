@@ -1,6 +1,6 @@
 ---
 section: Processing Manual
-nav_order: 9
+nav_order: 2
 title: Digital Material Ingest
 ---
 

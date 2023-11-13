@@ -1,6 +1,6 @@
 ---
 section: Processing Manual
-nav_order: 2
+nav_order: 6
 title: Resource Record - Languages
 topics: 
 ---

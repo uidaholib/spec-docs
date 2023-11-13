@@ -1,13 +1,11 @@
 ---
-section_id: Processing Manual
-nav_order: 4
+section: Processing Manual
+nav_order: 5
 title: Resource Record - Basic Information
 topics: 
 ---
 
-*The following manual is based on documentation created by Amy Thompson on how to create resource records in ArchivesSpace. It was updated in 2023 to reflect the most current departmental practices.*
-
-Begin by reviewing that all steps of the [Accession Manual]({{ '/content/accessions/rehouse.html' | relative_url }}) are complete. This is especially important for donations that came in before 2017, when ArchivesSpace was adopted.
+The following are sections and fields a processor must complete in order to have a Resource Record in ArchivesSpace. Use the information from your [Collection Description]({{ '/content/processing/collection-description.html' | relative_url }}) document to help fill out fields.
 
 ### Log into [ArchivesSpace (AS)](https://uidaho.libraryhost.com/admin)
 - URL: [https://uidaho.libraryhost.com/admin](https://uidaho.libraryhost.com/admin).

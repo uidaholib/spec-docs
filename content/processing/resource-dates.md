@@ -1,6 +1,6 @@
 ---
 section: Processing Manual
-nav_order: 3
+nav_order: 7
 title: Resource Record - Dates
 topics: 
 ---
