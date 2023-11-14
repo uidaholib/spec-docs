@@ -4,7 +4,7 @@ nav_order: 6
 title: Labeling and Shelving
 ---
 
-#### Labeling Boxes
+### Labeling Boxes
 
 Fill out the [Box Template](https://vandalsuidaho.sharepoint.com/:w:/r/sites/Storage-Library/Documents/spec/Collections/Accessions/Box_Label_template.docx?d=we3ba908310825c1ea33bb3e6196f877f&csf=1&web=1&e=rM2Mxc) with the collection ID, title, date range, and the box number. For collections that have more than one box, make sure to put “Box 1 of” and then whatever the final box total is. 
 
@@ -16,7 +16,7 @@ Fill out the [Box Template](https://vandalsuidaho.sharepoint.com/:w:/r/sites/Sto
 
 Before printing, be sure to find the label paper (next to the small grey HP printer). Place a piece in the paper feeder, not a tray. After that, feel free to print. Place the labels on the appropriate box.
 
-#### Shelving Materials
+### Shelving Materials
 
 Consult with colleagues, if needed, about where an appropriate place is to house the collection. Make note of the row, section, and shelf each box is on.  
 
