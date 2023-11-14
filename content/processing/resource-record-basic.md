@@ -6,7 +6,7 @@ title: Resource Record
 
 The following are sections and fields a processor must fill out in order to have a complete Resource Record in ArchivesSpace. Use the information from your [Collection Description]({{ '/content/processing/collection-description.html' | relative_url }}) document to help fill out fields.
 
-### 1. Log into [ArchivesSpace (AS)](https://uidaho.libraryhost.com/admin) & Create a Resource Record
+### Log into [ArchivesSpace (AS)](https://uidaho.libraryhost.com/admin) & Create a Resource Record
 - URL: [https://uidaho.libraryhost.com/admin](https://uidaho.libraryhost.com/admin).
 - The username and password are established upon account creation.
 - Create a Resource Record
@@ -19,8 +19,21 @@ The following are sections and fields a processor must fill out in order to have
         - In ArchivesSpace, click **Create** located next to the search box.
         - From the drop-down menu, click **Resource**.
 
+<div class="text-center mb-2">
+    <a href="#{{ 'Basic Information Fields ' | slugify }}" class="btn btn-secondary my-2 mx-1">Basic Information Fields</a>
+    <a href="#{{ 'Languages' | slugify }}" class="btn btn-secondary my-2 mx-1">Languages</a>
+    <a href="#{{ 'Dates' | slugify }}" class="btn btn-secondary my-2 mx-1">Dates</a>
+    <a href="#{{ 'Extents' | slugify }}" class="btn btn-secondary my-2 mx-1">Extents</a>
+    <a href="#{{ 'Finding Aid Data' | slugify }}" class="btn btn-secondary my-2 mx-1">Finding Aid Data</a>
+    <a href="#{{ 'Related Accessions' | slugify }}" class="btn btn-secondary my-2 mx-1">Related Accessions</a>
+    <a href="#{{ 'Agent Links' | slugify }}" class="btn btn-secondary my-2 mx-1">Agent Links</a>
+    <a href="#{{ 'Subjects' | slugify }}" class="btn btn-secondary my-2 mx-1">Subjects</a>
+    <a href="#{{ 'Notes' | slugify }}" class="btn btn-secondary my-2 mx-1">Notes</a>
+    <a href="#{{ 'Agent Links' | slugify }}" class="btn btn-secondary my-2 mx-1">Agent Links</a>
+</div>
+
 ---
-### 2. Basic Information Fields 
+### Basic Information Fields 
 The fields listed below should be filled for each resource record. Fields marked with * are mandatory (if information is known). Please consult with department colleagues if questions arise.
 
 {:.table .table-bordered}
@@ -35,7 +48,7 @@ The fields listed below should be filled for each resource record. Fields marked
 | Repository Processing Note | Optional | Not included in any reports or exports. Include additional processing information. |
 
 ---
-### 3. Languages
+### Languages
 
 The fields listed below should be filled for each resource record. Fields marked with * are mandatory (if information is known). Please consult with department colleagues if questions arise.
 
@@ -46,7 +59,7 @@ The fields listed below should be filled for each resource record. Fields marked
 | Script | Optional | The script term and code represented in the material(s) described. | Latin |
 
 ---
-### 4. Dates
+### Dates
 
 The **Dates** section in the Resource Record is used to document the dates of the materials in the accession. Include both bulk and inclusive dates when appropriate. May already be filled in if spawned from Accession Record. Fields marked with * are mandatory (if information is known). Please consult with department colleagues if questions arise.
 
@@ -63,7 +76,7 @@ The **Dates** section in the Resource Record is used to document the dates of th
 **Era** and **Calendar** autopopulates as *CE* and *Gregorian* respectively, generally no need to adjust. 
 
 ---
-### 5. Extents
+### Extents
 
 The **Extents** section in the Resource Record refers to the size of the collection (usually # of cubic feet, i.e. # of storage boxes). May already be filled in if spawned from an Accession Record.
 
@@ -78,7 +91,7 @@ The **Extents** section in the Resource Record refers to the size of the collect
 | Dimensions | Optional | Dimensions of the materials described. | 29 cm; 7 in. |
 
 ---
-### 6. Finding Aid Data
+### Finding Aid Data
 
 The **Finding Aid Data** section in the Resource Record houses finding aid creation information. 
 
@@ -108,7 +121,7 @@ The **Finding Aid Data** section in the Resource Record houses finding aid creat
 | Finding Aid Status | Yes | When ready to upload to Archives West, mark as *Complete.* |
 
 ---
-### 7. Related Accessions
+### Related Accessions
 
 The **Related Accessions** section in the Resource Record is sed for linking associated Accessions with the Resource. 
 
@@ -122,7 +135,7 @@ Multiple accessions can be added.
 {% include figure.html img="accessions.jpg" alt="adding accessions" caption="" width="" %}
 
 ---
-### 8. Agent Links 
+### Agent Links 
 
 The **Agent Links** associates the creator of the material with the record. It also links the source of material or subject of the materials described to provide information about their context.
 
@@ -174,7 +187,7 @@ Example:
 
 {% include alert.html text=text color="warning" %}
 ---
-### 9. Subjects
+### Subjects
 
 The **Subjects** section in the Resource Record is used for linking Subjects with the materials described.
 
@@ -215,7 +228,7 @@ Example:
 {% include alert.html text=text color="warning" %}
 
 ---
-### 10. Notes
+### Notes
 
 This section adds additional descriptive information about the materials described, usually in the form of text or structured lists. Use the information from your [Collection Description]({{ '/content/processing/collection-description.html' | relative_url }}) document to help fill out fields.
 
