@@ -29,7 +29,7 @@ The following are sections and fields a processor must fill out in order to have
     <a href="#{{ 'Agent Links' | slugify }}" class="btn btn-secondary my-2 mx-1">Agent Links</a>
     <a href="#{{ 'Subjects' | slugify }}" class="btn btn-secondary my-2 mx-1">Subjects</a>
     <a href="#{{ 'Notes' | slugify }}" class="btn btn-secondary my-2 mx-1">Notes</a>
-    <a href="#{{ 'Agent Links' | slugify }}" class="btn btn-secondary my-2 mx-1">Agent Links</a>
+    <a href="#{{ 'Instances' | slugify }}" class="btn btn-secondary my-2 mx-1">Instances</a>    
 </div>
 
 ---
@@ -235,21 +235,56 @@ This section adds additional descriptive information about the materials describ
 To add a note:
 1. Click *Add Note*.
 2. Begin adding Note Types from the dropdown menu. Add as many as you can to provide researchers with as much collection information as possible.
+- To link *webpages*, type: <code class="language-plaintext highlighter-rouge">extref linktype="simple" title="webpage" actuate="onrequest" show="new" href="paste link here">"Paste title here, paste date here."</extref></code>
+
+Below are fields usually filled out by processors.
+
+{:.table .table-bordered}
+| Note Type | Required| Content |
+| --- | ----| ----------------- |
+| Abstract | 2-3 sentence description of the collection. Will serve as the *Summary* section on [Archives West](https://archiveswest.orbiscascade.org/search.php?r=idu). | *Records, pictures, and other miscellaneous papers from the University of Idaho Press.* |
+| Arrangement | Include how the collection has been arranged. | *Born-digital materials were made into a stand-alone series. Original order retained.* |
+| Bibliography | Include a bibliography if outside research done and compiled to complete the Biographical/Historical Note. |
+| Bibliographical / Historical | Include historical context or biographical context about the collection. See [Composing a Collection Description]({{ '/content/processing/collection-description.html' | relative_url }}) to help fill out this field. |
+| Conditions Governing Access | Inform researchers about accessing physical and digital materials. | *Collection is open for research.* |
+| Conditions Governing Use | Identify any restrictions on reproduction due to copyright or other reasons, as well as restrictions on further use of the materials being described, such as publication, after access has been provided. | *Consult Head of Special Collections and Archives on permissions for use.* |
+| Existence and Locations of Copies | Used to distinguish when a duplicate of an item is an access copy made by the Archives. | *The access files of the digital materials in this collection are located on the archive drive. Contact University of Idaho Library Special Collections and Archives for access or questions.* |
+| Existence and Locations of Originals | If the location of originals is known, provide information about the existence, location, and availability. | *The original digital files are located on a floppy disk located within the collection.* |
+| File Plan | Include if there was a file plan during the processing. | 
+| General | Include other information regarding the collection or the processing procedures. | 
+| Immediate Source of Acquisition | Include donor information (i.e. name and date) and/or how the collection came to Spec. | *The materials in this collection were donated by Joe Vandal in 2023.* | 
+| Physical Characteristics and Technical Requirements | Note important physical characteristics of the collection. Note whether there are technology requirements to view certain materials. | *Please note this collection contains electronic pdfs and will require a PDF viewer software.* |
+| Preferred Citation | See [Citations]({{ '/content/practices-procedures/citations.html' | relative_url }}) documentation. Copy into this field. |
+| Processing Information | Include processing information. | *Digital materials were processed by Jane Vandal in 2023.* |
+| Related Materials | If there are other collections with materials relating to important subjects in the collection you are describing, include information about those collections. | *Related materials may be found in* [Photo/Manu/Uni] Group [Number] [Collection Name]. |
+| Scope and Contents | The type of records included in the collection as well as the topics or subjects covered in those records. | *This collection contains photographs and memorabilia kept by Joe Vandal. Joe was a U of I alum and active member of the Vandal community. Much of the material focuses on making a Jane Vandal mascot.* |
+| Separated Materials | Note whether some materials were separated and place into other collections. | *The books in this collection were separated and added to the Day-NW Book Collection held by Special Collections and Archives.* |
+
+---
+### Instances
+
+The Resource Record must be saved before container lists can be added. A container instance is the location of where the collection is housed in archival storage.
+
+To add an instance:
+1. Scroll to **Instances** in Resource Record. Click on *Add Container Instance* (right side of screen).
+2. Under *Type* select the appropriate field that represents what the materials are.
+    - Best practice is to select *Mixed Materials.*
+3. **Top Container** is the Box level. Click the drop down arrow, and select *Create.*
+    - The *Create Top Container* window will pop up. Fill out the **Container Type** and **Indicator.**
+        - from the Container Type dropdown menu, usually select *Box*.
+        - Indicator is a usually a number.
+            - Example: Box (Container Type); 1 (Indicator). It will read in the Resource Record as: Box 1.
+        - Click the blue **Create and Link to Top Container** button.
+4. Select the correct **Child Type** from the dropdown.
+    - If the Top Container is a box, the best practice is to select *Folder* from this list (other forms from these options are acceptable.)
+    - **Child Indicator** is again a numerical value.
+        - Example: Folder (Child Type); 54 (Child Indicator). It will read in the Resource Record as: Folder 54. 
+5. Continue these steps until all container instances in the collection are entered.
+6. Save the Resource.
+7. **Use the [ArchivesSpace Spreadsheet Template]({{ '/content/processing/spreadsheet.html' | relative_url }}) to complete the Series, Sub-Series, and Item level portions of the collection record.**
 
 {% capture text %}
-**NOTE:** To link webpages, type <extref linktype="simple" title="webpage" actuate="onrequest" show="new" href="paste link here">"Samuel H. Hays," Idaho Statesman, undated.</extref>.
+**NOTE:** Small collections can be added manually in ArchiveSpace.
 {% endcapture %}
 
 {% include alert.html text=text color="warning" %}
-
-Below are fields normally filled out by processors.
-
-{:.table .table-bordered}
-| Note Type | Content | Examples |
-| - | -------- | -------- |
-| Abstract | 2-3 sentence description of the collection. Will serve as the *Summary* section on [Archives West](https://archiveswest.orbiscascade.org/search.php?r=idu). | Records of the University of Idaho Press. |
-| Arrangement | Include how the collection has been arranged. | Born-digital materials were made into a stand-alone series. Original order retained. |
-| Bibliography | Include a bibliography if outside research done and compiled to complete the Biographical/Historical Note. |
-| Bibliographical / Historical | Include historical context or biographical context about the collection. See [Composing a Collection Description]({{ '/content/processing/collection-description.html' | relative_url }}) to help fill out this field. |
-| Conditions Governing Access | Inform researchers about accessing physical and digital materials. | Usually type: "Collection is open for research." |
-| Conditions Governing Use | 

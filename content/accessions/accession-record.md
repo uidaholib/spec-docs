@@ -5,7 +5,7 @@ title: Accession Record
 topics: 
 ---
 
-The following is based on the Accessions Manual created by Ashlyn Velte in 2018 and subsequently updated by Amy Thompson in 2019 and 2022. It was again updated in 2023 by Dulce Kersting-Lark and Sara Szobody.
+The following is based on the Accessions Manual created by Ashlyn Velte in 2018 and subsequently updated by Amy Thompson in 2019 and 2022. It was again updated in 2023 by Dulce Kersting-Lark.
 
 ### Log into [ArchivesSpace (AS)](https://uidaho.libraryhost.com/admin)
 - URL: [https://uidaho.libraryhost.com/admin](https://uidaho.libraryhost.com/admin).

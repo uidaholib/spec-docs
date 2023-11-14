@@ -7,6 +7,7 @@ title: ArchivesSpace Spreadsheet
 <div class="text-center mb-2">
     <a href="#{{ 'Physical Collections' | slugify }}" class="btn btn-secondary my-2 mx-1">Physical Collections</a>
     <a href="#{{ 'Born-Digital and Hybrid Collections' | slugify }}" class="btn btn-secondary my-2 mx-1">Born-Digital and Hybrid Collections</a>
+    <a href="#{{ 'Upload to ArchivesSpace' | slugify }}" class="btn btn-secondary my-2 mx-1">Upload to ArchivesSpace</a>
 </div>
 
 ### Physical Collections
@@ -58,6 +59,7 @@ Example 2:
 | Child indicator | Optional | This is the folder number. Folders can be numbered in one of two ways: Every folder has a unique number, starting with 1 and going as high as needed, OR every box starts with folder 1. Whichever you choose, stay consistent through the collection. |
 
 **This is all the basic information needed to create a container list in ArchivesSpace and thus a finding aid in Archives West. If there are digital objects that can be linked to the finding aid, use columns BA and BB. Note that digital object titles cannot have quotation marks.**
+
 
 ---
 ### Born-Digital and Hybrid Collections
