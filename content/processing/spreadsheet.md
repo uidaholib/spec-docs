@@ -108,3 +108,33 @@ Example:
 | Tope Container [indicator] | Yes | Type *Digital*. |
 | Child Type | Optional | Type *Object* |
 | Child indicator | Optional | Copy from the NAME field in DROID, or type file name with extension. | badluck51-01-color.tif |
+
+---
+### Upload to ArchivesSpace
+
+To upload completed spreadsheet:
+- In ArchivesSoace, search for the correct Resource Record and click the **Edit** button (right of the record title and date range) 
+
+{% include figure.html img="edit.jpg" alt="AS resource edit" caption="" width="" %}
+
+- Click **Load Via Spreadsheet**. 
+
+{% include figure.html img="load-via.jpg" alt="loading template" caption="" width="60%" %}
+
+- Click **Select File** and find the spreadsheet you created.
+- Click **Import from Spreadsheet**. A new browser window will pop up as the spreadsheet and information gets loaded in. 
+
+{% include figure.html img="select-file.jpg" alt="selecting file" caption="" width="60%" %}
+
+- Here is where you will see whether the spreadsheet has any errors. If import has no errors, click **Refresh Page** then exit the import browser window. If errors occur, consult a colleague. 
+
+{% include figure.html img="refresh.jpg" alt="refresh the page" caption="" width="60%" %}
+
+- The browse that has the **Load Spreadsheet** window still open. On the right hand side click **Close.** 
+    - The Series, Sub-Series, and Items from the spreadsheet should populate.
+
+{% capture text %}
+**NOTE:** If issues occur, consult colleagues for possible solutions. 
+{% endcapture %}
+
+{% include alert.html text=text color="danger" %}
