@@ -18,6 +18,7 @@ When presented with an opportunity to add new material to our archives, several 
 
 It is acknowledged that adding materials to Spec is a subjective process based upon the best judgment of the people working in the department at the time of donation. Additions of materials more than one cubic foot in volume should generally happen in consultation with the Head of Special Collections and Archives (Head), who reserves the right to make final decisions on acquisitions. In cases involving very large collections, potentially sensitive material, purchasing of material, or the possibility of a financial gift, the Dean of the Library should be included in the decision-making process.  
 
+---
 ## Donations
 
 Items may come to Spec in a variety of ways. The most common occurrence is for materials to be donated. The donor may be the record creator, but often they are a relative, colleague, or collector. Potential gifts are generally preceded by an email, phone call, or in-person visit by the prospective donor. Spec staff or faculty should use the acquisition criteria list above to determine if the donation would be a benefit to the repository. If the answer is no, Spec representatives may offer alternatives locations to the donor for possible archiving (ex: Latah County Historical Society, Museum of North Idaho, etc.). If the answer is yes, the item would be a good candidate for Spec, the donor should fill out a [Deed of Gift form](https://www.lib.uidaho.edu/media/spec/spec_deed_of_gift.pdf). If there are materials that the department feels should not be included in the collection, follow the return or disposal procedures on the Deed of Gift form the donor filled out.
@@ -39,10 +40,12 @@ When discussing born-digital assets, speak with the donor about a basic inventor
 - Returning Scanned Materials:
     - If a donor wishes to have staff scan materials and have physical items returned, still follow the accessioning procedures. As mentioned below, digital materials will undergo the same accessioning and processing procedures. If the digital material accompanies some physical materials, everything should be included in the accession record with a note of what was scanned and returned. 
 
+---
 ## Department Transfers
 
 University records may come to Spec through departmental transfers. In such cases, Spec representatives (and especially the University Archivist) should attempt to communicate with the transferring unit ahead of time to ensure only appropriate materials are moved. Special considerations related to acquiring university archival materials include privacy concerns around personnel records, space constraints and the redundancy of preserving widely published materials, and how the materials relate to the essential work of the university.
 
+---
 ## Purchase
 
 In rare occasions, materials may be acquired through purchase. Such purchases happen at the discretion of the Head and should be based on the same considerations as listed above.  

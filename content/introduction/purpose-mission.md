@@ -14,6 +14,7 @@ As the institutional archives for Idaho’s land grant university, Spec is ideal
 
 Archival collections under the care of Spec have been treated as separate from the library’s general catalogue since at least 1956[^1]. The variety of record formats, non-circulating nature of the material, and unique value of archival items have informed this policy of separation. In recent years the university’s Integrated Library System (ILS) has allowed patrons to search across internal catalogues more easily. Internal workflows, however, remain distinct.   
 
+---
 ## Mission and Vision
 
 Special Collections and Archives relies on the Mission and Vision of the Library to guide its work. The Library's Core Values of community, access and stewardship, and intellectual freedom are evident in the polices adopted by Spec.  
@@ -22,6 +23,7 @@ Special Collections and Archives relies on the Mission and Vision of the Library
 
 - Vision of University of Idaho Library (as of Fall 2022): The University of Idaho Library will develop and expand our capacity and skills to prove our users with the resources, training, and expertise of a world-class research library. We champion the transformative power of ideas and learning, inspire our students to engage in a lifelong pursuit of intellectual development, and provide an essential foundation for innovation, research, and scholarship. 
 
+---
 ### Objectives
 
 - Support discovery by preparing materials and creating access points for researchers 
@@ -29,6 +31,7 @@ Special Collections and Archives relies on the Mission and Vision of the Library
 - Gain intellectual control over materials and identify scope of materials for research 
 - Empower staff members to make decisions about accepting and curating physical, born-digital and hybrid collections
 
+---
 **Footnotes**
 
 [^1]: See “Manual of Policy and Procedure for the Special Collections,” The Library, University of Idaho, Moscow, October 1956. 

@@ -3,15 +3,17 @@ section: Practices and Procedures
 nav_order: 3
 title: Use and Access
 ---
----
+
 The holdings of Spec are maintained and made available for the benefit of university stakeholders and the public. The use of the collections is central to the mission of the department and should be facilitated whenever possible.  
 
+---
 ### Patron Inquiries
 
 The primary use of Spec materials comes in the form of *research inquiries*. Researchers may make a request for information in-person, over the phone, or by email. Researchers who can conduct the review of material themselves should be encouraged to make an appointment in advance. Relevant collections, in full or part, can then be brought to the Reading Room for their study. See [Reading Room Practices]({{ '/content/practices-procedures/reading-room.html' | relative_url }}) for additional relevant information.  
 
 If a researcher cannot visit the institution themselves, the responsibility for responding to research inquiries is shared by all Spec staff and faculty. A member of the department will use physical and digital archival materials, knowledge databases, and colleagues to answer the patron inquiry. Upon completion, the research inquiry should be logged in the [Patron Support Report](https://forms.office.com/pages/responsepage.aspx?id=Y2u8fpJXGUqyCwS4JgSIUxaSEHQ0MBFJmCa2EIVFmhNUQTRRUjJYQktMMFpNUElYQVBTRFNOMjA5Ry4u) for future reference.  
 
+---
 ### Research and Reproductions
 
 In most cases, the Spec representative should not spend more than an hour working on a single inquiry. If an inquiry may take more than one hour to complete, and the representative has time available, they should communicate any expected charges to the patron. A **research fee** of *$25.00* per half hour will be charged for research conducted by Spec representatives beyond the first hour. This fee is due regardless of whether the desired information is located. Spec staff can use the [Research/Reproduction Fee](https://marketplace.uidaho.edu/C20272_ustores/web/store_main.jsp?STOREID=188) located on the University of Idaho Marketplace. 
@@ -30,6 +32,7 @@ Spec representatives retain the right to *refuse* any individual research or rep
 
 Based upon advice from University of Idaho General Counsel in Summer 2022, Spec should not assess use fees on materials provided to researchers.  
 
+---
 ### Access to Born-Digital Materials
 
 The Archive drive is a separate storage network created to houses born-digital and hybrid accessions and processed collections. Write access is given to the department's Digital Archivist and other members of the staff dependent on needs. Read-Only access can be accessed by the entire department after appropriate network mapping. Please view the Access Archive Drive directions for steps on how to map the storage network to your computer.  
@@ -43,6 +46,7 @@ Some questions staff members should ask to help navigate the decision of making 
 2. What is the priority rating? 
 3. How will this collection serve our patrons?
 
+---
 ### Internal Use
 
 Collection materials are used internally by Spec faculty and staff, as well as others within the Library, to create **physical exhibits, interpretive essays, public education programs, and digital online collections.** When planning for such projects, consideration should be given to the physical care and preservation of materials. Ideas may be generated internally by department employees or come from external requests.  

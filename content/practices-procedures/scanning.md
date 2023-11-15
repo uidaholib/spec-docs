@@ -5,9 +5,15 @@ title: Scanning
 ---
 ---
 
-Spec scans archival materials for patron inquiries, inter-departmental requests, and other digitization projects such as digital collections. Documentation and instruction for scanning can be found on the University of Idaho Library Digital Collections Documentation site: 
+Spec scans archival materials for patron inquiries, inter-departmental requests, and other digitization projects such as digital collections. 
 
-When transferring files to patrons that are too large to send via email, use the *free* file transfer site [WeTransfer](https://wetransfer.com/). Creating a free account is *not* required.
+{% capture text %}
+**NOTE:** When transferring files to patrons that are too large to send via email, use the *free* file transfer site [WeTransfer](https://wetransfer.com/). Creating a free account is *not* required.
+{% endcapture %}
+
+{% include alert.html text=text color="info" %}
+
+Documentation and instruction for scanning can be found on the University of Idaho Library Digital Collections Documentation site: 
 
 **Scanning**
 1. [Intro to Scanning](https://uidaholib.github.io/digital-collections-docs/content/scanning/01-scanning-intro.html)

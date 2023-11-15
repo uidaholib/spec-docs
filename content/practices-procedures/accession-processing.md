@@ -18,6 +18,7 @@ The following is a summary of steps which make up the accessioning process:
 6. Print **Accession Report** from AS and place in appropriate accession binder along with the Deed of Gift and/or any relevant communications. 
 7. Work with department Head to ensure that a *thank-you* note is sent to the donor, when applicable (found in SharePoint). 
 
+---
 ### Processing Procedures
 
 Accessioned materials are made more useful and accessible through processing. Even a minimal level of processing should be the goal for all collections. While some collections may warrant a very thorough processing, box or folder-level descriptions should suffice in most instances. The level of detail should be determined by the complexity or variety of materials, the size of the collection, and a professional assessment of the collection's importance. This is a subjective process. For a step-by-step guide, see *insert link to processing*.  
@@ -42,6 +43,7 @@ The following is a summary of steps which should be used to process a collection
 6. Upload record to ArchivesWest using AW Tools Site 
 7. Shelve in final location and make note of location in AS
 
+---
 ### Digital Assets
 *The following framework was adapted from the [University of Buffalo Libraries Special Collections](https://research.lib.buffalo.edu/digitalpreservation/processing).*
 
@@ -85,10 +87,13 @@ Like physical collections, digital assets transferred or gifted to the departmen
 {% endcapture %}
 {% include card.html header="Complete procedures in ArchiveSpace:" text=text %}
 
-{% capture text %}PlEASE NOTE: 
-Some accessions with digital assets have already been ingested via FRED. The full list is located here: Collections with Digital Materials. If a staff member is processing an accession and comes across a type of digital item, check against the list to determine whether ingesting is the next step. If a collection has been fully processed and digital materials had been previously ingested, be sure to change the accession number to the processed collection ID.{% endcapture %}
-{% include alert.html text=text color=secondary %}
+{% capture text %}
+**NOTE:** Some accessions with digital assets have already been ingested via FRED. The full list is located here: Collections with Digital Materials. If a staff member is processing an accession and comes across a type of digital item, check against the list to determine whether ingesting is the next step. If a collection has been fully processed and digital materials had been previously ingested, be sure to change the accession number to the processed collection ID.
+{% endcapture %}
 
+{% include alert.html text=text color="info" %}
+
+---
 **Footnotes**
 
 [^1]: “The groups of records selected for holdings maintenance projects are chosen after weighing a variety of archival considerations, including intrinsic value, condition, and anticipated use of the records. In some instances it may be appropriate to do no more than rebox, or refolder and rebox a records series; in other cases, it will be appropriate to carry out the complete range of holdings maintenance actions.” (p. 3); “Boxes that are physically damaged (exhibiting such characteristics as broken hinges or missing flaps) and no longer capable of supporting or protecting archival records adequately should be replaced with new storage containers. Boxes of unknown or suspect quality should be tested for pH level and alkaline reserve, to determine whether they should be replaced with new acid-free or low-lignin boxes.” (p. 4); “Folders that are physically damaged and no longer capable of protecting or supporting archival records should be replaced. Folders of unknown or suspect quality should be tested for the pH level and alkaline reserve, to determine whether they should be replaced with new folders.” (p. 4-5). Mary Lynn Ritzenthaler, Preservation of Archival Records: Holdings Maintenance at the National Archives, Technical Information Paper No. 6 (Washington, D.C.: National Archives and Records Administration, 1990).  
