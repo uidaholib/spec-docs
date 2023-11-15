@@ -16,6 +16,7 @@ Fill out the [Box Template](https://vandalsuidaho.sharepoint.com/:w:/r/sites/Sto
 
 Before printing, be sure to find the label paper (next to the small grey HP printer). Place a piece in the paper feeder, not a tray. After that, feel free to print. Place the labels on the appropriate box.
 
+---
 ### Shelving Materials
 
 Consult with colleagues, if needed, about where an appropriate place is to house the collection. Make note of the row, section, and shelf each box is on.  
