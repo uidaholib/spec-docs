@@ -3,7 +3,7 @@ section: Practices and Procedures
 nav_order: 7
 title: Offensive Material Practices
 ---
-
+---
 Archival collections can contain language and materials from history that reference beliefs, norms, and values that are no longer (or never were) consistent with those of the University of Idaho. Spec works to describe collections in an inclusive way that is respectful to the communities they represent (created by, created for, created about) and warn users about collections containing materials that may be offensive. This is done by: 
 - Flagging discriminatory or offensive content included by creators 
 - Removing or changing discriminatory language used by previous archivists in describing collections 

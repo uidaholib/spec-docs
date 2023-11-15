@@ -4,7 +4,7 @@ nav_order: 2
 title: Deaccessioning Practices
 topics: 
 ---
-
+---
 Every effort should be made to review donations and remove unneeded or inappropriate items before accessioning. Should an accessioned collection prove to contain materials later deemed to fall outside of retention guidelines, staff may choose to deaccession items. The department Head should be consulted in such an event.  
 
 {% capture text %}

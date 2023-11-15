@@ -4,7 +4,7 @@ nav_order: 2
 title: Accession and Processing Procedures
 topics: 
 ---
-
+---
 ### Accession Procedures
 
 If materials are deemed appropriate for inclusion in Spec, they will be accessioned. Manuscript, university, or photograph collections that have been accessioned will be noted with an identifying number beginning with **MA** or **UA**. For a step-by-step guide to accessioning, see the [Accession Manual]({{ '/content/accessions/rehouse.html' | relative_url }}).

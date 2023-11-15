@@ -3,7 +3,7 @@ section: Practices and Procedures
 nav_order: 4
 title: Copyright Practices
 ---
-
+---
 The issue of copyright ownership is frequently raised in the course of normal use of collection materials. The vast majority of content in the archives was not produced by Spec and therefore original copyright does not lie with the department. In limited cases copyrights may have been formally transferred to Spec by the donor. Additionally, some material may not reside in the public domain based upon its age. In all cases, Spec representatives should proceed cautiously when a patron asks for rights to reproduce materials for any purpose other than those listed under the fair use clause of copyright law3. Patrons should be instructed that it is their personal responsibility to locate the copyright owner and secure permissions to reproduce any materials gathered from Spec in the course of their research.  
 
 For materials originally produced by the University of Idaho or an employee in the course of their work, a formal request for approval to reproduce should be submitted through the [Office of Technology Transfer](https://www.uidaho.edu/research/ott).  

@@ -3,7 +3,7 @@ section_id: Introduction
 nav_order: 1
 title: Purpose and Mission
 ---
-
+---
 ## General Statement of Purpose
 
 Special Collections and Archives (Spec) is a distinct unit within the University of Idaho Library and has been for many decades. Beginning in the early 20th century, university librarians recognized the need for concentrated care and curation of rare, unique, and locally significant material. Nearly 100 years of collecting history are represented in the university’s archives.  
