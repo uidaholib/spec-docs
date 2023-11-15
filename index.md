@@ -26,12 +26,4 @@ layout: lesson-content
     </div>
 </div>
 
-<hr>
-
-<div class="container text-center px-5 py-3 welcome-text">
-    <h3>Welcome</h3>
-
-    <p>This site contains practice and procedure documentation for the University of Idaho (U of I) Library <a href="https://www.lib.uidaho.edu/special-collections/" target="_blank" rel="noopener">Special Collections and Archives</a> (Spec). To learn more about Spec check our <a href="{{ '/content/introduction/purpose-mission.html' | relative_url }}" target="_blank" rel="noopener">Purpose and Mission</a>.</p>
-</div>
-
 {% include template/credits.html %}
