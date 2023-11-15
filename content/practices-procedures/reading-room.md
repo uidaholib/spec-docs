@@ -3,7 +3,7 @@ section: Practices and Procedures
 nav_order: 5
 title: Reading Room Practices
 ---
-
+---
 Materials must be handled with extreme care to ensure their preservation. Turn pages carefully, make no marks on the materials, rest no books or other objects on the face or surface of items used. Restrictions may be set to protect fragile or damaged materials. 
 
 1. All personal items (backpacks, coats, purses, books, and other personal articles) should be kept near the patron's seat and out of the path of others in the room. Storage space is available in the cubbies along the side of the room. 
