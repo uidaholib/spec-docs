@@ -1,6 +1,6 @@
 ---
 section: Processing Manual
-nav_order: 6
+nav_order: 7
 title: Labeling and Shelving
 ---
 ---
