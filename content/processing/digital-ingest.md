@@ -3,7 +3,7 @@ section: Processing Manual
 nav_order: 2
 title: Digital Material Ingest
 ---
-
+---
 *If a staff member has come across digital storage media, follow these steps to migrate the digital materials into the Archive Drive.*
 
 #### STEP 1: 

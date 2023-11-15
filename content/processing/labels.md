@@ -3,7 +3,7 @@ section: Processing Manual
 nav_order: 6
 title: Labeling and Shelving
 ---
-
+---
 ### Labeling Boxes
 
 Fill out the [Box Template](https://vandalsuidaho.sharepoint.com/:w:/r/sites/Storage-Library/Documents/spec/Collections/Accessions/Box_Label_template.docx?d=we3ba908310825c1ea33bb3e6196f877f&csf=1&web=1&e=rM2Mxc) with the collection ID, title, date range, and the box number. For collections that have more than one box, make sure to put “Box 1 of” and then whatever the final box total is. 

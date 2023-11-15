@@ -3,7 +3,7 @@ section: Processing Manual
 nav_order: 3
 title: ArchivesSpace Spreadsheet
 ---
-
+---
 <div class="text-center mb-2">
     <a href="#{{ 'Physical Collections' | slugify }}" class="btn btn-secondary my-2 mx-1">Physical Collections</a>
     <a href="#{{ 'Born-Digital and Hybrid Collections' | slugify }}" class="btn btn-secondary my-2 mx-1">Born-Digital and Hybrid Collections</a>

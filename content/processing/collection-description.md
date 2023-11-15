@@ -4,7 +4,7 @@ nav_order: 4
 title: Composing a Collection Description
 topics: 
 ---
-
+---
 *This manual is based on documentation created by Amy Thompson on how to create resource records in ArchivesSpace. It was updated in 2023 to reflect the most current departmental practices.*
 
 Begin by reviewing that all steps of the **[Accession Manual]({{ '/content/accessions/rehouse.html' | relative_url }})** are complete. This is especially important for donations that came in before 2017, when ArchivesSpace was adopted. 

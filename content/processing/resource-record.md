@@ -3,7 +3,7 @@ section: Processing Manual
 nav_order: 5
 title: Resource Record
 ---
-
+---
 The following are sections and fields a processor must fill out in order to have a complete Resource Record in ArchivesSpace. Use the information from your [Collection Description]({{ '/content/processing/collection-description.html' | relative_url }}) document to help fill out fields.
 
 ### Log into [ArchivesSpace (AS)](https://uidaho.libraryhost.com/admin) & Create a Resource Record
