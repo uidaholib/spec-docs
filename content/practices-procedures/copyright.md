@@ -4,7 +4,7 @@ nav_order: 4
 title: Copyright Practices
 ---
 ---
-The issue of copyright ownership is frequently raised in the course of normal use of collection materials. The vast majority of content in the archives was not produced by Spec and therefore original copyright does not lie with the department. In limited cases copyrights may have been formally transferred to Spec by the donor. Additionally, some material may not reside in the public domain based upon its age. In all cases, Spec representatives should proceed cautiously when a patron asks for rights to reproduce materials for any purpose other than those listed under the fair use clause of copyright law3. Patrons should be instructed that it is their personal responsibility to locate the copyright owner and secure permissions to reproduce any materials gathered from Spec in the course of their research.  
+The issue of copyright ownership is frequently raised in the course of normal use of collection materials. The vast majority of content in the archives was not produced by Spec and therefore original copyright does not lie with the department. In limited cases copyrights may have been formally transferred to Spec by the donor. Additionally, some material may not reside in the public domain based upon its age. In all cases, Spec representatives should proceed cautiously when a patron asks for rights to reproduce materials for any purpose other than those listed under the fair use clause of copyright law[^1]. Patrons should be instructed that it is their personal responsibility to locate the copyright owner and secure permissions to reproduce any materials gathered from Spec in the course of their research.  
 
 For materials originally produced by the University of Idaho or an employee in the course of their work, a formal request for approval to reproduce should be submitted through the [Office of Technology Transfer](https://www.uidaho.edu/research/ott).  
 
@@ -122,3 +122,8 @@ The legal exception of Fair Use under copyright law allows for the reproduction 
     </table>
   </div>
 </div>
+
+---
+**Footnotes**
+
+[^1]: “Fair use is a legal doctrine that promotes freedom of expression by permitting the unlicensed use of copyright-protected works in certain circumstances. [Section 107 of the Copyright Act](https://www.copyright.gov/title17/92chap1.html#107) provides the statutory framework for determining whether something is a fair use and identifies certain types of uses—such as criticism, comment, news reporting, teaching, scholarship, and research—as examples of activities that may qualify as fair use.” Sourced from [https://www.copyright.gov/fair-use/](https://www.copyright.gov/fair-use/) on Sep. 29, 2022.  
