@@ -39,6 +39,13 @@ When these situations occur, first check the publication title against the Libra
 **If the publication *is* already found in Spec, but the it is number _____ out of ____, consult the Head of the department.**
  - Example: *The Vandal Jungle* by Jane Vandal was donated and only 100 were ever published. Spec already has one in the stacks and it is #65. The one that was donated is #3. Keep both copies.
 
-
-
+---
 ### Maps
+
+Various Spec collections contain maps. They can be found in the book collections as well as Manuscript and University collections. However, the Library also has a [Map Collection](https://www.lib.uidaho.edu/find/maps/) which is located on the 1st floor in the Data Hub. 
+
+**If a found map does *not* fit within Spec's [Scope of Collections]({{ '/content/introduction/scope.html' | relative_url }}):**
+1. Check the collection's **Retention Rule** in Accession Record and Deed of Gift form.
+    - If marked to be sent back to donor, contact them.
+    - If marked to discard:
+        - Contact the Library's Associate Dean for Operations and Access. They may want to add it to the [Map Collection](https://www.lib.uidaho.edu/find/maps/). Let them know to discard if not chosen to be added.
