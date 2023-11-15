@@ -36,7 +36,9 @@ When these situations occur, first check the publication title against the Libra
         - Erase barcode and call number information from book being swapped out.
         - Discard unsigned copy.
 
-**If the publication *is* already found in Spec, but the it is number ---- out of -----, consult Head of the department.**
- - Example: *The Vandal Jungle* by Jane Vandal was donated. 
+**If the publication *is* already found in Spec, but the it is number _____ out of ____, consult the Head of the department.**
+ - Example: *The Vandal Jungle* by Jane Vandal was donated and only 100 were ever published. Spec already has one in the stacks and it is #65. The one that was donated is #3. Keep both copies.
+
+
 
 ### Maps
