@@ -4,7 +4,7 @@ nav_order: 5
 title: Material Locations
 ---
 
-Its hard to remember everything, so this is a list of tips and tricks that will help you locate materials, answer patrons inquiries, and aid in general archival procedures.
+Its hard to remember where everything is, so this is a list of materials which may not have clear locations.
 
 ### Cage 1
 ---
@@ -20,6 +20,20 @@ Its hard to remember everything, so this is a list of tips and tricks that will 
 - Small UAs and MAs, Row 94
 - Gem of the Mountain Yearbooks and Bulletins, Row 142
 - Book Collections and Maps, see [Book Collections]({{ '/content/tips-tricks/books.html' | relative_url }}) page
+
+### Book Collection Area
+---
+- See [Book Collections]({{ '/content/tips-tricks/books.html' | relative_url }}) page
+
+### Small Manuscripts Area
+---
+- Area after Book Collections and before Cage 1
+
+### International Jazz Collection (IJC Area)
+---
+- Area after Book Collections and Small Manuscripts Area, before Cage 1
+- Houses jazz collections and the IJC Book Collection
+- Idaho Vertical Files are parallel to shelves
 
 ### Cage 2
 ---
