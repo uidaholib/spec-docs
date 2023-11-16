@@ -39,6 +39,17 @@ When these situations occur, first check the publication title against the Libra
 **If the publication *is* already found in Spec, but the it is number _____ out of ____, consult the Head of the department.**
  - Example: *The Vandal Jungle* by Jane Vandal was donated and only 100 were ever published. Spec already has one in the stacks and it is #65. The one that was donated is #3. Keep both copies.
 
+**Periodicals**
+- If there are periodicals that *do not* have a white, acid-free bookmark with a barcode and call number written on it then:
+    - Log into [Alma](https://alliance-uidaho.alma.exlibrisgroup.com/ng/)
+        - Contact the Library's Associate Dean for Operations and Access for account setup.
+    - Search for the periodical by title
+    - Once the correct publication is found, check that the added volume or issue is in the system.
+        - If in the system, write the call number somewhere on the cover or inside page **in pencil**.
+            - Then shelve.
+        - If *not* in the system, contact a cataloger.
+- If materials have a bookmark with barcode and call number, shelve in appropriate book collection area.
+
 ---
 ### Maps
 
