@@ -24,6 +24,7 @@ Its hard to remember where everything is, so this is a list of materials which m
 ### Book Collection Area
 ---
 - See [Book Collections]({{ '/content/tips-tricks/books.html' | relative_url }}) page
+- Some U of I Vertical Files located in this area.
 
 ### Small Manuscripts Area
 ---
