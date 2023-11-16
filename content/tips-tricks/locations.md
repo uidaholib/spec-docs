@@ -19,21 +19,7 @@ Its hard to remember everything, so this is a list of tips and tricks that will 
 - U of I Personnel Vertical File, Row 94
 - Small UAs and MAs, Row 94
 - Gem of the Mountain Yearbooks and Bulletins, Row 142
-- Book Collections and Maps
-    - Thesis and Dissertations, Row 55
-        - Thesis Music/Oversized, Row 139
-    - Twain, Row 37
-    - Pound, Row 29
-    - Caxton, Row 64
-    - Stonewall, Row 65
-    - Non-Idaho Business and City Directories, Row 53
-    - Idaho Business and City Directories, Row 54
-    - Naskali, Row 65
-    - Day 2 Oversized, Rows 24-28
-    - Sanborn Maps, Row 139
-    - Curtis Plates, Row 139
-    - Individual Newspaper issues, Row 139
-
+- Book Collections and Maps, see [Book Collections]({{ '/content/tips-tricks/books.html' | relative_url }}) page
 
 ### Cage 2
 ---
