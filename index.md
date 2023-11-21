@@ -15,6 +15,7 @@ layout: lesson-content
     </div>
     <div class="col-md-3">
         <h2 class="py-2">Accession Manual</h2>
+        <a class="btn btn-outline-success m-1" href="https://uidaho.libraryhost.com/admin">ArchivesSpace Login</a>
         <a class="btn btn-outline-success m-1" href="{{ '/content/accessions/rehouse.html' | relative_url }}">Rehousing Materials</a>
         <a class="btn btn-outline-success m-1" href="{{ '/content/accessions/accession-record.html' | relative_url }}">Accession Record</a>
     </div>
