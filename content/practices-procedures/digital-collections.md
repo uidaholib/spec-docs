@@ -13,7 +13,7 @@ Archival digitization can sometimes turn into a larger project such as creating 
 
 {% include alert.html text=text color="danger" %}
 
-Before creating a digital collection, consult the Digital Collections Team (DCT). Digital Collection metadata and creation documentation can be found on the University of Idaho Library Digital Collections Documentation site:
+Before creating a digital collection, consult the Digital Collections Team (DCT). Digital Collection metadata and creation documentation can be found on the University of Idaho Library [Digital Collections Team documentation site](https://uidaholib.github.io/digital-collections-docs/content/dc-team.html):
 
 **Metadata**
 1. [What is Metadata?](https://uidaholib.github.io/digital-collections-docs/content/metadata/01-what-is-metadata.html)

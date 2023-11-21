@@ -13,7 +13,7 @@ Spec scans archival materials for patron inquiries, inter-departmental requests,
 
 {% include alert.html text=text color="info" %}
 
-Documentation and instruction for scanning can be found on the University of Idaho Library Digital Collections Documentation site: 
+Documentation and instruction for scanning can be found on the University of Idaho Library [Digital Collections Team documentation site](https://uidaholib.github.io/digital-collections-docs/content/dc-team.html): 
 
 **Scanning**
 1. [Intro to Scanning](https://uidaholib.github.io/digital-collections-docs/content/scanning/01-scanning-intro.html)
