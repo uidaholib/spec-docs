@@ -10,7 +10,7 @@ layout: lesson-content
         <a class="btn btn-outline-primary m-1" href="{{ '/content/practices-procedures/access.html' | relative_url }}">Use and Access</a>
         <a class="btn btn-outline-primary m-1" href="{{ '/content/practices-procedures/copyright.html' | relative_url }}">Copyright Practices</a>
         <a class="btn btn-outline-primary m-1" href="{{ '/content/practices-procedures/scanning.html' | relative_url }}">Scanning</a>
-        <a class="btn btn-outline-primary m-1" href="{{ 'https://forms.office.com/pages/responsepage.aspx?id=Y2u8fpJXGUqyCwS4JgSIUxaSEHQ0MBFJmCa2EIVFmhNUQTRRUjJYQktMMFpNUElYQVBTRFNOMjA5Ry4u' | relative_url }}">Patron Support Report</a>
+        <a class="btn btn-outline-primary m-1" href="https://forms.office.com/pages/responsepage.aspx?id=Y2u8fpJXGUqyCwS4JgSIUxaSEHQ0MBFJmCa2EIVFmhNUQTRRUjJYQktMMFpNUElYQVBTRFNOMjA5Ry4u">Patron Support Report</a>
         <a class="btn btn-outline-primary m-1" href="{{ '/content/practices-procedures/harvester.html' | relative_url }}">Harvester Blog</a>
     </div>
     <div class="col-md-3">
