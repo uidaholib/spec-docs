@@ -26,7 +26,7 @@ There are *2* Barnard-Stockbridge photograph collections and *3* places prints/n
 ### Deteriorating Negatives
 Cellulose nitrate film is highly flammable. "Unfortunately, nitrate film is a severe fire safety hazard. Once burning, a nitrate film fire is very difficult to extinguish. Such fires release numerous toxic gases. Even when not on fire, deteriorating nitrate film is hazardous. As it breaks down, nitrate releases noxious gases that can be dangerous to both people and other collections" (National Park Service).
 
-For photographs that have begun to **vinegar**, check to see if digitization has already occurred. If that steps hasn't taken place, scan the material and save in the Archive drive. Then place in the freezer just outside Spec's Processing room.
+For photographs that have begun to **vinegar**, check to see if digitization has already occurred. If that steps hasn't taken place, scan the material and save in the Archive drive. Then place in the freezer just outside Spec's Processing room. Be sure to note the box's new location in the ArchivesSpace record.
 
 When disposing, contact U of I's [Hazardous Waste Management department](https://www.uidaho.edu/dfa/division-operations/ehs/programs/hazmat/management).
 
