@@ -23,15 +23,18 @@ There are *2* Barnard-Stockbridge photograph collections and *3* places prints/n
 - Copy negatives could live in the book storage area (Row 37)
 
 ---
-### Deteriorating Negatives
-Cellulose nitrate film is highly flammable. "Unfortunately, nitrate film is a severe fire safety hazard. Once burning, a nitrate film fire is very difficult to extinguish. Such fires release numerous toxic gases. Even when not on fire, deteriorating nitrate film is hazardous. As it breaks down, nitrate releases noxious gases that can be dangerous to both people and other collections" (National Park Service).
+### Deteriorating Film
+*Cellulose nitrate film* is highly flammable. "Unfortunately, nitrate film is a severe fire safety hazard. Once burning, a nitrate film fire is very difficult to extinguish. Such fires release numerous toxic gases. Even when not on fire, deteriorating nitrate film is hazardous. As it breaks down, nitrate releases noxious gases that can be dangerous to both people and other collections" (National Park Service).
+
+**Vinegar Syndrome** is often what happens to *cellulose acetate film* as it deteriorates. Materials which begin to have a vinegar smell will eventually experience shrinkage, embrittlement, and buckling of the gelatin emulsion. "Storage in warm and humid conditions greatly accelerates the onset of decay. Once it begins in earnest, the remaining life of the film is short because the process speeds up as it goes along. Early diagnosis and cold, moderately dry storage are the most effective defense" (National Film Preservation Foundation).
 
 For photographs that have begun to **vinegar**, check to see if digitization has already occurred. If that steps hasn't taken place, scan the material and save in the Archive drive. Then place in the freezer just outside Spec's Processing room. Be sure to note the box's new location in the ArchivesSpace record.
 
-When disposing, contact U of I's [Hazardous Waste Management department](https://www.uidaho.edu/dfa/division-operations/ehs/programs/hazmat/management).
+When disposing of deteriorating film, contact U of I's [Hazardous Waste Management department](https://www.uidaho.edu/dfa/division-operations/ehs/programs/hazmat/management).
 
 **Resources**
 
 1. National Park Service, Conserve O Gram, [Caring for Cellulose Nitrate Film [PDF: 249 KB / 4 pp.]](https://www.nps.gov/museum/publications/conserveogram/14-08.pdf)
-2. National Park Service, Conserve O Gram, [Disposal Of Cellulose Nitrate Film [PDF: 240 KB / 4 pp.]](https://www.nps.gov/museum/publications/conserveogram/02-22.pdf).
+2. National Park Service, Conserve O Gram, [Disposal Of Cellulose Nitrate Film [PDF: 240 KB / 4 pp.]](https://www.nps.gov/museum/publications/conserveogram/02-22.pdf)
 3. Library of Congress, [Care, Handling, and Storage of Motion Picture Film](https://www.loc.gov/preservation/care/film.html#Handling)
+4. National Film Preservation Foundation, [Vinegar Syndrome](https://www.filmpreservation.org/preservation-basics/vinegar-syndrome)
