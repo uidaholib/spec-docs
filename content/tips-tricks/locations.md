@@ -6,6 +6,8 @@ title: Material Locations
 
 Its hard to remember where everything is, so this is a list of materials which may not have clear locations.
 
+{% include figure.html img="basement.jpg" alt="lcsh name result" caption="" width="40%" %}
+
 ### Cage 1
 ---
 - UGs start at Row 1
