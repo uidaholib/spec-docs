@@ -22,6 +22,7 @@ Its hard to remember where everything is, so this is a list of materials which m
 - Small UAs and MAs, Row 94
 - Gem of the Mountain Yearbooks and Bulletins, Row 142
 - Book Collections and Maps, see [Book Collections]({{ '/content/tips-tricks/books.html' | relative_url }}) page
+- Supplies (i.e. folders, boxes, film sleeves, etc), Pillars 6 and 7
 
 ### Book Collection Area
 ---
