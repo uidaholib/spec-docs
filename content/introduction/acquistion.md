@@ -28,6 +28,12 @@ Items may come to Spec in a variety of ways. The most common occurrence is for m
 
 It is important to have a clear understanding of any restrictions to access proposed by the donor. Donors may request that materials remain sealed for a set amount of time or have other requirements for who can access the materials. The Head will ultimately determine if that restriction request is feasible for the department to accommodate.  
 
+Mailing address:
+Special Collections and Archives
+University of Idaho Library
+875 Perimeter Drive, MS 2351
+Moscow, ID 83844-2351
+
 **Digital Materials**
 
 When discussing born-digital assets, speak with the donor about a basic inventory. This will help when understanding the scope of the materials and how they fit within the archives. Be sure to use virus scans and other technologies to view and access the files (i.e. FRED) to protect against viruses or corrupted material. 
