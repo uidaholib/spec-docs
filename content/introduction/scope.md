@@ -59,7 +59,7 @@ Spec has been collecting Rare Books for many decades. It consists of those books
 4. *President's Collection (Pres Col)*
 - This small collection is any published item that was donated to and inscribed to a university president, that the president’s office has decided should be kept. 
 5. *Spec*
-- Rare books: first editions, incunabula, limited editions/printings.
+- Rare books: first editions, artist books, incunabula, limited editions/printings.
 6. *Day2*
 - A collection of English classics, noted for their fine bindings, also donated by Jerome J. Day.
 7. *IJC*
