@@ -244,7 +244,7 @@ Below are fields usually filled out by processors.
 | --- | ----| ----------------- |
 | Abstract | 2-3 sentence description of the collection. Will serve as the *Summary* section on [Archives West](https://archiveswest.orbiscascade.org/search.php?r=idu). | *Records, pictures, and other miscellaneous papers from the University of Idaho Press.* |
 | Arrangement | Include how the collection has been arranged. | *Born-digital materials were made into a stand-alone series. Original order retained.* |
-| Bibliography | Include a bibliography if outside research done and compiled to complete the Biographical/Historical Note. |
+| Bibliography | Include a bibliography if outside research done and compiled to complete the Biographical/Historical Note. To include a clickable link, see [Clickable Links in AS & AW]({{ '/content/tips-tricks/links-as-aw.html' | relative_url }}). |
 | Bibliographical / Historical | Include historical context or biographical context about the collection. See [Composing a Collection Description]({{ '/content/processing/collection-description.html' | relative_url }}) to help fill out this field. |
 | Conditions Governing Access | Inform researchers about accessing physical and digital materials. | *Collection is open for research.* |
 | Conditions Governing Use | Identify any restrictions on reproduction due to copyright or other reasons, as well as restrictions on further use of the materials being described, such as publication, after access has been provided. | *Consult Head of Special Collections and Archives on permissions for use.* |
