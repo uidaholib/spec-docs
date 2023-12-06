@@ -112,8 +112,8 @@ Example:
 ---
 ### Upload to ArchivesSpace
 
-To upload completed spreadsheet:
-- In ArchivesSoace, search for the correct Resource Record and click the **Edit** button (right of the record title and date range) 
+To upload a completed spreadsheet:
+- In ArchivesSpace, search for the correct Resource Record and click the **Edit** button (right of the record title and date range) 
 
 {% include figure.html img="edit.jpg" alt="AS resource edit" caption="" width="" %}
 
