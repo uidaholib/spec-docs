@@ -243,7 +243,7 @@ Below are fields usually filled out by processors.
 | Note Type | Required| Content |
 | --- | ----| ----------------- |
 | Abstract | 2-3 sentence description of the collection. Will serve as the *Summary* section on [Archives West](https://archiveswest.orbiscascade.org/search.php?r=idu). | *Records, pictures, and other miscellaneous papers from the University of Idaho Press.* |
-| Arrangement | Include how the collection has been arranged. | *Born-digital materials were made into a stand-alone series. Original order retained.* |
+| Arrangement | Include whether the collection has retained its original order, or if there was archivist intervention.| *Original order retained.* OR *The original order of this born-digital collection was retained during ingestion. During the processing stage archivists reorganized folders and filenames in order to allow easier integrated into a single system of arrangement.* |
 | Bibliography | Include a bibliography if outside research done and compiled to complete the Biographical/Historical Note. To include a clickable link, see [Clickable Links in AS & AW]({{ '/content/tips-tricks/links-as-aw.html' | relative_url }}). |
 | Bibliographical / Historical | Include historical context or biographical context about the collection. See [Composing a Collection Description]({{ '/content/processing/collection-description.html' | relative_url }}) to help fill out this field. |
 | Conditions Governing Access | Inform researchers about accessing physical and digital materials. | *Collection is open for research.* |
