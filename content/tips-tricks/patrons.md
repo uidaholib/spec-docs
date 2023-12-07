@@ -13,3 +13,9 @@ Then there are times when a patron has a very broad topic and doesn't quite know
 2. [How-To Search the Library Catalog](https://vandalsuidaho.sharepoint.com/:b:/r/sites/Storage-Library/Documents/spec/Policies%20and%20Procedures/How-To%20for%20Patrons/How-To%20Search%20Library%20Catalog.pdf?csf=1&web=1&e=kl20Ys)
 3. [How-To Search HistPhoto](https://vandalsuidaho.sharepoint.com/:b:/r/sites/Storage-Library/Documents/spec/Policies%20and%20Procedures/How-To%20for%20Patrons/How-To%20Search%20HistPhoto.pdf?csf=1&web=1&e=4oftST)
 4. [How-To Search for Theses and Dissertations](https://vandalsuidaho.sharepoint.com/:b:/r/sites/Storage-Library/Documents/spec/Policies%20and%20Procedures/How-To%20for%20Patrons/How-To%20Search%20For%20Theses.pdf?csf=1&web=1&e=7fozps)
+
+When prompted to find a **digital assets**, see whether the finding aid record includes the file names. Look for these in the Archive drive. Ask colleagues for help if issues arise.
+
+Example:
+
+{% include figure.html img="digital-files.jpg" alt="finding aid with digital file name included" caption="" width="" %}
