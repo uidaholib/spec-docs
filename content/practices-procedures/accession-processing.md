@@ -4,7 +4,13 @@ nav_order: 2
 title: Accession and Processing Procedures
 topics: 
 ---
+<div class="text-center mb-2">
+    <a href="#{{ 'Accession Procedures' | slugify }}" class="btn btn-secondary my-2 mx-1">Accession Procedures</a>
+    <a href="#{{ 'Processing Procedures' | slugify }}" class="btn btn-secondary my-2 mx-1">Processing Procedures</a>
+    <a href="#{{ 'Born-Digital Processing' | slugify }}" class="btn btn-secondary my-2 mx-1">Born Digital Processing</a>
+</div>
 ---
+
 ### Accession Procedures
 
 If materials are deemed appropriate for inclusion in Spec, they will be accessioned. Manuscript, university, or photograph collections that have been accessioned will be noted with an identifying number beginning with **MA** or **UA**. For a step-by-step guide to accessioning, see the [Accession Manual]({{ '/content/accessions/rehouse.html' | relative_url }}).
@@ -44,10 +50,10 @@ The following is a summary of steps which should be used to process a collection
 7. Shelve in final location and make note of location in AS
 
 ---
-### Digital Assets
-*The following framework was adapted from the [University of Buffalo Libraries Special Collections](https://research.lib.buffalo.edu/digitalpreservation/processing).*
+### Born-Digital Processing
+*The following framework was largely adapted from the [University of Buffalo Libraries Special Collections](https://research.lib.buffalo.edu/digitalpreservation/processing)[^2], Yale Library's [Born Digital Archival Description Guidelines](https://guides.library.yale.edu/c.php?g=934566&p=6736587)[^3], and University of California's [Guidelines for Born-Digital Archival Description](https://github.com/uc-borndigital-ckg/uc-guidelines/tree/master)[^4].*
 
-Like physical collections, digital assets transferred or gifted to the department will undergo the same accessioning and processing procedures. For more information on how to accession materials, please view the Spec Practices and Procedures Manual. Staff members must be certain to include donor documentation and whatever digital storage information there is upon donation. Before beginning the processing stage, staff members will follow a digital processing framework in order to accurately understand what the scope is.
+Like physical collections, born-digital assets transferred or gifted to the department will undergo the same accessioning and processing procedures. For more information on how to accession materials, please view the Spec Practices and Procedures Manual. Staff members must be certain to include donor documentation and whatever digital storage information there is upon donation. Before beginning the processing stage, staff members will follow a digital processing framework in order to accurately understand what the scope is.
 
 {% capture text %}
 1. Reviewing accession record and other documentation about provenance.
@@ -60,7 +66,11 @@ Like physical collections, digital assets transferred or gifted to the departmen
 {% capture text %}
 1. Determine the priority of processing the collection and the level of access needed. 
 2. Identify the scope and level of collection description. 
-3. Review descriptive and arrangement needs of collection for patron discovery. 
+3. Review descriptive and arrangement needs of collection for patron discovery. Like analog collections, there may be a need for archivists to adjust organization and arrangement.
+- No intervention (original order retained)
+- Minimal intervention (original order retained; duplicate files donated overtime removed)
+- Intervention (original order not retained; re-organized following consultation with donor)
+- Post-ingest intervention (ingested into repository in original order; intellectual reorganization taken to all subsequent material to be integrated into single system of arrangement)
 {% endcapture %}
 {% include card.html header="Formulate a processing plan:" text=text %}
 
@@ -96,4 +106,7 @@ Like physical collections, digital assets transferred or gifted to the departmen
 ---
 **Footnotes**
 
-[^1]: “The groups of records selected for holdings maintenance projects are chosen after weighing a variety of archival considerations, including intrinsic value, condition, and anticipated use of the records. In some instances it may be appropriate to do no more than rebox, or refolder and rebox a records series; in other cases, it will be appropriate to carry out the complete range of holdings maintenance actions.” (p. 3); “Boxes that are physically damaged (exhibiting such characteristics as broken hinges or missing flaps) and no longer capable of supporting or protecting archival records adequately should be replaced with new storage containers. Boxes of unknown or suspect quality should be tested for pH level and alkaline reserve, to determine whether they should be replaced with new acid-free or low-lignin boxes.” (p. 4); “Folders that are physically damaged and no longer capable of protecting or supporting archival records should be replaced. Folders of unknown or suspect quality should be tested for the pH level and alkaline reserve, to determine whether they should be replaced with new folders.” (p. 4-5). Mary Lynn Ritzenthaler, Preservation of Archival Records: Holdings Maintenance at the National Archives, Technical Information Paper No. 6 (Washington, D.C.: National Archives and Records Administration, 1990).  
+[^1]: “The groups of records selected for holdings maintenance projects are chosen after weighing a variety of archival considerations, including intrinsic value, condition, and anticipated use of the records. In some instances it may be appropriate to do no more than rebox, or refolder and rebox a records series; in other cases, it will be appropriate to carry out the complete range of holdings maintenance actions.” (p. 3); “Boxes that are physically damaged (exhibiting such characteristics as broken hinges or missing flaps) and no longer capable of supporting or protecting archival records adequately should be replaced with new storage containers. Boxes of unknown or suspect quality should be tested for pH level and alkaline reserve, to determine whether they should be replaced with new acid-free or low-lignin boxes.” (p. 4); “Folders that are physically damaged and no longer capable of protecting or supporting archival records should be replaced. Folders of unknown or suspect quality should be tested for the pH level and alkaline reserve, to determine whether they should be replaced with new folders.” (p. 4-5). Mary Lynn Ritzenthaler, Preservation of Archival Records: Holdings Maintenance at the National Archives, Technical Information Paper No. 6 (Washington, D.C.: National Archives and Records Administration, 1990).
+[^2]: [University at Buffalo, University Libraries. (2023). Digital Records in Special Collections: Processing Born-Digital Records. Retrieved from https://research.lib.buffalo.edu/digitalpreservation/processing](https://research.lib.buffalo.edu/digitalpreservation/processing)
+[^3]: [Yale University Library. (2020). Born Digital Archival Description Guidelines. Yale University Library Research Guides. Retrieved from https://guides.library.yale.edu/bddescriptionguidelines](https://guides.library.yale.edu/c.php?g=934566&p=6736587)
+[^4]: [University of California Systemwide Libraries. (2017). UC Guidelines for Born-Digital Archival Description. UC Office of the President: University of California Systemwide Libraries. Retrieved from https://escholarship.org/uc/item/9cg222jc.](https://github.com/uc-borndigital-ckg/uc-guidelines/tree/master)
