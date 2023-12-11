@@ -1,10 +1,34 @@
 ---
-section: Processing Manual
+section: Practices and Procedures
 nav_order: 2
-title: Digital Material Ingest
+title: Ingesting Digital Materials
 ---
+If an archivist comes across digital storage media within a collection or in a donation/transfer, materials are usually ingested during the processing stage. There is software and procedures one should be familiar with in order to ingest properly. Materials ingested are then saved on the Archive Drive.
+
+<div class="text-center mb-2">
+    <a href="#{{ 'Software and Programs Used' | slugify }}" class="btn btn-secondary my-2 mx-1">Software and Programs</a>
+    <a href="#{{ 'Procedures' | slugify }}" class="btn btn-secondary my-2 mx-1">Procedures</a>
+</div>
+
 ---
-*If a staff member has come across digital storage media, follow these steps to migrate the digital materials into the Archive Drive.*
+## Software and Programs
+
+These programs are installed on the FRED computer (located in the main office space).
+
+{:.table .table-bordered}
+| Program/Software | Description |
+| - | ----- | 
+| Sophos Endpoint | Scans storage media for threats or viruses|
+| Notepad, Notepad++ | Keeps storage media record of information in a plain text document. |
+| DROID (Digital Record Object Identification) | Developed by the National Archives to profile wide range of file formats. Creates inventory list with checksums, modification date, file format information, etc. |
+| Bagger | Developed by the Library of Congress to bag files into a BagIt file structure (set of hierarchical file layout conventions for storage and transfer of arbitrary digital content). Suitable for reliable storage and transfer. |
+| AccessData FTK Imager | Previews recoverable data from a disk of any kind. |
+| Java | Programming language and computing platform. Needed for DROID and bagger programs. |
+
+---
+## Procedures
+
+*Follow these steps to ingest the digital materials into the Archive Drive.*
 
 #### STEP 1: 
 Identify the type of storage media which contains the materials (i.e. zip/usb drive, SD card, floppy disk, hard drive, CD, DVD, etc.). Then retrieve the “Digital Archives Ingest” (DAI) external hard drive. (Currently located at the FRED station.) 
