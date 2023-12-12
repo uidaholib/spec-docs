@@ -1,6 +1,6 @@
 ---
 section: Tips and Tricks
-nav_order: 3
+nav_order: 2
 title: Websites to Bookmark
 ---
 Listed below are some websites which are often used by Spec. Bookmarking these will help stay organized!

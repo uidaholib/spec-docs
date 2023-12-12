@@ -1,6 +1,6 @@
 ---
 section: Tips and Tricks
-nav_order: 2
+nav_order: 6
 title: Clickable Links in AS & AW
 ---
 
