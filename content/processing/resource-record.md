@@ -240,25 +240,25 @@ To add a note:
 Below are fields usually filled out by processors.
 
 {:.table .table-bordered}
-| Note Type | Required| Content |
-| --- | ----| ----------------- |
-| Abstract | 2-3 sentence description of the collection. Will serve as the *Summary* section on [Archives West](https://archiveswest.orbiscascade.org/search.php?r=idu). | *Records, pictures, and other miscellaneous papers from the University of Idaho Press.* |
-| Arrangement | Include whether the collection has retained its original order, or if there was archivist intervention.| *Original order retained.* OR *The original order of this born-digital collection was retained during ingestion. During the processing stage archivists reorganized folders and filenames in order to allow easier integrated into a single system of arrangement.* |
-| Bibliography | Include a bibliography if outside research done and compiled to complete the Biographical/Historical Note. To include a clickable link, see [Clickable Links in AS & AW]({{ '/content/tips-tricks/links-as-aw.html' | relative_url }}). |
-| Bibliographical / Historical | Include historical context or biographical context about the collection. See [Composing a Collection Description]({{ '/content/processing/collection-description.html' | relative_url }}) to help fill out this field. |
-| Conditions Governing Access | Inform researchers about accessing physical and digital materials. | *Collection is open for research.* |
-| Conditions Governing Use | Identify any restrictions on reproduction due to copyright or other reasons, as well as restrictions on further use of the materials being described, such as publication, after access has been provided. | *Consult Head of Special Collections and Archives on permissions for use.* |
-| Existence and Locations of Copies | Used to distinguish when a duplicate of an item is an access copy made by the Archives. | *The access files of the digital materials in this collection are located on the archive drive. Contact University of Idaho Library Special Collections and Archives for access or questions.* |
-| Existence and Locations of Originals | If the location of originals is known, provide information about the existence, location, and availability. | *The original digital files are located on a floppy disk located within the collection.* |
-| File Plan | Include if there was a file plan during the processing. | 
-| General | Include other information regarding the collection or the processing procedures. | 
-| Immediate Source of Acquisition | Include donor information (i.e. name and date) and/or how the collection came to Spec. | *The materials in this collection were donated by Joe Vandal in 2023.* | 
-| Physical Characteristics and Technical Requirements | Note important physical characteristics of the collection. Note whether there are technology requirements to view certain materials. | *Please note this collection contains electronic pdfs and will require a PDF viewer software.* |
-| Preferred Citation | See [Citations]({{ '/content/practices-procedures/citations.html' | relative_url }}) documentation. Copy into this field. |
-| Processing Information | Include processing information. | *Digital materials were processed by Jane Vandal in 2023.* |
-| Related Materials | If there are other collections with materials relating to important subjects in the collection you are describing, include information about those collections. | *Related materials may be found in* [Photo/Manu/Uni] Group [Number] [Collection Name]. |
-| Scope and Contents | The type of records included in the collection as well as the topics or subjects covered in those records. | *This collection contains photographs and memorabilia kept by Joe Vandal. Joe was a U of I alum and active member of the Vandal community. Much of the material focuses on making a Jane Vandal mascot.* |
-| Separated Materials | Note whether some materials were separated and place into other collections. | *The books in this collection were separated and added to the Day-NW Book Collection held by Special Collections and Archives.* |
+| Note Type | Required | Content | Example |
+| --- | ----| --------- |------- |
+| Abstract | Yes | 2-3 sentence description of the collection. Will serve as the *Summary* section on [Archives West](https://archiveswest.orbiscascade.org/search.php?r=idu). | *Records, pictures, and other miscellaneous papers from the University of Idaho Press.* |
+| Arrangement | Yes | Include whether the collection has retained its original order, or if there was archivist intervention.| *Original order retained.* OR *The original order of this born-digital collection was retained during ingestion. During the processing stage archivists reorganized folders and filenames in order to allow easier integrated into a single system of arrangement.* |
+| Bibliography | Optional | Include a bibliography if outside research done and compiled to complete the Biographical/Historical Note. To include a clickable link, see [Clickable Links in AS & AW]({{ '/content/tips-tricks/links-as-aw.html' | relative_url }}). |
+| Bibliographical / Historical | Yes | Include historical context or biographical context about the collection. See [Composing a Collection Description]({{ '/content/processing/collection-description.html' | relative_url }}) to help fill out this field. |
+| Conditions Governing Access | Yes | Inform researchers about accessing physical and digital materials. | *Collection is open for research.* |
+| Conditions Governing Use | Optional | Identify any restrictions on reproduction due to copyright or other reasons, as well as restrictions on further use of the materials being described, such as publication, after access has been provided. | *Consult Head of Special Collections and Archives on permissions for use.* |
+| Existence and Locations of Copies | Optional | Used to distinguish when a duplicate of an item is an access copy made by the Archives. | *The access files of the digital materials in this collection are located on the archive drive. Contact University of Idaho Library Special Collections and Archives for access or questions.* |
+| Existence and Locations of Originals | Optional | If the location of originals is known, provide information about the existence, location, and availability. | *The original digital files are located on a floppy disk located within the collection.* **OR** *This collection is found in the Small Manuscripts area of Special Collections. |
+| File Plan | Optional | Include if there was a file plan during the processing. | 
+| General | Optional | Include other information regarding the collection or the processing procedures. | 
+| Immediate Source of Acquisition | Yes| Include donor information (i.e. name and date) and/or how the collection came to Spec. | *The materials in this collection were donated by Joe Vandal in 2023.* | 
+| Physical Characteristics and Technical Requirements | Optional | Note important physical characteristics of the collection. Note whether there are technology requirements to view certain materials. | *Please note this collection contains electronic pdfs and will require a PDF viewer software.* |
+| Preferred Citation | Yes | See [Citations]({{ '/content/practices-procedures/citations.html' | relative_url }}) documentation. Copy into this field. |
+| Processing Information | Optional | Include processing information. | *Digital materials were processed by Jane Vandal in 2023.* |
+| Related Materials | Optional | If there are other collections with materials relating to important subjects in the collection you are describing, include information about those collections. | *Related materials may be found in* [Photo/Manu/Uni] Group [Number] [Collection Name]. |
+| Scope and Contents | Yes| Label must be: "Content Description". The type of records included in the collection as well as the topics or subjects covered in those records. | *This collection contains photographs and memorabilia kept by Joe Vandal. Joe was a U of I alum and active member of the Vandal community. Much of the material focuses on making a Jane Vandal mascot.* |
+| Separated Materials | Optional | Note whether some materials were separated and place into other collections. | *The books in this collection were separated and added to the Day-NW Book Collection held by Special Collections and Archives.* |
 
 ---
 ### Instances
