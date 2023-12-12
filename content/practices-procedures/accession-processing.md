@@ -19,7 +19,7 @@ The following is a summary of steps which make up the accessioning process:
 1. If items cannot be accessioned immediately upon receipt, place items on shelving in intake area, as space allows, along with the completed Deed of Gift. 
 2. Add an *accession* record to [ArchivesSpace (AS)](https://uidaho.libraryhost.com/admin) that includes donor and collection information, an accession number, and a preliminary inventory. 
 3. Rehouse the materials if appropriate to condense for space saving or material stability. 
-4. Assess how important the materials are to departmental priorities and make a note in the *Processing Prioritization List* (found in SharePoint). 
+4. Assess how important the materials are to departmental priorities and make a note in the *[Prioritization Rating List](https://vandalsuidaho.sharepoint.com/:x:/r/sites/Storage-Library/Documents/spec/Departmental%20Projects/Processing%20Priorities%20Project/Prioritization%20Rating%20List%20-%20updated%20copy.xlsx?d=wb86306cdf2435792ab6e50c79276a8e2&csf=1&web=1&e=n20NdU)* (found in SharePoint). 
 5. Find a temporary shelf location and note that in the AS accession record. 
 6. Print **Accession Report** from AS and place in appropriate accession binder along with the Deed of Gift and/or any relevant communications. 
 7. Work with department Head to ensure that a *thank-you* note is sent to the donor, when applicable (found in SharePoint). 
@@ -31,7 +31,7 @@ Accessioned materials are made more useful and accessible through processing. Ev
 
 The following is a summary of steps which should be used to process a collection:  
 
-1. Create an inventory in a spreadsheet template (found in SharePoint); the template will later be imported into [ArchivesSpace (AS)](https://uidaho.libraryhost.com/admin)
+1. Create an inventory in an [AS spreadsheet template](https://vandalsuidaho.sharepoint.com/:x:/r/sites/Storage-Library/Documents/spec/Collections/Processed%20Collections/Finding%20Aid%20Files/AS_spreadsheet_template.xlsx?d=w4a88ebe4a32b4e72b3d05ceb320d7e6b&csf=1&web=1&e=w6sKLf) (found in SharePoint); the template will later be imported into [ArchivesSpace (AS)](https://uidaho.libraryhost.com/admin)
 - If the collection is very small, it may be more efficient to work directly in AS 
 2. Rehouse the collection (if not completed at time of accession) 
 - Weed to remove personally sensitive or irrelevant materials, like financial receipts or medical records 
@@ -43,10 +43,10 @@ The following is a summary of steps which should be used to process a collection
 3. Create summary, scope of contents, biographical/historical statements in AS 
 4. Identify subject tags in AS 
 5. Complete finding aid 
-- Assign ARK Number using AW Tools Site 
+- Assign ARK Number using [Archives West Tools Site](https://archiveswest.orbiscascade.org/tools/) 
 - Flag offensive material 
 - Complete all required AS fields 
-6. Upload record to ArchivesWest using AW Tools Site 
+6. Upload record to Archives West using [Archives West Tools Site](https://archiveswest.orbiscascade.org/tools/)
 7. Shelve in final location and make note of location in AS
 
 ---
