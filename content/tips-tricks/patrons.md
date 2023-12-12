@@ -3,6 +3,12 @@ section: Tips and Tricks
 nav_order: 2
 title: Patron Inquiries
 ---
+{% capture text %}
+**NOTE:** Before scanning materials for an inquiry, check the **Archive drive** to see whether something has already been scanned! If you don't have access to the drive, contact the Digital Archivist.
+{% endcapture %}
+
+{% include alert.html text=text color="warning" %}
+
 When a patron contacts Spec and their inquiry is detailed, answering their questions or requests may be cut and dry.
 
 However, sometimes a patron request isn't very clear. In those cases, asking for clarification or even asking more questions about the subject might help narrow down a scope of research.

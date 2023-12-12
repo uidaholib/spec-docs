@@ -8,10 +8,12 @@ title: Scanning
 Spec scans archival materials for patron inquiries, inter-departmental requests, and other digitization projects such as digital collections. 
 
 {% capture text %}
-**NOTE:** When transferring files to patrons that are too large to send via email, use the *free* file transfer site [WeTransfer](https://wetransfer.com/). Creating a free account is *not* required.
+**NOTE:** Before scanning, check the **Archive drive** to see whether something has already been scanned! If you don't have access to the drive, contact the Digital Archivist.
 {% endcapture %}
 
-{% include alert.html text=text color="info" %}
+{% include alert.html text=text color="warning" %}
+
+When transferring files to patrons that are too large to send via email, use the *free* file transfer site [WeTransfer](https://wetransfer.com/). Creating a free account is *not* required.
 
 Documentation and instruction for scanning can be found on the University of Idaho Library [Digital Collections Team documentation site](https://uidaholib.github.io/digital-collections-docs/content/dc-team.html): 
 

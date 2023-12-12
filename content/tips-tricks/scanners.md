@@ -4,6 +4,13 @@ nav_order: 7
 title: Scanners
 ---
 ---
+
+{% capture text %}
+**NOTE:** Before scanning archival materials, check the **Archive drive** to see whether something has already been scanned! If you don't have access to the drive, contact the Digital Archivist.
+{% endcapture %}
+
+{% include alert.html text=text color="warning" %}
+
 #### Flatbed Scanner
 Sometimes the scanner by the small white printer freezes or the computer says it can't connect to it.
 - Turn the scanner off. Wait 30 seconds. Turn it back on and wait a few minutes. Then try the program again.
