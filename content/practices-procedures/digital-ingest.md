@@ -3,17 +3,25 @@ section: Practices and Procedures
 nav_order: 2
 title: Ingesting Digital Materials
 ---
-If an archivist comes across digital storage media within a collection or in a donation/transfer, materials are usually ingested during the processing stage. There is software and procedures one should be familiar with in order to ingest properly. Materials ingested are then saved on the Archive Drive.
 
 <div class="text-center mb-2">
+    <a href="#{{ 'When to Ingest' | slugify }}" class="btn btn-secondary my-2 mx-1">When to Ingest</a>
     <a href="#{{ 'Software and Programs Used' | slugify }}" class="btn btn-secondary my-2 mx-1">Software and Programs</a>
     <a href="#{{ 'Procedures' | slugify }}" class="btn btn-secondary my-2 mx-1">Procedures</a>
 </div>
 
 ---
+## When to Ingest
+
+Born-digital materials are usually ingested off of the original storage media during the processing stage. However, there have been some instances in the past where digital materials were ingested at the accession stage. This could have been for a variety of reasons:
+1. The donor only allowed a copies to be made and retained the original files.
+2. A department transferred materials that have an access restriction.
+3. The storage media was in danger of deteriorating. 
+
+---
 ## Software and Programs
 
-These programs are installed on the FRED computer (located in the main office space). FRED is where ingesting occurs.
+There is software and procedures one should be familiar with in order to ingest properly. Below are programs installed on the FRED computer (located in the main office space). FRED is where ingesting occurs.
 
 {:.table .table-bordered}
 | Program/Software | Description |
@@ -163,4 +171,4 @@ Plug in DAI drive to the 2.0 USB port of FRED. Plug in the media storage to the 
 - **DO NOT save profile when closing DROID program**
 
 #### STEP 8:
-Label media with Accession OR Collection ID. If from a physical collection, place back in container pulled from.  
+Label media with Accession OR Collection ID. If from a physical collection, place back in container pulled from. Materials on the DAI are then transferred to the Archive drive.
