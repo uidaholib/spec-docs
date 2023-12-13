@@ -13,7 +13,7 @@ If an archivist comes across digital storage media within a collection or in a d
 ---
 ## Software and Programs
 
-These programs are installed on the FRED computer (located in the main office space).
+These programs are installed on the FRED computer (located in the main office space). FRED is where ingesting occurs.
 
 {:.table .table-bordered}
 | Program/Software | Description |
@@ -31,10 +31,10 @@ These programs are installed on the FRED computer (located in the main office sp
 *Follow these steps to ingest the digital materials into the Archive Drive.*
 
 #### STEP 1: 
-Identify the type of storage media which contains the materials (i.e. zip/usb drive, SD card, floppy disk, hard drive, CD, DVD, etc.). Then retrieve the “Digital Archives Ingest” (DAI) external hard drive. (Currently located at the FRED station.) 
+Identify the type of storage media which contains the materials (i.e. zip/usb drive, SD card, floppy disk, hard drive, CD, DVD, etc.). Then retrieve the “Digital Archives Ingest” (DAI) external hard drive. This is currently located at the FRED computer station.
 
 #### STEP 2:
-Plug in DAI drive & whatever the media storage. In File Explorer, find the storage media drive. Right click on the media and select Scan with Sophos Endpoint. Notice whether any threats/viruses were detected. 
+Plug in DAI drive to the 2.0 USB port of FRED. Plug in the media storage to the other 2.0 USB port. In File Explorer, find the storage media drive. Right click on the media and select Scan with **Sophos Endpoint**. Notice whether any threats/viruses were detected.
 
 #### STEP 3: Creating a folder. 
 - Go to DAI drive > Accession OR Processed folder. Then create a new folder with the accession OR collection ID the digital assets belong to. 
