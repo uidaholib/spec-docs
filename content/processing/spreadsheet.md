@@ -64,7 +64,7 @@ Example 2:
 ---
 ### Born-Digital and Hybrid Collections
 
-For born-digital and hybrid collections, some fields in the **[ArchiveSpace Template](https://vandalsuidaho.sharepoint.com/:x:/r/sites/Storage-Library/Documents/spec/Collections/Processed%20Collections/Finding%20Aid%20Files/AS_spreadsheet_template.xlsx?d=w4a88ebe4a32b4e72b3d05ceb320d7e6b&csf=1&web=1&e=bfs5fC)** can be filled in using information from the **DROID** spreadsheet created during the **[Digital Material Ingest]({{ '/content/processing/digital-ingest.html' | relative_url }})** procedures. 
+For born-digital and hybrid collections, some fields in the **[ArchiveSpace Template](https://vandalsuidaho.sharepoint.com/:x:/r/sites/Storage-Library/Documents/spec/Collections/Processed%20Collections/Finding%20Aid%20Files/AS_spreadsheet_template.xlsx?d=w4a88ebe4a32b4e72b3d05ceb320d7e6b&csf=1&web=1&e=bfs5fC)** can be filled in using information from the **DROID** spreadsheet created during the **[Digital Material Ingest]({{ '/content/practices-procedures/digital-ingest.html' | relative_url }})** procedures. 
 
 Rather than beginning to work in the template, you'll want to make a copy by using **Save As** into the proper file location. To save properly, follow this pile path: *Share Point > spec > Collections > Processed Collections > Finding Aid Files > choose the group you're adding to > add a folder with your collections identifier (ex: MG 571)*
 
