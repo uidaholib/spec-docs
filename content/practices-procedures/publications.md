@@ -1,6 +1,6 @@
 ---
 section: Practices and Procedures
-nav_order: 2
+nav_order: 8
 title: Publications and Maps
 ---
 ---
