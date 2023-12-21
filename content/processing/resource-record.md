@@ -281,6 +281,7 @@ To add an instance:
         - Example: Folder (Child Type); 54 (Child Indicator). It will read in the Resource Record as: Folder 54. 
 5. Continue these steps until all container instances in the collection are entered.
 6. Save the Resource.
+7. To add locations, see [Labeling and Shelving]({{ '/content/processing/labels.html' | relative_url }}).
 
 **Use the [ArchivesSpace Spreadsheet Template]({{ '/content/processing/spreadsheet.html' | relative_url }}) to complete the Series, Sub-Series, and Item level portions of the collection record.**
 
