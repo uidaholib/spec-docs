@@ -53,7 +53,9 @@ The following is a summary of steps which should be used to process a collection
 ### Born-Digital Processing
 *The following framework was largely adapted from the [University of Buffalo Libraries Special Collections](https://research.lib.buffalo.edu/digitalpreservation/processing)[^2], Yale Library's [Born Digital Archival Description Guidelines](https://guides.library.yale.edu/c.php?g=934566&p=6736587)[^3], and University of California's [Guidelines for Born-Digital Archival Description](https://github.com/uc-borndigital-ckg/uc-guidelines/tree/master)[^4].*
 
-Like physical collections, born-digital assets transferred or gifted to the department will undergo the same accessioning and processing procedures. For more information on how to accession materials, please view the Spec Practices and Procedures Manual. Staff members must be certain to include donor documentation and whatever digital storage information there is upon donation. Before beginning the processing stage, staff members will follow a digital processing framework in order to accurately understand what the scope is.
+Like physical collections, born-digital assets transferred or gifted to the department will undergo the same accessioning and processing procedures. For more information on how to accession and process materials, please see the [Accession]({{ '/content/accessions/rehouse.html' | relative_url }}) and [Processing]({{ '/content/processing/collection-description.html' | relative_url }}) Manuals. 
+
+Staff members must be certain to include donor documentation and whatever digital storage information there is upon donation. Before beginning the processing stage, staff members will follow a digital processing framework in order to accurately understand what the scope is.
 
 {% capture text %}
 1. Reviewing accession record and other documentation about provenance.
