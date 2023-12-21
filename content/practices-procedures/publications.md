@@ -6,7 +6,7 @@ title: Publications and Maps
 ---
 ### Publications
 
-Sometimes during the processing stage, publications such as books, periodicals (journals, magazines, newspapers, etc.), and maps are found. Other times donors will drop off publications without much context. 
+Sometimes during publications such as books, periodicals (journals, magazines, newspapers, etc.), and maps are donated. Other times donors will drop off publications without much context. 
 - For example, a patron drops off the Blot magazine with a note that says "For Special Collections" and no other information.
 
 When these situations occur, first check the publication title against the Library's catalog at **[www.lib.uidaho.edu](https://www.lib.uidaho.edu/)**. 
