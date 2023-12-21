@@ -1,6 +1,6 @@
 ---
-section: Processing Manual
-nav_order: 8
+section: Practices and Procedures
+nav_order: 2
 title: Publications and Maps
 ---
 ---
