@@ -4,7 +4,7 @@ layout: lesson-content
 ---
 
 <div class="row text-center py-2">
-    <div class="col-md-4">
+    <div class="col-md-3">
         <h2 class="py-2">Practices and Procedures</h2>
         <a class="btn btn-outline-primary m-1" href="{{ '/content/practices-procedures/accession-processing.html' | relative_url }}">Accession and Processing</a>
         <a class="btn btn-outline-primary m-1" href="{{ '/content/practices-procedures/access.html' | relative_url }}">Use and Access</a>
@@ -22,9 +22,14 @@ layout: lesson-content
     <div class="col-md-3">
         <h2 class="py-2">Processing Manual</h2>
         <a class="btn btn-outline-danger m-1" href="{{ '/content/processing/resource-record.html' | relative_url }}">Resource Record</a>
-        <a class="btn btn-outline-danger m-1" href="{{ '/content/processing/digital-ingest.html' | relative_url }}">Digital Material Ingest</a>
         <a class="btn btn-outline-danger m-1" href="{{ '/content/processing/spreadsheet.html' | relative_url }}">ArchivesSpace Spreadsheet</a>
         <a class="btn btn-outline-danger m-1" href="{{ '/content/processing/finding-aid.html' | relative_url }}">Upload to Archives West</a>
+    </div>
+    <div class="col-md-3">
+        <h2 class="py-2">Born-Digital</h2>
+        <a class="btn btn-outline-secondary m-1" href="https://uidaholib.github.io/spec-docs/content/practices-procedures/accession-processing.html#born-digital-processing">Born-Digital Processing</a>
+        <a class="btn btn-outline-secondary m-1" href="{{ '/content/practices-procedures/digital-ingest.html' | relative_url }}">Ingesting Digital Materials</a>
+        <a class="btn btn-outline-secondary m-1" href="https://uidaholib.github.io/spec-docs/content/processing/spreadsheet.html#born-digital-and-hybrid-collections">AS and DROID Spreadsheet</a>
     </div>
 </div>
 
