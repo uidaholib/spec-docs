@@ -26,7 +26,7 @@ layout: lesson-content
         <a class="btn btn-outline-danger m-1" href="{{ '/content/processing/finding-aid.html' | relative_url }}">Upload to Archives West</a>
     </div>
     <div class="col-md-3">
-        <h2 class="py-2">Born-Digital</h2>
+        <h2 class="py-2">Born-Digital and Hybrid Collections</h2>
         <a class="btn btn-outline-secondary m-1" href="https://uidaholib.github.io/spec-docs/content/practices-procedures/accession-processing.html#born-digital-processing">Born-Digital Processing</a>
         <a class="btn btn-outline-secondary m-1" href="{{ '/content/practices-procedures/digital-ingest.html' | relative_url }}">Ingesting Digital Materials</a>
         <a class="btn btn-outline-secondary m-1" href="https://uidaholib.github.io/spec-docs/content/processing/spreadsheet.html#born-digital-and-hybrid-collections">AS and DROID Spreadsheet</a>
