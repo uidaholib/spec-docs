@@ -31,6 +31,16 @@ Spec has also identified secondary or emerging subject areas for the manuscripts
 - LGBTQIA+ 
 - Military 
 
+### UA/UG vs. MA/MG
+
+Sometimes there can be confusion on which category a donation should fall under. Below are examples that should help guide decision making.
+- U of I English Department records = UA/UG
+- Joe Vandal, an English Department professor = MA/MG
+- Community group corporate records = MA/MG
+- USB of photographs from Jazz Fest = UA/IJC MG
+- Donation of photographs from a famous regional photographer = MA/PG
+- Argonaut photograph transfer = UA/PG
+
 ---
 ### Other archival collections include:
 
