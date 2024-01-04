@@ -3,7 +3,13 @@ section: Introduction
 nav_order: 1
 title: Scope of Collections
 ---
----
+<div class="text-center mb-2">
+    <a href="#{{ '1. University Collections' | slugify }}" class="btn btn-secondary my-2 mx-1">University and Manuscript Collections</a>
+    <a href="#{{ 'Other archival collections include:' | slugify }}" class="btn btn-secondary my-2 mx-1">Other Collections</a>
+    <a href="#{{ 'Born-Digital and Hybrid Collections' | slugify }}" class="btn btn-secondary my-2 mx-1">Born-Digital and Hybrid</a>
+    <a href="#{{ 'Examples' | slugify }}" class="btn btn-secondary my-2 mx-1">Examples</a>
+</div>
+
 Within Spec there are two primary classes of materials: 
 
 ### 1. University Collections
@@ -30,16 +36,6 @@ Spec has also identified secondary or emerging subject areas for the manuscripts
 - Science Fiction 
 - LGBTQIA+ 
 - Military 
-
-### UA/UG vs. MA/MG vs. PG
-
-Sometimes there can be confusion on which category a donation should fall under. Below are examples that should help guide decision making.
-- U of I English Department records = UA/UG
-- Joe Vandal, an English Department professor = MA/MG
-- Community group corporate records = MA/MG
-- USB of photographs from Jazz Fest = UA/IJC MG
-- Donation of photographs from a famous regional photographer = MA/PG
-- Argonaut photograph transfer = UA/PG
 
 ---
 ### Other archival collections include:
@@ -106,3 +102,14 @@ In keeping with U of I Library's mission, Special Collections and Archives serve
 - Items or collection for the community that Spec has accepted a curatorial role for, 
 - Digitized materials with no available analog (no available print or re-digitization not possible due to material instability), and 
 - Digitized materials with available analog (cost of re-digitizing weighed against preserving existing digital copies and physical materials)
+
+---
+### Examples
+
+Sometimes there can be confusion on which category a donation should fall under. Below are examples that should help guide decision making.
+- U of I English Department records = UA/UG
+- Joe Vandal, an English Department professor = MA/MG
+- Community group corporate records = MA/MG
+- USB of photographs from Jazz Fest = UA/IJC MG
+- Donation of photographs from a famous regional photographer = MA/PG
+- Argonaut photograph transfer = UA/PG
