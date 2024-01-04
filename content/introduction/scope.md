@@ -31,7 +31,7 @@ Spec has also identified secondary or emerging subject areas for the manuscripts
 - LGBTQIA+ 
 - Military 
 
-### UA/UG vs. MA/MG
+### UA/UG vs. MA/MG vs. PG
 
 Sometimes there can be confusion on which category a donation should fall under. Below are examples that should help guide decision making.
 - U of I English Department records = UA/UG
