@@ -4,7 +4,7 @@ nav_order: 5
 title: Books, Periodicals, and Serials
 ---
 ### Book Collections
-Most of the book collections can be found in the Book Collections area (just outside of the Processing Room). However, some are located in Cage 1, Cage 2, and the Reading Room.
+Most of the book collections can be found in the Book Collections area (just outside of the Processing Room). However, some are located in Cage 1, Cage 2, and the Reading Room. See [Scope of Collections](https://uidaholib.github.io/spec-docs/content/introduction/scope.html#other-archival-collections) for collection descriptions.
 
 ##### Collections in Book area:
 1. Day-NW
@@ -12,6 +12,9 @@ Most of the book collections can be found in the Book Collections area (just out
 3. Idaho
 4. Scott
 5. Spec
+6. Spec Oversize
+7. President Collection
+8. Day-NW 
 
 ##### Collections in Cage 1:
 - Thesis and Dissertations, Row 55
