@@ -1,6 +1,6 @@
 ---
 section: Tips and Tricks
-nav_order: 5
+nav_order: 3
 title: Books, Periodicals, and Serials
 ---
 ### Book Collections
@@ -14,7 +14,7 @@ Most of the book collections can be found in the Book Collections area (just out
 5. Spec
 6. Spec Oversize
 7. President Collection
-8. Day-NW 
+8. Day-NW Engerbretson
 
 ##### Collections in Cage 1:
 - Thesis and Dissertations, Row 55
