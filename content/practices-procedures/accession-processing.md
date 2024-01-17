@@ -2,7 +2,6 @@
 section_id: Practices and Procedures
 nav_order: 2
 title: Accession and Processing Procedures
-topics: 
 ---
 <div class="text-center mb-2">
     <a href="#{{ 'Accession Procedures' | slugify }}" class="btn btn-secondary my-2 mx-1">Accession Procedures</a>

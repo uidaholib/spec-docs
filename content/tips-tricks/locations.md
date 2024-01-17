@@ -1,6 +1,6 @@
 ---
 section_id: Tips and Tricks
-nav_order: 5
+nav_order: 6
 title: Material Locations
 ---
 
