@@ -19,13 +19,18 @@ Born-digital materials are usually ingested off of the original storage media du
 3. The storage media was in danger of deteriorating. 
 
 ---
-## Software and Programs
+## Equipment, Software, and Programs
 
 There is software and procedures one should be familiar with in order to ingest properly. Below are programs installed on the FRED computer (located in the main office space). FRED is where ingesting occurs.
 
 {:.table .table-bordered}
-| Program/Software | Description |
-| - | ----- | 
+| Equipments, Software, and Programs | Description |
+| --- | ----- | 
+| Forensic Recovery of Evidence (FRED) | Located in Spec office area. |
+CD/DVD reader | Pioneer BDR-XD05B |
+| Floppy Disk readers | Chuanganzhuo Floppy Disk Reader, 3.5 inch and Sabrent FL-UDRV |
+| Zip Disk reader (x2) | Iomega Zip 100, Z100USBS |
+| USB and Zip Drive reader | Atolla USB Hub |
 | Sophos Endpoint | Scans storage media for threats or viruses|
 | Notepad, Notepad++ | Keeps storage media record of information in a plain text document. |
 | DROID (Digital Record Object Identification) | Developed by the National Archives to profile wide range of file formats. Creates inventory list with checksums, modification date, file format information, etc. |
