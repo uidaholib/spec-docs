@@ -31,7 +31,7 @@ layout: lesson-content
     <div class="col-md-3">
         <h2 class="py-2">Digital Materials</h2>
         <a class="btn btn-outline-secondary m-1" href="https://uidaholib.github.io/spec-docs/content/practices-procedures/accession-processing.html#born-digital-processing">Born-Digital Processing</a>
-        <a class="btn btn-outline-secondary m-1" href="http://127.0.0.1:4000/content/practices-procedures/digital-preservation.html">Digital Preservation</a>
+        <a class="btn btn-outline-secondary m-1" href="https://uidaholib.github.io/spec-docs/content/practices-procedures/digital-preservation.html">Digital Preservation</a>
         <a class="btn btn-outline-secondary m-1" href="{{ '/content/practices-procedures/digital-ingest.html' | relative_url }}">Ingesting Digital Materials</a>
         <a class="btn btn-outline-secondary m-1" href="https://uidaholib.github.io/spec-docs/content/processing/spreadsheet.html#born-digital-and-hybrid-collections">AS and DROID Spreadsheet</a>
     </div>
