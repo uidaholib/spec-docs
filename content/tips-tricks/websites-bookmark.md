@@ -28,3 +28,4 @@ Listed below are some websites which are often used by Spec. Bookmarking these w
 21. [Microfilm List](https://www.lib.uidaho.edu/find/microfilm.html)
 22. [Perma.cc (saving websites that might expire)](https://evanwill.github.io/web-cites/content/3-perma.html)
 23. [Spec Research/Reproduction Fee form](https://marketplace.uidaho.edu/C20272_ustores/web/store_main.jsp?STOREID=188)
+24. [Historic Newspapers digitized from microfilm on Newspapers.com](https://uidaho.newspapers.com/papers/#)
