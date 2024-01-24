@@ -38,7 +38,7 @@ CD/DVD reader | Pioneer BDR-XD05B |
 | AccessData FTK Imager | Previews recoverable data from a disk of any kind. |
 | Java | Programming language and computing platform. Needed for DROID and bagger programs. |
 | VHS converter | Located in the Studio (2nd Floor, Library). |
-| Cassette Deck | Used for playback and a USB audio interface to record audio in Audacity. |
+| Cassette Deck | Used for playback and a USB audio interface to record audio in Audacity. Located in CDIL. |
 
 ---
 ## Procedures
