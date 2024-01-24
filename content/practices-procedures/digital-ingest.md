@@ -37,6 +37,8 @@ CD/DVD reader | Pioneer BDR-XD05B |
 | Bagger | Developed by the Library of Congress to bag files into a BagIt file structure (set of hierarchical file layout conventions for storage and transfer of arbitrary digital content). Suitable for reliable storage and transfer. |
 | AccessData FTK Imager | Previews recoverable data from a disk of any kind. |
 | Java | Programming language and computing platform. Needed for DROID and bagger programs. |
+| VHS converter | Located in the Studio (2nd Floor, Library). |
+| Cassette Deck | Used for playback and a USB audio interface to record audio in Audacity. |
 
 ---
 ## Procedures
