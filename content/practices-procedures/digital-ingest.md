@@ -10,16 +10,18 @@ title: Ingesting Digital Materials
     <a href="#{{ 'Procedures' | slugify }}" class="btn btn-secondary my-2 mx-1">Procedures</a>
 </div>
 
----
 ## When to Ingest
+---
 
 Born-digital materials are usually ingested off of the original storage media during the processing stage. However, there have been some instances in the past where digital materials were ingested at the accession stage. This could have been for a variety of reasons:
 1. The donor only allowed a copies to be made and retained the original files.
 2. A department transferred materials that have an access restriction.
 3. The storage media was in danger of deteriorating. 
 
----
+For acquisition information, see [Acquisition Practices](https://uidaholib.github.io/spec-docs/content/introduction/acquistion.html).
+
 ## Equipment, Software, and Programs
+---
 
 There is software and procedures one should be familiar with in order to ingest properly. Below are programs installed on the FRED computer (located in the main office space). FRED is where ingesting occurs.
 
@@ -40,9 +42,9 @@ CD/DVD reader | Pioneer BDR-XD05B |
 | VHS converter | Located in the Studio (2nd Floor, Library). |
 | Cassette Deck | Used for playback and a USB audio interface to record audio in Audacity. Located in CDIL. |
 
----
-## Procedures
 
+## Procedures
+---
 *Follow these steps to ingest the digital materials into the Archive Drive.*
 
 #### STEP 1: 

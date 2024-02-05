@@ -15,7 +15,7 @@ Most of these VFs have an ArchivesSpace spreadsheet on SharePoint for tracking n
 3. [Athletics](https://archiveswest.orbiscascade.org/ark:80444/xv36450)
 4. Budget Books
 5. Bulletin
-6. [Buildings and Cmapus](https://archiveswest.orbiscascade.org/ark:80444/xv852265)
+6. [Buildings and Campus](https://archiveswest.orbiscascade.org/ark:80444/xv852265)
 7. Directory
 8. [Memorabilia](https://archiveswest.orbiscascade.org/ark:80444/xv725541)
 9. [Personnel](https://archiveswest.orbiscascade.org/ark:80444/xv644550)
