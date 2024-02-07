@@ -6,7 +6,7 @@ title: Ingesting Digital Materials
 
 <div class="text-center mb-2">
     <a href="#{{ 'When to Ingest' | slugify }}" class="btn btn-secondary my-2 mx-1">When to Ingest</a>
-    <a href="#{{ 'Software and Programs Used' | slugify }}" class="btn btn-secondary my-2 mx-1">Software and Programs</a>
+    <a href="#{{ 'Equipment, Software and Programs' | slugify }}" class="btn btn-secondary my-2 mx-1">Equipment, Software and Programs</a>
     <a href="#{{ 'Procedures' | slugify }}" class="btn btn-secondary my-2 mx-1">Procedures</a>
 </div>
 
@@ -20,10 +20,10 @@ Born-digital materials are usually ingested off of the original storage media du
 
 For acquisition information, see [Acquisition Practices](https://uidaholib.github.io/spec-docs/content/introduction/acquistion.html).
 
-## Equipment, Software, and Programs
+## Equipment, Software and Programs
 ---
 
-There is software and procedures one should be familiar with in order to ingest properly. Below are programs installed on the FRED computer (located in the main office space). FRED is where ingesting occurs.
+There is software and procedures one should be familiar with in order to ingest properly. Below are programs installed on the FRED computer (located in Spec's main office space). FRED is where ingesting occurs.
 
 {:.table .table-bordered}
 | Equipments, Software, and Programs | Description |

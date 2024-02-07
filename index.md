@@ -24,16 +24,16 @@ layout: lesson-content
         <h2 class="py-2">Processing Manual</h2>
         <a class="btn btn-outline-danger m-1" href="{{ '/content/processing/resource-record.html' | relative_url }}">Resource Record</a>
         <a class="btn btn-outline-danger m-1" href="https://uidaholib.github.io/spec-docs/content/processing/resource-record.html#finding-aid-data">Finding Aid Data</a>
-        <a class="btn btn-outline-danger m-1" href="https://uidaholib.github.io/spec-docs/content/processing/resource-record.html#instances">Instances</a>
         <a class="btn btn-outline-danger m-1" href="{{ '/content/processing/spreadsheet.html' | relative_url }}">ArchivesSpace Spreadsheet</a>
         <a class="btn btn-outline-danger m-1" href="{{ '/content/processing/finding-aid.html' | relative_url }}">Upload to Archives West</a>
+        <a class="btn btn-outline-danger m-1" href="https://uidaholib.github.io/spec-docs/content/processing/resource-record.html#instances">Instances</a>
     </div>
     <div class="col-md-3">
         <h2 class="py-2">Digital Materials</h2>
         <a class="btn btn-outline-secondary m-1" href="https://uidaholib.github.io/spec-docs/content/practices-procedures/accession-processing.html#born-digital-processing">Born-Digital Processing</a>
         <a class="btn btn-outline-secondary m-1" href="https://uidaholib.github.io/spec-docs/content/practices-procedures/digital-preservation.html">Digital Preservation</a>
         <a class="btn btn-outline-secondary m-1" href="{{ '/content/practices-procedures/digital-ingest.html' | relative_url }}">Ingesting Digital Materials</a>
-        <a class="btn btn-outline-secondary m-1" href="https://uidaholib.github.io/spec-docs/content/processing/spreadsheet.html#born-digital-and-hybrid-collections">AS and DROID Spreadsheet</a>
+        <a class="btn btn-outline-secondary m-1" href="https://uidaholib.github.io/spec-docs/content/processing/spreadsheet.html#born-digital-and-hybrid-collections">ArchiveSpace and DROID Spreadsheet</a>
     </div>
 </div>
 
