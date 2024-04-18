@@ -1,9 +1,32 @@
 ---
 section: Tips and Tricks
-nav_order: 3
-title: Books, Periodicals, and Serials
+nav_order: 2
+title: Books Collections
 ---
-### Book Collections
+See [Scope of Collections](https://uidaholib.github.io/spec-docs/content/introduction/scope.html#other-archival-collections) for book collection descriptions.
+
+---
+### Checking for New Materials
+
+1. Check the mail room on the 4th floor (door across from elevator) for materials added to Spec book collections by the catalogers.
+
+---
+### Idaho Law Code Books
+
+Every so often Spec will receive updated Idaho Law books. These are located in the **Idaho Book Collection**.
+- Swap out any new law code books.
+- Place older copy in Cage 1, Row, Section, 
+    - Do not withdraw catalog from Alma, or change locations.
+
+---
+### Idaho State Library/Commission for Libraries
+
+Spec used to get publications from the Idaho State Library/Commission for Libraries. 
+- If a box is received, check against Library catalog for duplicates. 
+- If no duplicates, put collection flag in them and give them to Library catalogers.
+
+---
+### Locations
 Most of the book collections can be found in the Book Collections area (just outside of the Processing Room). However, some are located in Cage 1, Cage 2, and the Reading Room. See [Scope of Collections](https://uidaholib.github.io/spec-docs/content/introduction/scope.html#other-archival-collections) for collection descriptions.
 
 ##### Collections in Book area:
@@ -37,25 +60,6 @@ Most of the book collections can be found in the Book Collections area (just out
 ##### Collections in Reading Room:
 - Spec Ref (Reference)
 
----
-### Checking for New Material
-
-Check the mail room on the 4th floor (door across from elevator) for materials added to Spec book collections by the catalogers.
-
----
-### Idaho Law Code
-
-Every so often Spec will receive updated Idaho Law books. These are located in the **Idaho Book Collection**.
-- Swap out any new law code books.
-- Place older copy in Cage 1, Row, Section, 
-    - Do not withdraw catalog from Alma, or change locations.
-
----
-### Idaho State Library/Commission for Libraries
-
-Spec used to get publications from the Idaho State Library/Commission for Libraries. 
-- If a box is received, check against Library catalog for duplicates. 
-- If no duplicates, put collection flag in them and give them to Library catalogers.
 
 ---
 ### Digital Web Map – ID Geological survey

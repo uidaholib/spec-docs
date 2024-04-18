@@ -16,8 +16,13 @@ There are some definitions that might be unfamiliar to those not working closely
 4. **Migration:** Transferring digital materials from one hardware/software generation to the next newest, or from one format to another.
 5. **Sustainable File Formats (or Normalization):** Converting files to preservation format during ingest. See the [Library of Congress Recommended Formats Statement 2023-2024](https://www.loc.gov/preservation/resources/rfs/RFS%202023-2024.pdf).
 
-As of 2023, Spec seems to be at Level 1, Know Your Content.
+---
+### Formats and Digitization In-House Capabilities
 
+To see the equipment and material formats[^3] - both physical and digital - that are found in Spec, see the [Digitization Equipment and Material Formats](https://vandalsuidaho.sharepoint.com/:x:/r/sites/Storage-Library/Documents/spec/Spec-DDS%20File%20Sharing/Digitzation%20Equipment%20and%20Material%20Formats.xlsx?d=w96c5c5bb1ed14679b59f3250049d292d&csf=1&web=1&e=Aur3yn) spreadsheet.
+
+---
 ### Sources
 [^1]: Levels of Preservation Revisions Working Group, “Levels of Digital Preservation Matrix V2.0,” October2019, [​https://osf.io/2mkwx/](​https://osf.io/2mkwx/)
 [^2]: Levels of Preservation Revisions Working Group, “Using the Levels of Digital Preservation: an overview for V2.0,” October2019, [https://doi.org/10.17605/OSF.IO/NT8U9](https://doi.org/10.17605/OSF.IO/NT8U9)
+[^3]: Preservation Self-Assessment Program, "Collection ID Guide," n.d., [https://psap.library.illinois.edu/collection-id-guide](https://psap.library.illinois.edu/collection-id-guide)
