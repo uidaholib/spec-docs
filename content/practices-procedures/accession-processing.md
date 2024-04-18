@@ -12,7 +12,7 @@ title: Accession and Processing Procedures
 
 ### Accession Procedures
 
-If materials are deemed appropriate for inclusion in Spec, they will be accessioned. Manuscript, university, or photograph collections that have been accessioned will be noted with an identifying number beginning with **MA** or **UA**. For a step-by-step guide to accessioning, see the [Accession Manual]({{ '/content/accessions/rehouse.html' | relative_url }}).
+If materials are deemed appropriate for inclusion in Spec, they will be accessioned. Manuscript, university, or photograph collections that have been accessioned will be noted with an identifying number beginning with **MA** or **UA**. For a step-by-step guide to accessioning, see the **[Accession Manual]({{ '/content/accessions/rehouse.html' | relative_url }})**.
 
 The following is a summary of steps which make up the accessioning process:  
 1. If items cannot be accessioned immediately upon receipt, place items on shelving in intake area, as space allows, along with the completed Deed of Gift. 
@@ -26,7 +26,7 @@ The following is a summary of steps which make up the accessioning process:
 ---
 ### Processing Procedures
 
-Accessioned materials are made more useful and accessible through processing. Even a minimal level of processing should be the goal for all collections. While some collections may warrant a very thorough processing, box or folder-level descriptions should suffice in most instances. The level of detail should be determined by the complexity or variety of materials, the size of the collection, and a professional assessment of the collection's importance. This is a subjective process. For a step-by-step guide, see *insert link to processing*.  
+Accessioned materials are made more useful and accessible through processing. Even a minimal level of processing should be the goal for all collections. While some collections may warrant a very thorough processing, box or folder-level descriptions should suffice in most instances. The level of detail should be determined by the complexity or variety of materials, the size of the collection, and a professional assessment of the collection's importance. This is a subjective process. For a step-by-step guide, see **[Processing Manual]({{ '/content/processing/collection-description.html' | relative_url }})**.  
 
 The following is a summary of steps which should be used to process a collection:  
 
@@ -52,7 +52,7 @@ The following is a summary of steps which should be used to process a collection
 ### Born-Digital Processing
 *The following framework was largely adapted from the [University of Buffalo Libraries Special Collections](https://research.lib.buffalo.edu/digitalpreservation/processing)[^2], Yale Library's [Born Digital Archival Description Guidelines](https://guides.library.yale.edu/c.php?g=934566&p=6736587)[^3], and University of California's [Guidelines for Born-Digital Archival Description](https://github.com/uc-borndigital-ckg/uc-guidelines/tree/master)[^4].*
 
-Like physical collections, born-digital assets transferred or gifted to the department will undergo the same accessioning and processing procedures. For more information on how to accession and process materials, please see the [Accession]({{ '/content/accessions/rehouse.html' | relative_url }}) and [Processing]({{ '/content/processing/collection-description.html' | relative_url }}) Manuals. 
+Like physical collections, born-digital assets transferred or gifted to the department will undergo the same accessioning and processing procedures. For more information on how to accession and process materials, please see the **[Accession]({{ '/content/accessions/rehouse.html' | relative_url }})** and **[Processing]({{ '/content/processing/collection-description.html' | relative_url }})** Manuals. 
 
 Staff members must be certain to include donor documentation and whatever digital storage information there is upon donation. Before beginning the processing stage, staff members will follow a digital processing framework in order to accurately understand what the scope is.
 
