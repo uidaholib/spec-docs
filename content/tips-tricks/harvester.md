@@ -1,6 +1,6 @@
 ---
 section: Tips and Tricks
-nav_order: 2
+nav_order: 5
 title: Idaho Harvester Blog
 ---
 ---
