@@ -1,7 +1,7 @@
 ---
 section: Tips and Tricks
 nav_order: 2
-title: Books Collections
+title: Book Collections
 ---
 See [Scope of Collections](https://uidaholib.github.io/spec-docs/content/introduction/scope.html#other-archival-collections) for book collection descriptions.
 
