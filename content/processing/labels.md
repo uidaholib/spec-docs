@@ -41,3 +41,11 @@ When searching for a location, filtering the result by Room is beneficial. After
 - Once you find the location you need using the row, section, and shelf information you gathered, select the correct result. Then click **Link to Locations.** After linking, your screen will return here with the newly added location information.
 
 Be sure to click **Save Top Container.** Now when you go back to the Resource Record and scroll to the Instances, the boxes will have locations attached to them.
+
+{% capture text %}
+**WARNING:** When editing a box's location, make sure you aren't editing the actual *location* information as shown below. Changing this information doesn't change box information, it changes the entire location record.
+{% endcapture %}
+
+{% include alert.html text=text color="danger" %}
+
+{% include figure.html img="location-in-as.jpg" alt="locations record" caption="" width="80%" %}
