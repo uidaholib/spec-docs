@@ -23,7 +23,7 @@ layout: lesson-content
         <a class="btn btn-outline-danger m-1" href="{{ '/content/processing/resource-record.html' | relative_url }}">Resource Record</a>
         <a class="btn btn-outline-danger m-1" href="{{ '/content/processing/spreadsheet.html' | relative_url }}">ArchivesSpace Spreadsheet</a>
         <a class="btn btn-outline-danger m-1" href="{{ '/content/processing/finding-aid.html' | relative_url }}">Upload to Archives West</a>
-        <a class="btn btn-outline-danger m-1" href="https://uidaholib.github.io/spec-docs/content/processing/resource-record.html#instances">Instances</a>
+        <a class="btn btn-outline-danger m-1" href="{{ '/content/processing/labels.html' | relative_url }}">Labeling and Shelving</a>
     </div>
     <div class="col-md-3">
         <h2 class="py-2">Digital Materials</h2>
