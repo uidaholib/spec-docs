@@ -1,6 +1,6 @@
 ---
 section: Tips and Tricks
-nav_order: 3
+nav_order: 6
 title: Photo Negatives and Prints
 ---
 ---
