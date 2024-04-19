@@ -6,7 +6,7 @@ title: Accession and Processing Procedures
 <div class="text-center mb-2">
     <a href="#{{ 'Accession Procedures' | slugify }}" class="btn btn-secondary my-2 mx-1">Accession Procedures</a>
     <a href="#{{ 'Processing Procedures' | slugify }}" class="btn btn-secondary my-2 mx-1">Processing Procedures</a>
-    <a href="#{{ 'Born-Digital Processing' | slugify }}" class="btn btn-secondary my-2 mx-1">Born Digital Processing</a>
+    <a href="#{{ 'Born-Digital Accessioning and Processing' | slugify }}" class="btn btn-secondary my-2 mx-1">Born-Digital Accessioning and Processing</a>
 </div>
 ---
 
@@ -49,7 +49,7 @@ The following is a summary of steps which should be used to process a collection
 7. Shelve in final location and make note of location in AS
 
 ---
-### Born-Digital Processing
+### Born-Digital Accessioning and Processing
 *The following framework was largely adapted from the [University of Buffalo Libraries Special Collections](https://research.lib.buffalo.edu/digitalpreservation/processing)[^2], Yale Library's [Born Digital Archival Description Guidelines](https://guides.library.yale.edu/c.php?g=934566&p=6736587)[^3], and University of California's [Guidelines for Born-Digital Archival Description](https://github.com/uc-borndigital-ckg/uc-guidelines/tree/master)[^4].*
 
 Like physical collections, born-digital assets transferred or gifted to the department will undergo the same accessioning and processing procedures. For more information on how to accession and process materials, please see the **[Accession]({{ '/content/accessions/rehouse.html' | relative_url }})** and **[Processing]({{ '/content/processing/collection-description.html' | relative_url }})** Manuals. 
