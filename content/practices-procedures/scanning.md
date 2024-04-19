@@ -5,17 +5,17 @@ title: Scanning
 ---
 ---
 
-Spec scans archival materials for patron inquiries, inter-departmental requests, and other digitization projects such as digital collections. 
+Spec scans archival materials for patron inquiries, inter-departmental requests, and other digitization projects such as digital collections. When a *part* or a *whole* collection has been scanned, they are marked with orange "SCANNED" stickers (located in the processing room).
 
 {% capture text %}
-**NOTE:** Before scanning, check the **Archive drive** to see whether something has already been scanned! If you don't have access to the drive, contact the Digital Archivist.
+**NOTE:** Before scanning check the **Archive Drive** to see whether something has already been scanned! If you don't have access to the drive, contact the Digital Archivist.
 {% endcapture %}
 
 {% include alert.html text=text color="warning" %}
 
 When transferring files to patrons that are too large to send via email, use the *free* file transfer site [WeTransfer](https://wetransfer.com/). Creating a free account is *not* required.
 
-Documentation and instruction for scanning can be found on the University of Idaho Library [Digital Collections Team documentation site](https://uidaholib.github.io/digital-collections-docs/content/dc-team.html): 
+Documentation and instruction for scanning can be found on the University of Idaho Library [Digital Collections Team documentation site](https://uidaholib.github.io/digital-collections-docs/content/dc-team.html).
 
 **Scanning**
 1. [Intro to Scanning](https://uidaholib.github.io/digital-collections-docs/content/scanning/01-scanning-intro.html)
