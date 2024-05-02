@@ -4,7 +4,19 @@ nav_order: 6
 title: Material Locations
 ---
 
-Its hard to remember where everything is, so this is a list of materials which may not have clear locations.
+To find the location of a collection, check the ArchivesSpace record for **Instances** information. Be aware some records might have a permanent and temporary location attached. See for [Temporary Locations]({{ '/content/tips-tricks/temp-locations.html' | relative_url }}) more details. 
+
+**Please note:** Not all records have instances attached, so if something doesn't have a clear location, see the following information for hints. 
+
+<div class="text-center mb-2">
+    <a href="#{{ 'Cage 1' | slugify }}" class="btn btn-secondary my-2 mx-1">Cage 1</a>
+    <a href="#{{ 'Book Collection Area' | slugify }}" class="btn btn-secondary my-2 mx-1">Book Collections</a>
+    <a href="#{{ 'Small Manuscripts Area' | slugify }}" class="btn btn-secondary my-2 mx-1">Small MGs</a>
+    <a href="#{{ 'International Jazz Collection (IJC) Area' | slugify }}" class="btn btn-secondary my-2 mx-1">IJC Area</a>
+    <a href="#{{ 'Cage 2' | slugify }}" class="btn btn-secondary my-2 mx-1">Cage 2</a>
+    <a href="#{{ 'Bunker' | slugify }}" class="btn btn-secondary my-2 mx-1">Bunker</a>
+    <a href="#{{ 'New Addition' | slugify }}" class="btn btn-secondary my-2 mx-1">New Addition</a>
+</div>
 
 {% include figure.html img="basement.jpg" alt="lcsh name result" caption="" width="40%" %}
 
@@ -33,7 +45,7 @@ Its hard to remember where everything is, so this is a list of materials which m
 ---
 - Area after Book Collections and before Cage 1
 
-### International Jazz Collection (IJC Area)
+### International Jazz Collection (IJC) Area
 ---
 - Area after Book Collections and Small Manuscripts Area, before Cage 1
 - Houses jazz collections and the IJC Book Collection
