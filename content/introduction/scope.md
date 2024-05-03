@@ -45,6 +45,12 @@ Spec has also identified secondary or emerging subject areas for the manuscripts
 
 Photographs are a significant primary source type within Spec holdings and as such large collections have been catalogued as distinct record sets using the designation Photograph Group.  
 
+#### Small MGs
+
+Some collections are very small (i.e. one item in one folder). When those are processed, they are given a Small Manuscript Group identifier that start with the number **5** and shelved in the Small MG storage area. 
+
+For example, MG 5831 is the [Isabel Miller Sci-Fi collection](https://archiveswest.orbiscascade.org/ark:80444/xv250330) consisting of 3 items in one folder.
+
 #### International Jazz Collection
 
 In 2007, the Lionel Hampton Jazz Festival's archival holdings were transferred to Spec. At that time [International Jazz Collection](https://www.ijc.uidaho.edu/) was added to Spec priorities.   
