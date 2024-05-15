@@ -3,21 +3,23 @@ section: Processing Manual
 nav_order: 3
 title: ArchivesSpace Spreadsheet
 ---
----
 <div class="text-center mb-2">
     <a href="#{{ 'Physical Collections' | slugify }}" class="btn btn-secondary my-2 mx-1">Physical Collections</a>
     <a href="#{{ 'Born-Digital and Hybrid Collections' | slugify }}" class="btn btn-secondary my-2 mx-1">Born-Digital and Hybrid Collections</a>
     <a href="#{{ 'Upload to ArchivesSpace' | slugify }}" class="btn btn-secondary my-2 mx-1">Upload to ArchivesSpace</a>
 </div>
+---
 
 ### Physical Collections
 
 Use the ArchiveSpace Spreadsheet Upload Template to create the metadata needed to build the collection's finding aid. The template is located in **SharePoint > spec > Collections > Processed Collections > Finding Aid Files > [AS_spreadsheet_template.xlsx](https://vandalsuidaho.sharepoint.com/:x:/r/sites/Storage-Library/Documents/spec/Collections/Processed%20Collections/Finding%20Aid%20Files/AS_spreadsheet_template.xlsx?d=w4a88ebe4a32b4e72b3d05ceb320d7e6b&csf=1&web=1&e=bfs5fC)**
 
-Rather than beginning to work in the template, you'll want to make a copy by using **Save As** into the proper file location. To save properly, follow this pile path: *Share Point > spec > Collections > Processed Collections > Finding Aid Files > choose the group you're adding to > add a folder with your collections identifier (ex: MG 571)*
+Rather than beginning to work in the template, you'll want to make a copy by using **Save As** to the proper file location. To save properly, follow this pile path: *Share Point > spec > Collections > Processed Collections > Finding Aid Files > choose the group you're adding to > add a folder with your collections identifier (ex: MG 571)*. 
+
+Fields in the spreadsheet template that are colored RED are required fields. This template is usually used for collections that are more than one box. Alternately, small collections can be added manually in ArchiveSpace.
 
 {% capture text %}
-**NOTE:** Fields in the spreadsheet template that are colored RED are required fields. This template is usually used for collections that are more than one box. Small collections can be added manually in ArchiveSpace.
+**NOTE:** If using the spreadsheet to *update* a resource record, the below procedures will be the same. The upload process to ArchivesSpace will also be the same.
 {% endcapture %}
 
 {% include alert.html text=text color="warning" %}
@@ -68,8 +70,10 @@ For born-digital and hybrid collections, some fields in the **[ArchiveSpace Temp
 
 Rather than beginning to work in the template, you'll want to make a copy by using **Save As** into the proper file location. To save properly, follow this pile path: *Share Point > spec > Collections > Processed Collections > Finding Aid Files > choose the group you're adding to > add a folder with your collections identifier (ex: MG 571)*
 
+Fields in the spreadsheet template that are colored RED are required fields. This template is usually used for collections that are more than one box. Alternately, small collections can be added manually in ArchiveSpace.
+
 {% capture text %}
-**NOTE:** Fields in the spreadsheet template that are colored RED are required fields.
+**NOTE:** If using the spreadsheet to *update* a resource record, the below procedures will be the same. The upload process to ArchivesSpace will also be the same.
 {% endcapture %}
 
 {% include alert.html text=text color="warning" %}
@@ -134,7 +138,7 @@ To upload a completed spreadsheet:
     - The Series, Sub-Series, and Items from the spreadsheet should populate.
 
 {% capture text %}
-**NOTE:** If issues occur, consult colleagues for possible solutions. 
+**NOTE:** If issues occur, consult colleagues or use the [Orbis Cascade Help Form](https://www.orbiscascade.org/programs/osdc/help-request/).
 {% endcapture %}
 
 {% include alert.html text=text color="danger" %}
