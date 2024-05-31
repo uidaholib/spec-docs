@@ -66,8 +66,8 @@ Most of the book collections can be found in the Book Collections area (just out
 ##### Collections in Cage 1:
 - Thesis and Dissertations, Row 55
     - Thesis Music/Oversized, Row 139
-- Twain, Row 37
-- Pound, Row 29
+- Twain, Row 32
+- Pound, Row 31
 - Caxton, Row 64
 - Stonewall, Row 65
 - Non-Idaho Business and City Directories, Row 53
@@ -83,7 +83,6 @@ Most of the book collections can be found in the Book Collections area (just out
 
 ##### Collections in Reading Room:
 - Spec Ref (Reference)
-
 
 ---
 ### Digital Web Map – ID Geological survey
