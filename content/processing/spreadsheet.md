@@ -109,7 +109,7 @@ Example:
 | Dimensions | Optional | Copy *FORMAT_NAME* from DROID, or type in the file format type. | Tagged Image File Format |
 | Container Instance Type | Yes | This is often "Mixed Materials" for a general manuscript collection, but could also be Books, Audio, Computer Disks, Maps, Realia, Microform, etc.|
 | Top Container Type | Yes | For digital collections, type *Object*. |
-| Tope Container [indicator] | Yes | Type *Digital*. |
+| Top Container [indicator] | Yes | Type *Digital*. |
 | Child Type | Optional | Type *Object* |
 | Child indicator | Optional | Copy from the NAME field in DROID, or type file name with extension. | badluck51-01-color.tif |
 
