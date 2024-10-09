@@ -19,17 +19,17 @@ Archival collections under the care of Spec have been treated as separate from t
 
 Special Collections and Archives relies on the Mission and Vision of the Library to guide its work. The Library's Core Values of community, access and stewardship, and intellectual freedom are evident in the polices adopted by Spec.  
 
-- Mission of University of Idaho Library (as of Fall 2022): As Idaho's flagship research library, the University of Idaho Library connects our users with information, ideas, tools, and spaces; enriches formal and informal learning opportunities; supports and advances research, scholarly and creative activity; builds partnerships through regional and national outreach; and preserves university, state, and regional historical archives.  
+- Mission of University of Idaho Library (as of Fall 2022): As Idaho's flagship research library, the University of Idaho Library connects our users with information, ideas, tools, and spaces; enriches formal and informal learning opportunities; supports and advances research, scholarly, and creative activity; builds partnerships through regional and national outreach; and preserves university, state, and regional historical archives.  
 
-- Vision of University of Idaho Library (as of Fall 2022): The University of Idaho Library will develop and expand our capacity and skills to prove our users with the resources, training, and expertise of a world-class research library. We champion the transformative power of ideas and learning, inspire our students to engage in a lifelong pursuit of intellectual development, and provide an essential foundation for innovation, research, and scholarship. 
+- Vision of University of Idaho Library (as of Fall 2022): The University of Idaho Library will develop and expand our capacity and skills to provide our users with the resources, training, and expertise of a world-class research library. We champion the transformative power of ideas and learning, inspire our students to engage in a lifelong pursuit of intellectual development, and provide an essential foundation for innovation, research, and scholarship. 
 
 ---
 ### Objectives
 
 - Support discovery by preparing materials and creating access points for researchers 
-- Ensure longevity of analog and digital assets by following procedures which meet current standards 
+- Ensure longevity of analog and digital assets by following procedures that meet current standards 
 - Gain intellectual control over materials and identify scope of materials for research 
-- Empower staff members to make decisions about accepting and curating physical, born-digital and hybrid collections
+- Empower staff members to make decisions about accepting and curating physical, born-digital, and hybrid collections
 
 ---
 **Footnotes**
