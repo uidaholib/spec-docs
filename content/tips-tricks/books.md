@@ -8,7 +8,7 @@ See [Scope of Collections](https://uidaholib.github.io/spec-docs/content/introdu
 ---
 ### Checking for New Materials
 
-1. Check the mail room on the 4th floor (door across from elevator) for materials added to Spec book collections by the catalogers.
+1. Check the mail room on the 4th floor for materials added to Spec book collections by the catalogers.
 
 ---
 ### Exporting Book Lists From Alma
@@ -38,9 +38,15 @@ See [Scope of Collections](https://uidaholib.github.io/spec-docs/content/introdu
 ### Idaho Law Code Books
 
 Every so often Spec will receive updated Idaho Law books. These are located in the **Idaho Book Collection**.
-- Swap out any new law code books.
-- Place older copy in Cage 1, Row, Section, 
-    - Do not withdraw catalog from Alma, or change locations.
+
+When new books arrive and have been processed by Cataloging:
+1. Replace the old copy of the volume found in the Idaho Book Collection with the newer edition.
+2. The old copy should then be shelved in Cage 1, Row 22, Section 6.
+3. Additionally, new volumes may arrive with Supplements. These are to be placed INSIDE THE BACK of the corresponding volume (based on the code number).
+   - a. If there is already a Supplement in the back of the volume, remove it and add the newest version.
+   - b. There is a cut in the back endsheet into which you can insert the stiffer last page of the Supplement.
+   - c. Place the removed Supplements in Cage 1, Row 22, Section 6 as well.
+
 
 ---
 ### Idaho State Library/Commission for Libraries
