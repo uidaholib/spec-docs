@@ -100,7 +100,7 @@ Terms and Conditions
 Forms:
 
 - [Internal Transfer online form](https://forms.office.com/pages/responsepage.aspx?id=Y2u8fpJXGUqyCwS4JgSIUxaSEHQ0MBFJmCa2EIVFmhNUQlMwNFlHQ09ONVZYRUFFVzhGRFBQR1U5Ry4u&route=shorturl).
-- [Internal Transfer PDF form]({{ site.lib-media }}/spec/Archives_transfer form_2024.pdf).
+- [Internal Transfer PDF form](https://www.lib.uidaho.edu/media/spec/Archives_transfer%20form_2024.pdf)
 
 ---
 ## Purchasing
