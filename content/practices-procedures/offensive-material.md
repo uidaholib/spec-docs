@@ -31,10 +31,7 @@ There is a difference between creator-supplied and archivist-supplied language. 
 
 When archivist-supplied language is edited, such changes should be noted in the "Processing Note" of the finding aid or on a digital collection's home page. This is done in order to document the history of that individual finding aid or digital collection, and to document the broader history of archival descriptive practices and how they may have changed over time. 
 
-Following current descriptive best practices, newly processed collections should use inclusive and non-discriminatory language. The following priorities have been set by Spec, informed by the work of peers in the industry[^1].
-
-
-[^1]: Many suggestions set forth in [*Archives for Black Lives in Philadelphia: Anti-Racist Description Resources*](https://archivesforblacklives.files.wordpress.com/2019/10/ardr_final.pdf) and [*Protocols for Native American Archival Materials*](https://www2.archivists.org/groups/native-american-archives-section/protocols-for-native-american-archival-materials-information-and-resources-page) have been adopted to ensure Spec limits the use of terms and descriptions that may be offensive. 
+Following current descriptive best practices, newly processed collections should use inclusive and non-discriminatory language. The following priorities have been set by Spec, informed by the work of peers in the industry (Many suggestions set forth in [*Archives for Black Lives in Philadelphia: Anti-Racist Description Resources*](https://archivesforblacklives.files.wordpress.com/2019/10/ardr_final.pdf) and [*Protocols for Native American Archival Materials*](https://www2.archivists.org/groups/native-american-archives-section/protocols-for-native-american-archival-materials-information-and-resources-page) have been adopted to ensure Spec limits the use of terms and descriptions that may be offensive).
 
 ---
 
