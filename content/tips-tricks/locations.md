@@ -4,6 +4,8 @@ nav_order: 6
 title: Material Locations
 ---
 
+[This section may be out of date and is under review]
+
 To find the location of a collection, check the ArchivesSpace record for **Instances** information. Be aware some records might have a permanent and temporary location attached. See for [Temporary Locations]({{ '/content/tips-tricks/temp-locations.html' | relative_url }}) more details. 
 
 **Please note:** Not all records have instances attached, so if something doesn't have a clear location, see the following information for hints. 

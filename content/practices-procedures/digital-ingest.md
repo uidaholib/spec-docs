@@ -10,6 +10,8 @@ title: Ingesting Digital Materials
     <a href="#{{ 'Procedures' | slugify }}" class="btn btn-secondary my-2 mx-1">Procedures</a>
 </div>
 
+[This section is out of date and under review - ask Rebecca]
+
 ## When to Ingest
 ---
 

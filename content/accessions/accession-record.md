@@ -17,7 +17,7 @@ The following is based on the Accessions Manual created by Ashlyn Velte in 2018 
 - In ArchivesSpace, click **Create** located next to the search box.
 - From the drop-down menu, click **Accessions**.
 
-**NOTE:** AS only requires 3 fields to create an accession record: *Title, Identifier,* and *Accession Date*. However, these fields are not enough to create a good accession record and it’s important to include more information. You can save a record at any point. You can leave and come back to a record but be sure to click save. The save button is at the top of the record.
+**NOTE:** ArchivesSpace requires only 3 fields to create an accession record: *Title, Identifier,* and *Accession Date*. However, these fields are not enough to create a good accession record and it’s important to include more information. You can save a record at any point. You can leave and come back to a record, but be sure to click the blue save button at the top of the record or at the bottom of the left-hand menu.
 
 <div class="text-center mb-2">
     <a href="#{{ 'Basic Information Fields' | slugify }}" class="btn btn-secondary my-2 mx-1">Basic Information Fields</a>

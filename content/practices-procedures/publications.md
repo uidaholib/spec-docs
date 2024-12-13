@@ -9,10 +9,10 @@ title: Books, Periodicals, and Maps
 Sometimes publications such as books, periodicals (journals, magazines, newspapers, etc.), and maps are donated with or without context. When these situations occur, first check the publication title against the Library's catalog at **[www.lib.uidaho.edu](https://www.lib.uidaho.edu/)**. 
 
 **If the publication *is not* found within the catalog:**
-1. Determine whether the item fits within the [Scope of Collections]({{ '/content/introduction/scope.html' | relative_url }}) and consult the Head.
+1. Determine whether the item fits within the [Scope of Collections]({{ '/content/introduction/scope.html' | relative_url }}) and consult the Head of Spec.
 2. If adding to a book collection:
     - Place **green or orange bookmark** inside to identify the collection. Green = Day-NW; Orange = Idaho (or other collection). Located in processing room.
-    - Give item to cataloger so they add it in Alma.
+    - Give item to cataloger, who will add it in Alma.
 3. If **not** adding to Spec stacks, follow the *Retention Rule* noted in the Accession Record or Deed of Gift form.
 
 **If the publication *is* found within the catalog (multiple locations including Spec):**
@@ -22,7 +22,7 @@ Sometimes publications such as books, periodicals (journals, magazines, newspape
 1. Determine whether the item fits within the [Scope of Collections]({{ '/content/introduction/scope.html' | relative_url }}) and consult the Head.
 2. If adding to a book collection:
     - Place **green or orange bookmark** inside to identify the collection. Green = Day-NW; Orange = Idaho (or other collection). Located in processing room.
-    - Give item to cataloger so they add it in Alma.
+    - Give item to cataloger, who will add it in Alma.
 3. If **not** adding to Spec stacks, follow the *Retention Rule* noted in the Accession Record or Deed of Gift form.
 
 **If the publication *is* in Spec, but the recently donated copy is *signed*:**

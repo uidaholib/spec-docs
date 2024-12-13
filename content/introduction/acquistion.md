@@ -109,6 +109,8 @@ In rare occasions, materials may be acquired through purchase. Such purchases ha
 ---
 ## Born-Digital Materials
 
+[section under review]
+
 When discussing born-digital assets, speak with the donor about a basic inventory and whether there are encrypted* materials. An inventory will help when understanding the scope of the materials and how they fit within the archives. Be sure to use virus scans and other technologies to view and access the files to protect against viruses or corrupted material. 
 
 - Transfer Types

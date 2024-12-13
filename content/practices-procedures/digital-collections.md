@@ -13,19 +13,11 @@ Archival digitization can sometimes turn into a larger project such as creating 
 
 {% include alert.html text=text color="danger" %}
 
-Before creating a digital collection, consult the Digital Collections Team (DCT). Digital Collection metadata and creation documentation can be found on the University of Idaho Library [Digital Collections Team documentation site](https://uidaholib.github.io/digital-collections-docs/content/dc-team.html):
-
-**Metadata**
-1. [What is Metadata?](https://uidaholib.github.io/digital-collections-docs/content/metadata/01-what-is-metadata.html)
-2. [Metadata Guidelines](https://uidaholib.github.io/digital-collections-docs/content/metadata/02-metadata.html)
-
-**Collection Creation**
-1. [Create a Collection](https://uidaholib.github.io/digital-collections-docs/content/collection-creation/01-create.html)
-2. [Preview Changes](https://uidaholib.github.io/digital-collections-docs/content/collection-creation/02-build.html)
-3. [Update Metadata](https://uidaholib.github.io/digital-collections-docs/content/collection-creation/03-update-metadata.html)
-4. [About Page](https://uidaholib.github.io/digital-collections-docs/content/collection-creation/05-about-page.html)
+Before creating a digital collection, consult the Digital Collections Team (DCT). Digital Collection metadata and creation documentation can be found on the University of Idaho Library [Digital Collections Team documentation site](https://uidaholib.github.io/digital-collections-docs/content/dc-team.html).
 
 **Born-Digital Materials**
+
+[This section is out of date and under review]
 
 In some instances, born-digital collections or assets can be made into a digital collection. First ingest files using the [Digital Material Ingest]({{ '/content/processing/digital-ingest.html' | relative_url }}) documentation.
 

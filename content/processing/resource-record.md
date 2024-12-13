@@ -107,7 +107,7 @@ The **Finding Aid Data** section in the Resource Record houses finding aid creat
 | Field | Required | Content | Examples |
 | - | ----- | -------- | -------- |
 | Finding Aid Title | Yes | Guide to [Collection Title] | Guide to University of Idaho photograph collection |
-| Finding Aid Subtitle | Optional | Not require nor a field used often. |
+| Finding Aid Subtitle | Optional | Not required nor a field used often. |
 | Finding Aid Filing Title | Yes | Usually just the collection title. If a title with a person's name, the format is Last Name (First and Middle). | Vandal (Jane J.) papers |
 | Finding Aid Date | Yes | Year the finding aid was completed. If a finding aid was updated, note the date of update in the Finding Aid Author field. | 2037 |
 | Finding Aid Author | Yes | Finding Aid prepared by [name of person who prepared the finding aid] | Finding aid prepared by Jane Vandal; Finding aid prepared by Jane Vandal, updated by Joe Vandal in 2035. |
