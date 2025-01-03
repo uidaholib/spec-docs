@@ -13,7 +13,7 @@ In ArchivesSpace, find the Resource Record that is ready to be uploaded. Once fo
 
 - To the right of the record, click on the **Export** button.
 - Then *hover* over the **Download EAD**. A small window will pop up.
-    - Make sure the top 3 boxes are checked. 
+    - Make sure the top **4** boxes are checked (do not check "EAD3 schema"). 
 - Then click on **Download EAD**.
 
 {% include figure.html img="ead.jpg" alt="downloading ead" caption="" width="" %}
