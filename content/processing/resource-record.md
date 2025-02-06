@@ -235,7 +235,7 @@ This section adds additional descriptive information about the materials describ
 To add a note:
 1. Click *Add Note*.
 2. Begin adding Note Types from the dropdown menu. Add as many as you can to provide researchers with as much collection information as possible.
-- To link *webpages*, type: <code class="language-plaintext highlighter-rouge">extref linktype="simple" title="webpage" actuate="onrequest" show="new" href="paste link here">"Paste title here, paste date here."</extref></code>
+- To link *webpages*, copy and paste the following, adding in your URL (link) and the text (words or link) you want to be clickable: `<extref linktype="simple" title="webpage" show="new" href="PASTE LINK HERE" actuate="onrequest">WORDS OR LINK</extref>.`
 
 Below are fields usually filled out by processors.
 
