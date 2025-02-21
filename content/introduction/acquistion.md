@@ -43,7 +43,7 @@ Please contact the Special Collections and Archives department of the University
 
 The lists below are meant to provide a starting place for faculty members to think about their personal collections. There are always special cases, and working with an archivist from the university's repository is strongly encouraged. 
 
-####Criteria for acquisition (must meet one or more) 
+#### Criteria for acquisition (must meet one or more) 
 
 - Record of service to the University and contribution to its growth
 
@@ -51,7 +51,8 @@ The lists below are meant to provide a starting place for faculty members to thi
 
 - Record of service and contribution in community, state, and/or national affairs; represent the University through notable partnerships and projects
 
-<Types of records typically retained by the archive (any/all that apply)> 
+<details>
+<summary>Types of records typically retained by the archive (any/all that apply)</summary>
 
 - Correspondence
 
@@ -79,9 +80,10 @@ The lists below are meant to provide a starting place for faculty members to thi
 
 - Rare books and other rare publications acquired in the pursuit of research
 
-<Types of records typically retained by the archive (any/all that apply)>
-  
-<Types of records NOT to collect>
+</details>
+
+<details>
+<summary>Types of records NOT to collect</summary>
 
 - Books and other publications widely available through interlibrary loan or online, such as journals and magazines 
 
@@ -97,7 +99,7 @@ The lists below are meant to provide a starting place for faculty members to thi
 
 - University publications that are duplicated in other repository collections
 
-<Types of records NOT to collect>
+</details>
 
 {:.table .table-bordered}
 | Mailing Address | Special Collections and Archives, University of Idaho Library, 875 Perimeter Drive, MS 2351, Moscow, ID 83844-2351 |
@@ -116,7 +118,8 @@ The following requirements shall be met before any transfer of records to the Li
 - Detailed and accurate labeling of record boxes/folders/enclosures
 - Complete box inventories and transfer form
 
-<Preparing Records for Transfer>
+<details>
+<summary>Preparing Records for Transfer</summary>
 
 - The Special Collections and Archives prefers a standard sized durable box 15" in width x 11.5" in width x 10.5" in height and made of an acid neutral or acid free material, if possible
 - Pack records in the same order in which they are/were filed in the office
@@ -147,7 +150,7 @@ Records Transfer Form
 - Please keep a copy of the transfer form 
 - The transfer form should accompany the records at the time of transfer or can be sent electronically or by mail
 
-<Preparing Records for Transfer>
+</details>
 
 Terms and Conditions
 
