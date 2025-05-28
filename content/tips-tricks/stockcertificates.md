@@ -14,7 +14,7 @@ Special Collections and Archives frequently receives patron inquiries about how 
 
 3. Spec employees can do some research about the company as well, if time allows. 
 
-4. If the company is no longer in operation and was not acquired by another company, then the stock certificate cannot be redeemed. It may still have value as a collectible. If the company is still in business or was acquired by another company, it is possible that the stock certificate can still be redeemed.
+4. If the company is no longer in operation and was not acquired by another company, then the stock certificate cannot be redeemed. It may still have value as a collectible. If the company is still in business or was acquired by another company that is still in business, it is possible that the stock certificate can still be redeemed.
 
 5. Spec employees can provide the patron with some additional resources regarding stock certificates.
 
@@ -28,7 +28,7 @@ State government websites usually have information about companies registered in
 
 Most of the stock certificates in our collections were registered in Idaho, but some were registered in other states or in Canada. Other states should have similar information on their Secretary of State's website, and information about Canadian companies can be found at [https://www.securities-administrators.ca/investor-tools/how-to-determine-the-value-of-an-old-stock-certificate/](https://www.securities-administrators.ca/investor-tools/how-to-determine-the-value-of-an-old-stock-certificate/). The state archives of individual states may also have further information about companies registered in those states.
 
-In general, if the company is no longer in operation and was not acquired by another company, then the stock certificate cannot be redeemed. It may still have value as a collectible. If the company is still in business or was acquired by another company, it is possible that the stock certificate can still be redeemed.
+In general, if the company is no longer in operation and was not acquired by another company, then the stock certificate cannot be redeemed. It may still have value as a collectible. If the company is still in business or was acquired by another company that is still in business, it is possible that the stock certificate can still be redeemed.
 
 Here are a few resources that may be helpful in determining what to do with old stock certificates:
 
