@@ -45,11 +45,11 @@ Example 2:
 {:.table .table-bordered}
 | Field | Required | Content | Examples |
 | - | ----- | -------- | -------- |
-| Date Label | Optional | Usually creation date of materials is selected. Type *Creation.*  A brochure from 1995 4-H conference, label is *Creation*. |
-| Date Begin | Optional | Must be written in YYYY-MM-DD, YYYY-MM, or YYYY. Spreadsheet cell should be formatted as *text* to avoid issues. | 1995-05-18  ; 1987-04 ; 2006 |
+| Date Label | Yes | Usually creation date of materials is selected. Type *Creation.*  A brochure from 1995 4-H conference, label is *Creation*. |
+| Date Begin | Yes | Must be written in YYYY-MM-DD, YYYY-MM, or YYYY. Spreadsheet cell should be formatted as *text* to avoid issues. | 1995-05-18  ; 1987-04 ; 2006 |
 | Date End | Optional | If there is a date range for the materials fill in both the begin date AND the end date fields. Must be written in YYYY-MM-DD, YYYY-MM, or YYYY. | Begin: 1995; End: 2006 |
 | Date Type | Yes | If one date known, select *single*. If date range known, select *inclusive*. *Bulk* can be selected if most material comes from one date over another. | Materials are from 1955-1995, so *inclusive*. |
-| Date Expression | Optional | If dates known, write them out here. | Date range is from 1995-01 to 1998-06, then written is January 1995 - June 1998; Date is 2008-09-15 then 15 September 2008. |
+| Date Expression | Yes | If dates known, write them out here. | Date range is from 1995-01 to 1998-06, then written is January 1995 - June 1998; Date is 2008-09-15 then 15 September 2008. |
 | Extent Portion | Optional | Generally this will be "whole" though "part" is also an option. | 
 | Extent Number | Yes | If Extent section filled, this is required. Numerical expression of material. | A folder contains 45 negatives: Extent Portion *whole*, Extent Number *45*. |
 | Extent type | Yes | If Extent section filled, this is required. Frequently the type is "folder" and the extent is "1" when you are cataloging at the folder level. Other examples of extent types include items, cassettes, megabytes, photographic prints, reels, volumes, pages. |
