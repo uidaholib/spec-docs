@@ -12,11 +12,11 @@ Special Collections and Archives frequently receives patron inquiries about how 
 
 2. Advise the patron to look up information about the company that the stock certificate is associated with. Companies should have been registered as a business with the state government (although not all of them still have records), so state government websites should be able to provide some information. 
 
-3. Spec employees can do some research about the company as well, if they want. 
+3. Spec employees can do some research about the company as well, if time allows. 
 
 4. If the company is no longer in operation and was not acquired by another company, then the stock certificate cannot be redeemed. It may still have value as a collectible. If the company is still in business or was acquired by another company, it is possible that the stock certificate can still be redeemed.
 
-5. Spec employees can provide the patron with some additional resources regarding stock certificates if it seems appropriate.
+5. Spec employees can provide the patron with some additional resources regarding stock certificates.
 
 6. In most cases, the "we can't assess value, here are some places to look" approach is all we should feel obliged to respond with. 
 
