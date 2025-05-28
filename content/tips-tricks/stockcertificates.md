@@ -18,8 +18,6 @@ Special Collections and Archives frequently receives patron inquiries about how 
 
 5. Spec employees can provide the patron with some additional resources regarding stock certificates.
 
-6. In most cases, the "we can't assess value, here are some places to look" approach is all we should feel obliged to respond with. 
-
 ### Response language
 
 *Feel free to copy/paste/edit the following language as needed.* ***Make sure links work!***
