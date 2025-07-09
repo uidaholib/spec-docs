@@ -43,8 +43,8 @@ The fields listed below should be filled for each resource record. Please consul
 | Identifier | Yes | Assign the identifier based on the next available number in the [List of All Collections](https://vandalsuidaho.sharepoint.com/:x:/r/sites/Storage-Library/Documents/spec/Collections/Processed%20Collections/List%20of%20All%20Processed%20Collections.xlsx?d=w5ab19cc4fbee525e912b7bcd8afa738a&csf=1&web=1&e=cs00Gc&nav=MTVfezAwMDAwMDAwLTAwMDEtMDAwMC0wMjAwLTAwMDAwMDAwMDAwMH0). If you have questions about the difference between MGs, UGs, and PGs, see the [Scope of Collections]({{ '/content/introduction/scope.html' | relative_url }}) documentation. |
 | Level of Description | Yes | Drop-down menu. Usually *Collection*. |
 | Resource Type | Optional | Drop-down menu. Best practice is to select the type even if this field isn't required in AS. Selections are *Collection, Publications, Records* and *Papers*. | University of Idaho photograph collection; Joe Vandal papers; Sunshine Mine Company records |
-| Publish? | Optional | Check for to publish. |
-| Restrictions Apply? | Optional | Check is there are restrictions. |
+| Publish? | Optional | Check to publish. |
+| Restrictions Apply? | Optional | Check if there are restrictions. |
 | Repository Processing Note | Optional | Not included in any reports or exports. Include additional processing information. |
 
 ---
@@ -245,7 +245,7 @@ Below are fields usually filled out by processors.
 | Abstract | Yes | 2-3 sentence description of the collection. Will serve as the *Summary* section on [Archives West](https://archiveswest.orbiscascade.org/search.php?r=idu). | *Records, pictures, and other miscellaneous papers from the University of Idaho Press.* |
 | Arrangement | Yes | Include whether the collection has retained its original order, or if there was archivist intervention.| *Original order retained.* OR *The original order of this born-digital collection was retained during ingestion. During the processing stage archivists reorganized folders and filenames in order to allow easier integrated into a single system of arrangement.* |
 | Bibliography | Optional | Include a bibliography if outside research done and compiled to complete the Biographical/Historical Note. To include a clickable link, see [Clickable Links in AS & AW]({{ '/content/tips-tricks/links-as-aw.html' | relative_url }}). |
-| Bibliographical / Historical | Yes | Include historical context or biographical context about the collection. See [Composing a Collection Description]({{ '/content/processing/collection-description.html' | relative_url }}) to help fill out this field. |
+| Biographical / Historical | Yes | Include historical context or biographical context about the collection. See [Composing a Collection Description]({{ '/content/processing/collection-description.html' | relative_url }}) to help fill out this field. |
 | Conditions Governing Access | Yes | Inform researchers about accessing physical and digital materials. | *Collection is open for research.* |
 | Conditions Governing Use | Optional (if restricted materials) | Identify any restrictions on reproduction due to copyright or other reasons, as well as restrictions on further use of the materials being described, such as publication, after access has been provided. | *Consult Head of Special Collections and Archives on permissions for use.* |
 | Existence and Locations of Copies | Optional | Used to distinguish when a duplicate of an item is an access copy made by the Archives. | *The access files of the digital materials in this collection are located on the archive drive. Contact University of Idaho Library Special Collections and Archives for access or questions.* |
