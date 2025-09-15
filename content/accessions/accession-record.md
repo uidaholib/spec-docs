@@ -38,7 +38,7 @@ The fields listed below should be filled for each accession record. Please consu
 | - | ----- | -------- | -------- |
 | Title | Yes | Some version of the donor, campus department, or creator name combined with papers/records/collection/photographs. The naming rules are based on [Describing Archives: A Content Standard (DACS)](https://www2.archivists.org/groups/technical-subcommittee-on-describing-archives-a-content-standard-dacs/describing-archives-a-content-standard-dacs-second-) guideline. | The President’s Office records; Civilian Conservation Corp (CCC) photographs; John Osborn collection; Leonard Feather papers |
 | Identifier | Yes | Use Accession List Excel sheet (in Sharepoint) to find the next available **UA** or **MA** identifier | English Dept. records = UA; Gary Williams, English prof. = MA; Community group corporate records = MA; USB of photographs from dept. on campus = UA |
-| Publish? | Don't click |  |
+| Publish? | Don't check |  |
 | Content Description | Yes | Note what is in the accession. Be sure to mention if there are any *external storage devices* such as CDs, DVDs, zip drives, etc. | 3 CDs of photographs of plants found on the U of I campus; 4 boxes of records and various other papers |
 | Condition Description | Optional | Describe any condition issues you see with the collection (tears, rips, dirt etc.). | Three damaged boxes. |
 | Disposition | Optional | Note whether materials were separated | Photographs were separated and made into a PG collection. |
