@@ -6,7 +6,7 @@ title: Clickable Links in AS & AW
 
 While doing Biographical/Historical research to complete the Resource Record fields in ArchivesSpace, a processor may want to link back to research they used. To have a clickable link, copy and paste: 
 
-`<extref linktype="simple" title="webpage" show="new" href="PASTE LINK HERE" actuate="onrequest">WORDS OR LINK</extref>.`
+`<extref linktype="simple" title="webpage" show="new" href="PASTE LINK HERE" actuate="onrequest">WORDS OR LINK</extref>`
 
 Examples: 
 
