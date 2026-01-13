@@ -1,6 +1,6 @@
 ---
 section_id: Accession Manual
-nav_order: 3
+nav_order: 2
 title: Rehousing Materials
 topics: 
 ---

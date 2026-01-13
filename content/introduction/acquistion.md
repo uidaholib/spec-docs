@@ -1,6 +1,6 @@
 ---
 section: Introduction
-nav_order: 2
+nav_order: 3
 title: Acquisition Practices
 ---
 When presented with an opportunity to add new material to our archives, several factors must be considered. Spec staff and faculty use the following criteria to determine if an acquisition is prudent.  

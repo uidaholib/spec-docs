@@ -1,6 +1,6 @@
 ---
 section: Practices and Procedures
-nav_order: 4
+nav_order: 7
 title: Digital Preservation
 ---
 *The following processes and information is based on the National Digital Stewardship Alliance (NSDA) [Levels of Digital Preservation](https://ndsa.org/publications/levels-of-digital-preservation/) implementation, assessment, and curatorial guidelines.*[^1]

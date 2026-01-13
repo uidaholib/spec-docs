@@ -1,6 +1,6 @@
 ---
 section: Introduction
-nav_order: 1
+nav_order: 2
 title: Scope of Collections
 ---
 <div class="text-center mb-2">
