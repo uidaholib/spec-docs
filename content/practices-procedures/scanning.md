@@ -1,6 +1,6 @@
 ---
 section: Practices and Procedures
-nav_order: 10
+nav_order: 9
 title: Scanning
 ---
 ---
