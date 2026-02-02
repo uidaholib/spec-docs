@@ -16,7 +16,7 @@ Instructions for researching a RECA claim (SharePoint): [Downwinder (RECA) refer
 
 ### Email Language
 
-*Make sure links work!*:
+*Make sure links work*:
 
 Dear [patron],
 
