@@ -1,5 +1,5 @@
 ---
-section: Patron Services
+section: Tips and Tricks
 nav_order: 6
 title: RECA Claims Resources
 ---
