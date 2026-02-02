@@ -30,7 +30,7 @@ Due to the volume of recent Downwinders requests, it may take one to two weeks t
 
 ### Cover Letter Language
 
-*For a cover letter, Dulce needs this text. Please edit as needed to reflect collections used or multiple names searched:*
+*For a cover letter, Dulce needs this text. Please edit as needed to reflect collections used and/or multiple names searched:*
 
 Included with this letter please find scans of pages from the telephone directory for [Idaho town)] published in years [19XX to 19XX]. The scans were made from original directories within the University of Idaho’s IDTELE collection. The attached records containing references to [Name of Person in Listing] of [Idaho town], Idaho are a true and accurate copy of a record kept in our files. 
 
