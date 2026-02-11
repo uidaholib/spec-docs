@@ -1,6 +1,6 @@
 ---
 section: Tips and Tricks
-nav_order: 4
+nav_order: 9
 title: Vertical Files
 ---
 
@@ -50,4 +50,4 @@ Most of these VFs have an ArchivesSpace spreadsheet on SharePoint for tracking n
 
 ### Idaho Subject Vertical File
 ---
-This VF consists of 52 cubic feet of materials and is stored next to the IJC area. See it's Archives West record here: [Idaho Subject Vertical File](https://archiveswest.orbiscascade.org/ark:80444/xv414702)
+This VF consists of 52 cubic feet of materials and is stored next to the IJC area. See its Archives West record here: [Idaho Subject Vertical File](https://archiveswest.orbiscascade.org/ark:80444/xv414702)

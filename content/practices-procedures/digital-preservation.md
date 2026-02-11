@@ -1,7 +1,7 @@
 ---
 section: Practices and Procedures
-nav_order: 7
-title: Digital Preservation
+nav_order: 9
+title: Digital Preservation Procedures
 ---
 *The following processes and information is based on the National Digital Stewardship Alliance (NSDA) [Levels of Digital Preservation](https://ndsa.org/publications/levels-of-digital-preservation/) implementation, assessment, and curatorial guidelines.*[^1]
 
@@ -23,6 +23,6 @@ To see the equipment and material formats[^3] - both physical and digital - that
 
 ---
 ### Sources
-[^1]: Levels of Preservation Revisions Working Group, “Levels of Digital Preservation Matrix V2.0,” October2019, [​https://osf.io/2mkwx/](​https://osf.io/2mkwx/)
+[^1]: Levels of Preservation Revisions Working Group, “Levels of Digital Preservation Matrix V2.0,” October2019, [https://ndsa.org/publications/levels-of-digital-preservation/](https://ndsa.org/publications/levels-of-digital-preservation/)
 [^2]: Levels of Preservation Revisions Working Group, “Using the Levels of Digital Preservation: an overview for V2.0,” October2019, [https://doi.org/10.17605/OSF.IO/NT8U9](https://doi.org/10.17605/OSF.IO/NT8U9)
 [^3]: Preservation Self-Assessment Program, "Collection ID Guide," n.d., [https://psap.library.illinois.edu/collection-id-guide](https://psap.library.illinois.edu/collection-id-guide)

@@ -1,9 +1,9 @@
 ---
-section: Practices and Procedures
-nav_order: 5
+section: Patron Services
+nav_order: 4
 title: Reading Room Practices
 ---
----
+
 The department maintains a Reading Room on the first floor of the library where patrons are welcome to visit during regular hours, or make an appointment in advance, to review materials housed in the archives. **We ask for at least 48 hours of notice so that we may do any preparatory searching and retrieving in advance.** Reading Room walk-in hours and appointment availability vary, check current hours here: [Hours and Appointments](https://www.lib.uidaho.edu/special-collections/plan.html#hours).
 
 The following rules are established to ensure the safety and preservation of collections as well as the quality of the experience for patrons.

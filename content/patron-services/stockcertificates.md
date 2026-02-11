@@ -1,6 +1,6 @@
 ---
-section: Tips and Tricks
-nav_order: 16
+section: Patron Services
+nav_order: 7
 title: Stock Certificate Guidance
 ---
 

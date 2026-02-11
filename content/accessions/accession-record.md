@@ -1,6 +1,6 @@
 ---
 section: Accession Manual
-nav_order: 1
+nav_order: 2
 title: Accession Record
 topics: 
 ---
@@ -8,8 +8,8 @@ topics:
 The following is based on the Accessions Manual created by Ashlyn Velte in 2018 and subsequently updated by Amy Thompson in 2019 and 2022. It was again updated in 2023 by Dulce Kersting-Lark.
 
 ---
-### Log into [ArchivesSpace (AS)](https://uidaho.libraryhost.com/admin)
-- URL: [https://uidaho.libraryhost.com/admin](https://uidaho.libraryhost.com/admin).
+### Log into [ArchivesSpace (AS)](https://uidaho.libraryhost.com/)
+- URL: [https://uidaho.libraryhost.com/](https://uidaho.libraryhost.com/).
 - The username and password are established upon account creation.
 
 ---

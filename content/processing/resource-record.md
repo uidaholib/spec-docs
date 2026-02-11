@@ -1,13 +1,13 @@
 ---
 section: Processing Manual
-nav_order: 2
+nav_order: 3
 title: Resource Record
 ---
 ---
 The following are sections and fields a processor must fill out in order to have a complete Resource Record in ArchivesSpace. Use the information from your [Collection Description]({{ '/content/processing/collection-description.html' | relative_url }}) document to help fill out fields.
 
-### Log into [ArchivesSpace (AS)](https://uidaho.libraryhost.com/admin) & Create a Resource Record
-- URL: [https://uidaho.libraryhost.com/admin](https://uidaho.libraryhost.com/admin).
+### Log into [ArchivesSpace (AS)](https://uidaho.libraryhost.com/) & Create a Resource Record
+- URL: [https://uidaho.libraryhost.com/](https://uidaho.libraryhost.com/).
 - The username and password are established upon account creation.
 - Create a Resource Record
     - Option 1:
@@ -244,7 +244,7 @@ Below are fields usually filled out by processors.
 | --- | ----| --------- |------- |
 | Abstract | Yes | 2-3 sentence description of the collection. Will serve as the *Summary* section on [Archives West](https://archiveswest.orbiscascade.org/search.php?r=idu). | *Records, pictures, and other miscellaneous papers from the University of Idaho Press.* |
 | Arrangement | Yes | Include whether the collection has retained its original order, or if there was archivist intervention.| *Original order retained.* OR *The original order of this born-digital collection was retained during ingestion. During the processing stage archivists reorganized folders and filenames in order to allow easier integrated into a single system of arrangement.* |
-| Bibliography | Optional | Include a bibliography if outside research done and compiled to complete the Biographical/Historical Note. To include a clickable link, see [Clickable Links in AS & AW]({{ '/content/tips-tricks/links-as-aw.html' | relative_url }}). |
+| Bibliography | Optional | Include a bibliography if outside research done and compiled to complete the Biographical/Historical Note. To include a clickable link, see [Clickable Links in AS & AW]({{ '/content/processing/links-as-aw.html' | relative_url }}). |
 | Biographical / Historical | Yes | Include historical context or biographical context about the collection. See [Composing a Collection Description]({{ '/content/processing/collection-description.html' | relative_url }}) to help fill out this field. |
 | Conditions Governing Access | Yes | Inform researchers about accessing physical and digital materials. | *Collection is open for research.* |
 | Conditions Governing Use | Optional (if restricted materials) | Identify any restrictions on reproduction due to copyright or other reasons, as well as restrictions on further use of the materials being described, such as publication, after access has been provided. | *Consult Head of Special Collections and Archives on permissions for use.* |

@@ -1,7 +1,7 @@
 ---
-section: Tips and Tricks
-nav_order: 8
-title: Patron Inquiries
+section: Patron Services
+nav_order: 2
+title: Answering Patron Inquiries
 ---
 {% capture text %}
 **NOTE:** Before scanning materials for an inquiry, check the **Archive drive** to see whether something has already been scanned! If you don't have access to the drive, contact the Digital Archivist.

@@ -1,6 +1,6 @@
 ---
 section_id: Practices and Procedures
-nav_order: 1
+nav_order: 2
 title: Accession and Processing Procedures
 ---
 <div class="text-center mb-2">
@@ -16,7 +16,7 @@ If materials are deemed appropriate for inclusion in Spec, they will be accessio
 
 The following is a summary of steps which make up the accessioning process:  
 1. If items cannot be accessioned immediately upon receipt, place items on shelving in intake area, as space allows, along with the completed Deed of Gift. 
-2. Add an *accession* record to [ArchivesSpace (AS)](https://uidaho.libraryhost.com/admin) that includes donor and collection information, an accession number, and a preliminary inventory. 
+2. Add an *accession* record to [ArchivesSpace (AS)](https://uidaho.libraryhost.com/) that includes donor and collection information, an accession number, and a preliminary inventory. 
 3. Rehouse the materials if appropriate to condense for space saving or material stability. 
 4. Assess how important the materials are to departmental priorities and make a note in the *[Prioritization Rating List](https://vandalsuidaho.sharepoint.com/:x:/r/sites/Storage-Library/Documents/spec/Departmental%20Projects/Processing%20Priorities%20Project/Prioritization%20Rating%20List%20-%20updated%20copy.xlsx?d=wb86306cdf2435792ab6e50c79276a8e2&csf=1&web=1&e=n20NdU)* (found in SharePoint). 
 5. Find a temporary shelf location and note that in the AS accession record. 
@@ -30,7 +30,7 @@ Accessioned materials are made more useful and accessible through processing. Ev
 
 The following is a summary of steps which should be used to process a collection:  
 
-1. Create an inventory in an [AS spreadsheet template](https://vandalsuidaho.sharepoint.com/:x:/r/sites/Storage-Library/Documents/spec/Collections/Processed%20Collections/Finding%20Aid%20Files/AS_spreadsheet_template.xlsx?d=w4a88ebe4a32b4e72b3d05ceb320d7e6b&csf=1&web=1&e=w6sKLf) (found in SharePoint); the template will later be imported into [ArchivesSpace (AS)](https://uidaho.libraryhost.com/admin)
+1. Create an inventory in an [AS spreadsheet template](https://vandalsuidaho.sharepoint.com/:x:/r/sites/Storage-Library/Documents/spec/Collections/Processed%20Collections/Finding%20Aid%20Files/AS_spreadsheet_template.xlsx?d=w4a88ebe4a32b4e72b3d05ceb320d7e6b&csf=1&web=1&e=w6sKLf) (found in SharePoint); the template will later be imported into [ArchivesSpace (AS)](https://uidaho.libraryhost.com/)
 - If the collection is very small, it may be more efficient to work directly in AS 
 2. Rehouse the collection (if not completed at time of accession) 
 - Weed to remove personally sensitive or irrelevant materials, like financial receipts or medical records 

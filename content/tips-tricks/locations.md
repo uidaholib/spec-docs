@@ -1,6 +1,6 @@
 ---
-section_id: Tips and Tricks
-nav_order: 6
+section: Tips and Tricks
+nav_order: 4
 title: Material Locations
 ---
 
@@ -35,12 +35,12 @@ To find the location of a collection, check the ArchivesSpace record for **Insta
 - U of I Personnel Vertical File, Row 94
 - Small UAs and MAs, Row 94
 - Gem of the Mountain Yearbooks and Bulletins, Row 142
-- Book Collections and Maps, see [Book Collections]({{ '/content/tips-tricks/books.html' | relative_url }}) page
+- Book Collections and Maps, see [Book Collections]({{ '/content/practices-procedures/books.html' | relative_url }}) page
 - Supplies (i.e. folders, boxes, film sleeves, etc), Pillars 6 and 7
 
 ### Book Collection Area
 ---
-- See [Book Collections]({{ '/content/tips-tricks/books.html' | relative_url }}) page
+- See [Book Collections]({{ '/content/practices-procedures/books.html' | relative_url }}) page
 - Some U of I Vertical Files located in this area.
 
 ### Small Manuscripts Area

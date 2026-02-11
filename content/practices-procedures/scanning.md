@@ -1,8 +1,7 @@
 ---
 section: Practices and Procedures
-nav_order: 9
-title: Scanning
----
+nav_order: 10
+title: Scanning Procedures
 ---
 
 Spec scans archival materials for patron inquiries, inter-departmental requests, and other digitization projects such as digital collections. When a *part* or a *whole* collection has been scanned, they are marked with orange "SCANNED" stickers (located in the processing room).

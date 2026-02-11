@@ -1,11 +1,11 @@
 ---
 section_id: Accession Manual
-nav_order: 2
+nav_order: 3
 title: Rehousing Materials
 topics: 
 ---
 ---
-Some people like to rehouse materials, then create the record; some create an accession record in [ArchivesSpace (AS)](https://uidaho.libraryhost.com/admin) first, then rehouse; still others to the process simultaneously. Do what works for you. 
+Some people like to rehouse materials, then create the record; some create an accession record in [ArchivesSpace (AS)](https://uidaho.libraryhost.com/) first, then rehouse; still others to the process simultaneously. Do what works for you. 
 
 Rehousing before creating accession records can be useful because it allows one to become familiar with the collection and much of the information needed for creating an accession record will be gleaned in the process.   
 

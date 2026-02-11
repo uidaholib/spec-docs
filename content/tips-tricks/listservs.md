@@ -1,6 +1,6 @@
 ---
 section: Tips and Tricks
-nav_order: 17
+nav_order: 2
 title: Listservs
 ---
 

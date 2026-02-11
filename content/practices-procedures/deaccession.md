@@ -19,7 +19,7 @@ Every effort should be made to review donations and remove unneeded or inappropr
 {% endcapture %}
 {% include card.html header="Criteria" text=text %}
 
-When an item(s) is removed from an accessioned collection, a note should be made in the [ArchivesSpace (AS)](https://uidaho.libraryhost.com/admin) record and any existing or future [Archives West](https://archiveswest.orbiscascade.org/search.php?r=idu) finding aid to convey what type and volume of materials were removed. An example might be "1.5 cubic feet of materials removed for containing personal financial records."  
+When an item(s) is removed from an accessioned collection, a note should be made in the [ArchivesSpace (AS)](https://uidaho.libraryhost.com/) record and any existing or future [Archives West](https://archiveswest.orbiscascade.org/search.php?r=idu) finding aid to convey what type and volume of materials were removed. An example might be "1.5 cubic feet of materials removed for containing personal financial records."  
 
 Deaccessioned items may be disposed of in a variety of ways. If indicated on the Deed of Gift form, the donor has the right to first refusal. If a donor's contact information is no longer current, or the donor is no longer alive, efforts should be made to find another relevant contact. If the donor is not interested in taking back materials, follow these general guidelines.  
 - Publications of interest may be offered to library liaisons 

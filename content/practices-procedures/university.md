@@ -1,7 +1,7 @@
 ---
-section: Tips and Tricks
-nav_order: 7
-title: University Materials
+section: Practices and Procedures
+nav_order: 4
+title: University Materials Acquisition Procedures
 ---
 
 ### Committees

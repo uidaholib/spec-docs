@@ -1,7 +1,7 @@
 ---
-section: Tips and Tricks
-nav_order: 5
-title: State Documents
+section: Practices and Procedures
+nav_order: 4
+title: State Documents Acquisition Procedures
 ---
 
 ### Processing State Documents

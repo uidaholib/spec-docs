@@ -1,6 +1,6 @@
 ---
 section: Processing Manual
-nav_order: 5
+nav_order: 8
 title: Labeling and Shelving
 ---
 <div class="text-center mb-2">

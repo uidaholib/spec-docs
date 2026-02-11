@@ -1,6 +1,6 @@
 ---
-section: Tips and Tricks
-nav_order: 12
+section: Processing Manual
+nav_order: 5
 title: Clickable Links in AS & AW
 ---
 

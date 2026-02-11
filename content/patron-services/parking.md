@@ -1,7 +1,7 @@
 ---
-section: Tips and Tricks
-nav_order: 20
-title: Parking Info for Patrons
+section: Patron Services
+nav_order: 5
+title: Parking Information for Patrons
 ---
 
 The following is information for patrons who require information about parking options when visiting campus. You may copy/paste the following language but *make sure links work* first:

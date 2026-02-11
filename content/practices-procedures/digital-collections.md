@@ -1,8 +1,7 @@
 ---
 section: Practices and Procedures
-nav_order: 10
-title: Digital Collections
----
+nav_order: 12
+title: Digital Collections Procedures for Spec
 ---
 
 Archival digitization can sometimes turn into a larger project such as creating a digital collection. Departments who usually participate in this initiative include [Special Collections and Archives](https://www.lib.uidaho.edu/special-collections/), [Data and Digital Services](https://www.lib.uidaho.edu/services/dds.html), and the Library's [Center for Digital Inquiry and Learning (CDIL)](https://cdil.lib.uidaho.edu/). A majority of the digital collections are created using [CollectionBuilder](https://collectionbuilder.github.io/). This system generates sites by metadata and powered by static web-technology. 
@@ -19,7 +18,7 @@ Before creating a digital collection, consult the Digital Collections Team (DCT)
 
 [This section is out of date and under review]
 
-In some instances, born-digital collections or assets can be made into a digital collection. First ingest files using the [Digital Material Ingest]({{ '/content/processing/digital-ingest.html' | relative_url }}) documentation.
+In some instances, born-digital collections or assets can be made into a digital collection. First ingest files using the [Digital Material Ingest]({{ '/content/practices-procedures/digital-ingest.html' | relative_url }}) documentation.
 
 The DROID export metadata sheet may help during the creation of the online collection’s metadata. Creators should compare the information from the DROID sheet to the required fields in the provided csv template. Similar fields that may be useful include the *file name, type, and date*. For example, when creating the digital collection csv metadata sheet for the [Earl Bennet Stock Certificates collection (MG 572)](https://archiveswest.orbiscascade.org/ark:80444/xv839959), the information from the “name” field in the DROIDexport metadata sheet was used as the “filename” in the csv template.
 

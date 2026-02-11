@@ -1,8 +1,7 @@
 ---
-section: Tips and Tricks
-nav_order: 13
-title: Argonaut
----
+section: Practices and Procedures
+nav_order: 6
+title: Argonaut Procedures
 ---
 
 The Idaho Argonaut student newspaper is available as a [digital collection](https://www.lib.uidaho.edu/digital/argonaut/). Spec also keep physical copies in Cage 1, Rows 34-35.

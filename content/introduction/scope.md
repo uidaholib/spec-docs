@@ -62,7 +62,7 @@ Items of an ephemeral nature documenting the University of Idaho, state of Idaho
 
 #### Book Collections
 
-Spec has been collecting Rare Books for many decades. It consists of those books that, because of their artifact or association qualities, must be provided more attention and care. These include early imprints, such as incunabula (books published between 1450 and 1500); significant works from famous presses; volumes with exceptional bindings or illustrations; and first editions of landmark books. See [Books, Periodicals, and Serials]({{ '/content/tips-tricks/books.html' | relative_url }}) for general book locations.
+Spec has been collecting Rare Books for many decades. It consists of those books that, because of their artifact or association qualities, must be provided more attention and care. These include early imprints, such as incunabula (books published between 1450 and 1500); significant works from famous presses; volumes with exceptional bindings or illustrations; and first editions of landmark books. See [Books, Periodicals, and Serials]({{ '/content/practices-procedures/books.html' | relative_url }}) for general book locations.
 
 {:.table .table-bordered}
 | Collection Title | Description |

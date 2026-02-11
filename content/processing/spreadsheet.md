@@ -1,6 +1,6 @@
 ---
 section: Processing Manual
-nav_order: 3
+nav_order: 2
 title: ArchivesSpace Spreadsheet
 ---
 <div class="text-center mb-2">

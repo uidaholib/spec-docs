@@ -1,6 +1,6 @@
 ---
 section: Tips and Tricks
-nav_order: 1
+nav_order: 5
 title: Temporary Locations
 ---
 

@@ -1,7 +1,7 @@
 ---
-section: Practices and Procedures
-nav_order: 3
-title: Use and Access
+section_id: Patron Services
+nav_order: 5
+title: Collections Use and Access
 ---
 
 The holdings of Spec are maintained and made available for the benefit of university stakeholders and the public. The use of the collections is central to the mission of the department and should be facilitated whenever possible.  
@@ -9,7 +9,7 @@ The holdings of Spec are maintained and made available for the benefit of univer
 ---
 ### Patron Inquiries
 
-The primary use of Spec materials comes in the form of *research inquiries*. Researchers may make a request for information in-person, over the phone, or by email. Researchers who can conduct the review of material themselves should be encouraged to make an appointment in advance. Relevant collections, in full or part, can then be brought to the Reading Room for their study. See [Reading Room Practices]({{ '/content/practices-procedures/reading-room.html' | relative_url }}) for additional relevant information.  
+The primary use of Spec materials comes in the form of *research inquiries*. Researchers may make a request for information in-person, over the phone, or by email. Researchers who can conduct the review of material themselves should be encouraged to make an appointment in advance. Relevant collections, in full or part, can then be brought to the Reading Room for their study. See [Reading Room Practices]({{ '/content/patron-services/reading-room.html' | relative_url }}) for additional relevant information.  
 
 If a researcher cannot visit the institution themselves, the responsibility for responding to research inquiries is shared by all Spec staff and faculty. A member of the department will use physical and digital archival materials, knowledge databases, and colleagues to answer the patron inquiry. Upon completion, the research inquiry should be logged in the [Patron Support Report](https://forms.office.com/pages/responsepage.aspx?id=Y2u8fpJXGUqyCwS4JgSIUxaSEHQ0MBFJmCa2EIVFmhNUQTRRUjJYQktMMFpNUElYQVBTRFNOMjA5Ry4u) for future reference.  
 

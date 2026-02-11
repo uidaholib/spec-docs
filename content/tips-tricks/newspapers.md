@@ -1,6 +1,6 @@
 ---
 section: Tips and Tricks
-nav_order: 16
+nav_order: 7
 title: Newspapers and Microfilm
 ---
 

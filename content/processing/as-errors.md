@@ -1,6 +1,6 @@
 ---
-section: Tips and Tricks
-nav_order: 4
+section: Processing Manual
+nav_order: 6
 title: Errors in ArchivesSpace
 ---
 

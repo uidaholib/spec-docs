@@ -1,7 +1,7 @@
 ---
-section: Tips and Tricks
-nav_order: 2
-title: Book Collections
+section: Practices and Procedures
+nav_order: 5
+title: Book Collections Procedures
 ---
 See [Scope of Collections](https://uidaholib.github.io/spec-docs/content/introduction/scope.html#other-archival-collections) for book collection descriptions.
 

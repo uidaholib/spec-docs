@@ -1,7 +1,7 @@
 ---
 section: Tips and Tricks
-nav_order: 15
-title: Scanners
+nav_order: 10
+title: Scanners in Spec
 ---
 ---
 
