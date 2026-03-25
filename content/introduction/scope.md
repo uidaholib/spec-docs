@@ -3,6 +3,9 @@ section: Introduction
 nav_order: 2
 title: Scope of Collections
 ---
+
+*Last updated 03-24-2026*
+
 <div class="text-center mb-2">
     <a href="#{{ 'University Collections' | slugify }}" class="btn btn-secondary my-2 mx-1">University and Manuscript Collections</a>
     <a href="#{{ 'Other Archival Collections' | slugify }}" class="btn btn-secondary my-2 mx-1">Other Collections</a>
@@ -62,7 +65,7 @@ Items of an ephemeral nature documenting the University of Idaho, state of Idaho
 
 #### Book Collections
 
-Spec has been collecting Rare Books for many decades. It consists of those books that, because of their artifact or association qualities, must be provided more attention and care. These include early imprints, such as incunabula (books published between 1450 and 1500); significant works from famous presses; volumes with exceptional bindings or illustrations; and first editions of landmark books. See [Books, Periodicals, and Serials]({{ '/content/practices-procedures/books.html' | relative_url }}) for general book locations.
+Spec has been collecting Rare Books for many decades. It consists of those books that, because of their artifact or association qualities, must be provided more attention and care. These include early imprints, such as incunabula (books published between 1450 and 1500); significant works from famous presses; volumes with exceptional bindings or illustrations; and first editions of landmark books. See [Material Locations]({{ '/content/tips-tricks/locations.html' | relative_url }}) for general book locations.
 
 {:.table .table-bordered}
 | Collection Title | Description |
@@ -79,24 +82,27 @@ Spec has been collecting Rare Books for many decades. It consists of those books
 | Thesis and Dissertations | Theses and dissertations authored by University of Idaho students. Also includes some professional papers written as a degree requirement. |
 | Pound | Books published by or about Ezra Pound. This collection was established in 1973 to honor the memory of Ezra Pound, who was born in Hailey, ID. In 1974, the Library, the Department of English, and the Department of Foreign Languages sponsored a guest speaker to discuss the poetry of Ezra Pound, the first of the annual Pound Lectures in the Humanities which lasted until the early 1980s. |
 | Scott | Books published by or about Sir Walter Scott. The collection originated from a donation by U of I Zoology Professor Earl Larrison in 1962. |
-| Stonewall | A collection of every book submitted to the American Library Association’s Stonewall Book Awards, donated by Lewis Brian Day, from the creation of the award in 1971 up through 2013. |
+| Stonewall | A collection of every book submitted to the American Library Association’s Stonewall Book Awards, donated by Lewis Brian Day, from the creation of the award in 1971 up through 2022. |
 | Sci-Fi | Science Fiction books primarily taken from MG 470 (Victoria Mitchell collection on Science Fiction). Also books purchased by or about Edward Elmer “Doc” Smith, including MG 469 (Richard Dodson Collection on E. E. "Doc" Smith and Science Fiction). Cataloging is on hold until Spec procedures are finalized. |
 | Non-UI Yearbooks | In general catalog but shelved separately. Single editions of Idaho high school and non-University of Idaho college yearbooks. | 
 | Naskali Collection | Uncataloged collection of books separated from MG 468 (Richard Naskali papers), focusing on botany, horticulture, and gardening/landscaping. Also includes the Arbor collection, which is catalogued but suppressed from public view. |
 
-Additionally there are uncataloged phonebooks and city directories for many Idaho cities, counties, and statewide, as well as surrounding states. (*Payette region ones are cataloged and in Alma/Primo).
-- [Idaho Telephone and Business Directories](https://www.lib.uidaho.edu/special-collections/directories.html)
+Additionally there are phone books and city directories for many Idaho cities, counties, and statewide, as well as surrounding states. Some directories are cataloged in the main library catalog, many are not. For the best searching results use the following links: 
+- [Idaho Telephone and Business Directories](https://www.lib.uidaho.edu/special-collections/directories.html) (Library website)
+- [Idaho Telephone and Business Directories](https://archiveswest.orbiscascade.org/ark:80444/xv238803) (Archives West finding aid)
 - [Non-Idaho Telephone and Business Directories](https://www.lib.uidaho.edu/special-collections/non-idaho-directories.html)
 
 #### Born-Digital and Hybrid Collections
 
-In keeping with U of I Library's mission, Special Collections and Archives serves as the caretaker of digital archival resources. The term born-digital refers to materials that have never been or do not have any analog (physical) equivalents. Digital preservation refers to the series of managed activities which are necessary to ensure long-term access to digital materials. Dark archives are archives that cannot be accessed by any current users but may be accessible at future dates or upon request. The general scope covers:
+In keeping with the U of I Library's mission to preserve university, state, and regional historical archives, Special Collections and Archives serves as the caretaker of digital archival resources.  Digital preservation involves a series of managed activities that are necessary to ensure long-term access to digital materials. Digital archival resources encompass both digitized analog materials and born-digital materials, meaning materials that have never been or do not have any analog (physical) equivalents. The general scope covers:
 
 - Born-digital materials, both library resources and institutional records (including but not limited to photographs, documents, datasets, and electronic records), 
 - Products of digitization projects (preservation master digital surrogate files and associated metadata), 
-- Items or collection for the community that Spec has accepted a curatorial role for, 
+- Items or collections that Spec has accepted a curatorial role for, 
 - Digitized materials with no available analog (no available print or re-digitization not possible due to material instability), and 
 - Digitized materials with available analog (cost of re-digitizing weighed against preserving existing digital copies and physical materials)
+
+[Guidelines for accepting digital-only donations forthcoming]
 
 ---
 ### Examples

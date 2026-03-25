@@ -3,16 +3,18 @@ section: Practices and Procedures
 nav_order: 7
 title: Photo Negatives and Prints
 ---
----
+
+*Last updated 03-24-2026*
+
+This page contains information of note about Spec's negatives and prints collections.
+
 ### Duplicates Exist!
-If you are looking for a negative/print and can't find it in the folder or box it's supposed to be, try checking the **Copy Negatives** area in the book storage.
-- Row 37 (by the table that has things stacked to be put back)
-- If a print can't be found, likely a copy negative of it is located here.
+If you are looking for a negative/print and can't find it in the folder or box it's supposed to be in, try checking the **Copy Negatives** area in the rare books room, Row 37. Additional duplicate copies have been removed from the archival collections and are with the display materials in Cage 2.
 
 ---
 ### Barnard-Stockbridge photograph collection
     
-There are *2* Barnard-Stockbridge photograph collections and *3* places prints/negatives could be located.
+There are *3* Barnard-Stockbridge photograph collections and *3* places prints/negatives could be located.
 - [Barnard-Stockbridge photograph collection - portraits (PG 8-1)](https://archiveswest.orbiscascade.org/ark:80444/xv949259)
     - Identifiers begin with *numbers*. (Ex: 8-00001, 8-00002a, 8-00002n, etc.)
     - Location: Cage 1, Rows 46-49
@@ -20,21 +22,23 @@ There are *2* Barnard-Stockbridge photograph collections and *3* places prints/n
 - [Barnard-Stockbridge photograph collection (PG 8-2)](https://archiveswest.orbiscascade.org/ark:80444/xv407875)
     - Identifiers begin with *letters*. (Ex: 8-A001, 8-A002, etc.)
     - Location: Cage 1, Row 93, Sections 1-2
+- [Barnard-Stockbridge photograph collection (PG 8-3)](https://archiveswest.orbiscascade.org/ark:80444/xv960617)
+    - Glass plate negatives. All have been digitized, and the glass plates should not be handled unless absolutely necessary.
 - Copy negatives could live in the book storage area (Row 37)
 
 ---
 ### Deteriorating Film
-*Cellulose nitrate film* is highly flammable. "Unfortunately, nitrate film is a severe fire safety hazard. Once burning, a nitrate film fire is very difficult to extinguish. Such fires release numerous toxic gases. Even when not on fire, deteriorating nitrate film is hazardous. As it breaks down, nitrate releases noxious gases that can be dangerous to both people and other collections" (National Park Service).
 
-**Vinegar Syndrome** is often what happens to *cellulose acetate film* as it deteriorates. Materials which begin to have a vinegar smell will eventually experience shrinkage, embrittlement, and buckling of the gelatin emulsion. "Storage in warm and humid conditions greatly accelerates the onset of decay. Once it begins in earnest, the remaining life of the film is short because the process speeds up as it goes along. Early diagnosis and cold, moderately dry storage are the most effective defense" (National Film Preservation Foundation).
+**Cellulose nitrate film** is highly flammable and can spontaneously combust under the right conditions. Any identified nitrate film held by Special Collections and Archives has been moved to the freezer in the rare books room. Nitrate film must not be disposed of in the trash, but it should instead be treated as a hazardous material - contact Environmental Health and Safety. Given the fire risk, need to store nitrate film in the freezer, and difficulty of disposal, it is best to avoid accepting donations of nitrate film unless there is a very compelling reason for us to have it. 
 
-For photographs that have begun to **vinegar**, check to see if digitization has already occurred. If that steps hasn't taken place, scan the material and save in the Archive drive. Then place in the freezer just outside Spec's Processing room. Be sure to note the box's new location in the ArchivesSpace record.
+Collections known to have nitrate film: 
+- PG 1 
+- PG 5
+- PG 13
+- PG 98 (currently in freezer)
 
-When disposing of deteriorating film, contact U of I's [Hazardous Waste Management department](https://www.uidaho.edu/dfa/division-operations/ehs/programs/hazmat/management).
+**Cellulose acetate film** may exhibit "vinegar syndrome" as it deteriorates (it breaks down into acetic acid, a primary component of vinegar). Materials will develop a vinegar smell, and they may shrink, become brittle, and warp. For photographs that have begun to smell of vinegar, check to see if they have been digitized. If they are not digitized, scan the material and save in the Archive drive. Then place them in the freezer in the rare books room room. Be sure to note the box's new location in the ArchivesSpace record.
 
-**Resources**
+Be mindful of our limited freezer space - realistically, Spec has more deteriorating acetate film than the freezer can hold, and nitrate film should be prioritized.
 
-1. National Park Service, Conserve O Gram, [Caring for Cellulose Nitrate Film [PDF: 249 KB / 4 pp.]](https://www.nps.gov/museum/publications/conserveogram/14-08.pdf)
-2. National Park Service, Conserve O Gram, [Disposal Of Cellulose Nitrate Film [PDF: 240 KB / 4 pp.]](https://www.nps.gov/museum/publications/conserveogram/02-22.pdf)
-3. Library of Congress, [Care, Handling, and Storage of Motion Picture Film](https://www.loc.gov/preservation/care/film.html#Handling)
-4. National Film Preservation Foundation, [Vinegar Syndrome](https://www.filmpreservation.org/preservation-basics/vinegar-syndrome)
+When disposing of deteriorating film, contact U of I's [Hazardous Waste Management department](https://www.uidaho.edu/dfa/division-operations/ehs/programs/hazmat/management).  Kelley is the point person for these cases at the moment.

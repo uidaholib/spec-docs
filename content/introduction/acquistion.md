@@ -3,6 +3,9 @@ section: Introduction
 nav_order: 3
 title: Acquisition Practices
 ---
+
+*Last updated 03-24-2026*
+
 When presented with an opportunity to add new material to our archives, several factors must be considered. Spec staff and faculty use the following criteria to determine if an acquisition is prudent.  
 - Are the materials related to one of Spec's collection focus areas? 
 - Are the materials rare, unique, or historically valuable? 
@@ -167,18 +170,23 @@ In rare occasions, materials may be acquired through purchase. Such purchases ha
 ---
 ## Born-Digital Materials
 
-[section under review]
+### Before Accepting Materials
 
-When discussing born-digital assets, speak with the donor about a basic inventory and whether there are encrypted* materials. An inventory will help when understanding the scope of the materials and how they fit within the archives. Be sure to use virus scans and other technologies to view and access the files to protect against viruses or corrupted material. 
+When discussing born-digital assets, speak with the donor about a basic inventory and whether there are encrypted* materials. Special Collections and Archives cannot access encrypted files in-house and many need a third party to retrieve these materials. An inventory will help when understanding the scope of the materials and how they fit within the archives. Be sure to use virus scans and other technologies to view and access the files to protect against viruses or corrupted material.
 
-- Transfer Types
-1. Physical media (CDs, DVDs, USB drives, floppy disks, hard drives, etc) 
-2. Cloud files/folders (SharePoint, Google Drive, etc.) 
-3. Analog materials to digitize and return to donor
+### Transfer Types
 
-- Returning scanned materials:
-    - If a donor wishes to have staff scan and return physical materials, staff should still follow accessioning procedures. If the digital materials accompany physical materials, everything should be included in the accession record with a note of what was scanned and returned. 
+- Physical media (CDs, DVDs, USB drives, floppy disks, hard drives, etc.)
+- Cloud files/folders (SharePoint, Google Drive, etc.)
+- Email attachments
+- Analog materials to digitize and return to donor
 
-For documentation on how to ingest materials, see [Ingesting Digital Materials](https://uidaholib.github.io/spec-docs/content/practices-procedures/digital-ingest.html).
+### Scanning Materials for Patrons
 
-**If encrypted files are donated or transferred, Special Collections and Archives does not have the capability to access these files in-house and may need a third party to retrieve materials.*
+If a donor wishes to have staff scan and return accessioning procedures. If the digital materials accompany physical materials, everything should be included in the accession record with a note of what was scanned and returned. 
+
+### Digital-Only Donations
+
+[Section under construction]
+
+See [Ingesting Digital Materials](({{ '/content/practices-procedures/digital-ingest.html' | relative_url }})) for information about ingesting digital materials. 

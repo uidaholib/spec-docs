@@ -4,11 +4,13 @@ nav_order: 2
 title: Deaccessioning Practices
 topics: 
 ---
----
+
+*Last updated 03-24-2026*
+
 Every effort should be made to review donations and remove unneeded or inappropriate items before accessioning. Should an accessioned collection prove to contain materials later deemed to fall outside of retention guidelines, staff may choose to deaccession items. The department Head should be consulted in such an event.  
 
 {% capture text %}
-1. Does not fit within the scope of collecting for Spec 
+1. Does not fit within the scope of collecting for Spec (see [Scope of Collections]({{ '/content/introduction/scope.html' | relative_url }}))
 2. Does not have an identifiable enduring value or presents a poor case for use 
 3. Spec does not have the capacity to adequately preserve the medium 
 4. The volume of the material puts strain on limited storage space 
