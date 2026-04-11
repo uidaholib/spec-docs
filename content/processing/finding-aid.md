@@ -1,15 +1,23 @@
 ---
 section: Processing Manual
-nav_order: 7
+nav_order: 9
 title: Archives West Finding Aid
 ---
----
 
-After a Resource Record in completed in ArchivesSpace, the next step is to upload the information into Archives West.
+*Updated 04-10-2026*
 
-In ArchivesSpace, find the Resource Record that is ready to be uploaded. Once found:
+After a Resource Record is completed in ArchivesSpace, upload the finding aid to Archives West. 
 
-#### Step 1:
+NOTE: Resource Record files over 8 MB cannot be uploaded by Spec staff. Submit these requests via the Help Request Form in Archives West Management Tools.
+
+#### Step 1: 
+
+- If you have not done so already, get an EAD location (ARK URL) from Archives West Management Tools:
+    - Log into the [Archives West Management Tools](https://archiveswest.orbiscascade.org/tools/login.php?redirect=/tools/) site
+    - Select ARK Request
+    - Copy and paste the URL into the Resource Record
+
+#### Step 2:
 
 - To the right of the record, click on the **Export** button.
 - Then *hover* over the **Download EAD**. A small window will pop up.
@@ -21,7 +29,7 @@ In ArchivesSpace, find the Resource Record that is ready to be uploaded. Once fo
 - An .xml file will download.
 
 ---
-#### Step 2:
+#### Step 3:
 
 - Open and log into the [Archives West Management Tools](https://archiveswest.orbiscascade.org/tools/login.php?redirect=/tools/) site.
     - Username and password information can be found in the Spec Accounts document on SharePoint.
@@ -30,6 +38,7 @@ In ArchivesSpace, find the Resource Record that is ready to be uploaded. Once fo
 {% include figure.html img="ead-converter.jpg" alt="converting ead file" caption="" width="70%" %}
 
 - Choose the .xml file you downloaded from ArchivesSpace, and click **Convert EAD**.
+- Scroll through the display and check for any noticeable errors. Make any fixes in ArchivesSpace.
 - Click **Download File**.
     - The new downloaded file's name should begin with NTD and the collection number.
         - Example: NTDMG009.xml
@@ -38,10 +47,10 @@ In ArchivesSpace, find the Resource Record that is ready to be uploaded. Once fo
 {% include figure.html img="convert.jpg" alt="converting ead file" caption="" width="80%" %}
 
 ---
-#### Step 3:
+#### Step 4:
 
 - Under the *Document Submission* section, click **Document Validation**.
-- Choose and upload the NTD downloaded file and click **Validate File**. 
+- Choose and upload the NTD file and click **Validate File**. 
     - A green message should pop up saying the file is valid.
     - If there is an issue in the record, there will be an error message in red.
         - Check Resource Record for potential error. Consult colleagues if unable to determine the issue.
@@ -50,10 +59,10 @@ In ArchivesSpace, find the Resource Record that is ready to be uploaded. Once fo
 {% include figure.html img="document-val.jpg" alt="validating ead" caption="" width="80%" %}
 
 ---
-#### Step 4:
+#### Step 5:
 
 - Under the *Document Submission* section, click **Compliance Checker**.
-- Choose and upload the NTD downloaded file, check *Required/Mandatory BPG Only*, and click **Check Compliance**.
+- Choose and upload the NTD file, check *Required/Mandatory BPG Only*, and click **Check Compliance**.
     - If an error occurs, the text will be in red.
     - If the beginning section contains an error, the file will not be loaded the Archives West.
         - Check Resource Record for potential error. Consult colleagues if unable to determine the issue.
@@ -65,7 +74,7 @@ In ArchivesSpace, find the Resource Record that is ready to be uploaded. Once fo
 {% include figure.html img="compliance-issue.jpg" alt="checking compliance issues" caption="" width="80%" %}
 
 ---
-#### Step 5:
+#### Step 6:
 
 - Under the *Document Submission* section, click **Document Preview**.
 - Choose and upload the NTD downloaded file and click **Preview Finding Aid**.
@@ -77,7 +86,7 @@ In ArchivesSpace, find the Resource Record that is ready to be uploaded. Once fo
 {% include figure.html img="preview.jpg" alt="finding aid preview" caption="" width="80%" %}
 
 ---
-#### Step 6: 
+#### Step 7: 
 
 - Under the *Document Submission* section, click **Document Submission**.
 - Choose the correct ARK associated with the Resource Record. Click **Use ARK**.

@@ -1,6 +1,6 @@
 ---
 section: Practices and Procedures
-nav_order: 11
+nav_order: 10
 title: Offensive Material Practices
 ---
 ---

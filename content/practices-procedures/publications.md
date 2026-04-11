@@ -8,7 +8,7 @@ title: Books, Periodicals, and Maps Acquisition Procedures
 
 ### Publications
 
-Sometimes publications such as books, periodicals (journals, magazines, newspapers, etc.), and maps are donated with or without context. When these situations occur, first check the publication title against the Library's catalog at **[www.lib.uidaho.edu](https://www.lib.uidaho.edu/)**. 
+Sometimes publications such as books, periodicals (journals, magazines, newspapers, etc.), and maps are donated with or without context. When these situations occur, first check the publication title against the Library's catalog at [www.lib.uidaho.edu](https://www.lib.uidaho.edu/). 
 
 See [Scope of Collections]({{ '/content/introduction/scope.html' | relative_url }}) for book collection descriptions.
 
@@ -79,4 +79,4 @@ If a found map does *not* fit within Spec's Scope of Collections:
 1. Check the collection's Retention Rule noted in the Accession Record or Deed of Gift form. 
 2. If marked to be sent back to donor, contact them. 
 3. If marked to discard: 
-    - Contact the Library's Associate Dean for Operations and Access. They may want to add it to the Map Collection. Let them know to discard if not chosen to be added.
+    - Contact the Library's Associate Dean for Operations and Access. They may want to add it to the [Map Collection](https://www.lib.uidaho.edu/find/maps/). Let them know to discard if not chosen to be added.

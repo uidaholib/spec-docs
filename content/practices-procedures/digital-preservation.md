@@ -1,7 +1,7 @@
 ---
 section: Practices and Procedures
 nav_order: 9
-title: Digital Preservation Procedures
+title: Digital Preservation Levels
 ---
 *The following processes and information is based on the National Digital Stewardship Alliance (NSDA) [Levels of Digital Preservation](https://ndsa.org/publications/levels-of-digital-preservation/) implementation, assessment, and curatorial guidelines.*[^1]
 
@@ -15,11 +15,6 @@ There are some definitions that might be unfamiliar to those not working closely
 3. **Integrity Information:** Used to verify over time that the content hasn't been altered (loss, tampering, corruption).
 4. **Migration:** Transferring digital materials from one hardware/software generation to the next newest, or from one format to another.
 5. **Sustainable File Formats (or Normalization):** Converting files to preservation format during ingest. See the [Library of Congress Recommended Formats Statement 2023-2024](https://www.loc.gov/preservation/resources/rfs/RFS%202023-2024.pdf).
-
----
-### Formats and Digitization In-House Capabilities
-
-To see the equipment and material formats[^3] - both physical and digital - that are found in Spec, see the [Digitization Equipment and Material Formats](https://vandalsuidaho.sharepoint.com/:x:/r/sites/Storage-Library/Documents/spec/Spec-DDS%20File%20Sharing/Digitzation%20Equipment%20and%20Material%20Formats.xlsx?d=w96c5c5bb1ed14679b59f3250049d292d&csf=1&web=1&e=Aur3yn) spreadsheet.
 
 ---
 ### Sources

@@ -1,6 +1,6 @@
 ---
 section: Practices and Procedures
-nav_order: 12
+nav_order: 11
 title: Digital Collections Procedures for Spec
 ---
 

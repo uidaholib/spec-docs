@@ -1,9 +1,13 @@
 ---
 section: Processing Manual
-nav_order: 3
+nav_order: 5
 title: Resource Record
 ---
----
+
+*Updated 04-10-2026*
+
+**Spec staff only**
+
 The following are sections and fields a processor must fill out in order to have a complete Resource Record in ArchivesSpace. Use the information from your [Collection Description]({{ '/content/processing/collection-description.html' | relative_url }}) document to help fill out fields.
 
 ### Log into [ArchivesSpace (AS)](https://uidaho.libraryhost.com/) & Create a Resource Record
@@ -18,6 +22,7 @@ The following are sections and fields a processor must fill out in order to have
     - Option 2:
         - In ArchivesSpace, click **Create** located next to the search box.
         - From the drop-down menu, click **Resource**.
+        - This is typical for older collections without existing records in ArchivesSpace.
 
 <div class="text-center mb-2">
     <a href="#{{ 'Basic Information Fields ' | slugify }}" class="btn btn-secondary my-2 mx-1">Basic Information Fields</a>
@@ -43,7 +48,7 @@ The fields listed below should be filled for each resource record. Please consul
 | Identifier | Yes | Assign the identifier based on the next available number in the [List of All Collections](https://vandalsuidaho.sharepoint.com/:x:/r/sites/Storage-Library/Documents/spec/Collections/Processed%20Collections/List%20of%20All%20Processed%20Collections.xlsx?d=w5ab19cc4fbee525e912b7bcd8afa738a&csf=1&web=1&e=cs00Gc&nav=MTVfezAwMDAwMDAwLTAwMDEtMDAwMC0wMjAwLTAwMDAwMDAwMDAwMH0). If you have questions about the difference between MGs, UGs, and PGs, see the [Scope of Collections]({{ '/content/introduction/scope.html' | relative_url }}) documentation. |
 | Level of Description | Yes | Drop-down menu. Usually *Collection*. |
 | Resource Type | Optional | Drop-down menu. Best practice is to select the type even if this field isn't required in AS. Selections are *Collection, Publications, Records* and *Papers*. | University of Idaho photograph collection; Joe Vandal papers; Sunshine Mine Company records |
-| Publish? | Optional | Check to publish. |
+| Publish? | **No** | Do not check. |
 | Restrictions Apply? | Optional | Check if there are restrictions. |
 | Repository Processing Note | Optional | Not included in any reports or exports. Include additional processing information. |
 
@@ -55,8 +60,8 @@ The fields listed below should be filled for each resource record. Please consul
 {:.table .table-bordered}
 | Field | Required | Content | Examples |
 | - | ----- | -------- | -------- |
-| Language | Yes | The language term and code represented in the material(s) described. | English |
-| Script | Yes | The script term and code represented in the material(s) described. | Latin |
+| Language | Yes | The language term and code represented in the material(s) described. Default is English. | English |
+| Script | Yes | The script term and code represented in the material(s) described. Default is Latin. | Latin |
 
 ---
 ### Dates
@@ -70,10 +75,10 @@ The **Dates** section in the Resource Record is used to document the dates of th
 | Expression | Yes | This field shows the dates that are visible in the accession record. More descriptive information can be included in this field, such as *circa.* If date unknown, type "undated"| 1942-1987; circa 1985; 05 June 1947 |
 | Type | Yes | Select *inclusive, bulk dates,* or *single* from drop-down menu. If date unknown, select *single*. | **Inclusive** = dates encompass whole collection; **Bulk** = majority of materials are between two dates; **Single** = for material that only covers one date |
 | Begin Date | Yes | First date in date range (yyyy-mm-dd). If unknown leave blank. | May 25, 1947 would be 1947-05-25 |
-| End Date | Yes | Last date in date range (yyyy-mm-dd). If unknown leave blank. | Last known date is 1987, so type 1987. |
+| End Date | Yes | Last date in date range (yyyy-mm-dd). If unknown leave blank. Not needed if date is single. | Last known date is 1987, so type 1987. |
 | Certainty | Optional | Are these circa dates? If so, choose ‘Approximate.’ If not leave blank. If date is unknown leave blank. |
 
-**Era** and **Calendar** autopopulates as *CE* and *Gregorian* respectively, generally no need to adjust. 
+**Era** and **Calendar** autopopulate as *CE* and *Gregorian* respectively, generally no need to adjust. 
 
 ---
 ### Extents
@@ -107,7 +112,7 @@ The **Finding Aid Data** section in the Resource Record houses finding aid creat
 | Field | Required | Content | Examples |
 | - | ----- | -------- | -------- |
 | Finding Aid Title | Yes | Guide to [Collection Title] | Guide to University of Idaho photograph collection |
-| Finding Aid Subtitle | Optional | Not required nor a field used often. |
+| Finding Aid Subtitle | Optional | Not required or used often. |
 | Finding Aid Filing Title | Yes | Usually just the collection title. If a title with a person's name, the format is Last Name (First and Middle). | Vandal (Jane J.) papers |
 | Finding Aid Date | Yes | Year the finding aid was completed. If a finding aid was updated, note the date of update in the Finding Aid Author field. | 2037 |
 | Finding Aid Author | Yes | Finding Aid prepared by [name of person who prepared the finding aid] | Finding aid prepared by Jane Vandal; Finding aid prepared by Jane Vandal, updated by Joe Vandal in 2035. |
@@ -118,12 +123,12 @@ The **Finding Aid Data** section in the Resource Record houses finding aid creat
 | Sponsor | Optional | If work on the collection is funded through a grant or other sponsor, make note of that. | Funding for encoding this finding aid was provided through a grant awarded by the National Endowment for the Humanities. |
 | Edition Statement | Optional | For recording information about the edition of the finding aid. |
 | Series Statement | Optional | Indicates any bibliographic series to which the finding aid belongs. |
-| Finding Aid Status | Yes | When ready to upload to Archives West, mark as *Complete.* |
+| Finding Aid Status | Yes | When ready to upload to Archives West, mark as *Complete.* *In Progress* can be used while collection is still being processed. |
 
 ---
 ### Related Accessions
 
-The **Related Accessions** section in the Resource Record is sed for linking associated Accessions with the Resource. 
+The **Related Accessions** section in the Resource Record is sed for linking associated Accessions with the Resource. If collection was spawned from an accession, that accession will appear automatically. Any other accessions will need to be linked.
 
 To link an accession:
 1. Click *Add Related Accession*.
@@ -198,6 +203,8 @@ To add a subject:
 - Use the dropdown menu to *Browse* for subjects.
 - Use the dropdown menu to *Create* a subject.
 
+**NOTE**: Names are generally not Subjects. Add names in Agent Links field.
+
 ##### Creating a Subject
 - Search the [Library of Congress Subject Headings (LCSH)](https://id.loc.gov/authorities/subjects.html) database to see if a subject has a LCSH record.
     - If correct subject record populates, click on to view the full record.
@@ -230,7 +237,7 @@ Example:
 ---
 ### Notes
 
-This section adds additional descriptive information about the materials described, usually in the form of text or structured lists. Use the information from your [Collection Description]({{ '/content/processing/collection-description.html' | relative_url }}) document to help fill out fields.
+This section adds descriptive information about the materials, usually in the form of text or structured lists. Use the information from your [Collection Description]({{ '/content/processing/collection-description.html' | relative_url }}) document to help fill out fields. If collection has been spawned from an Accession, some notes will autopopulate.
 
 To add a note:
 1. Click *Add Note*.
@@ -243,7 +250,7 @@ Below are fields usually filled out by processors.
 | Note Type | Required | Content | Example |
 | --- | ----| --------- |------- |
 | Abstract | Yes | 2-3 sentence description of the collection. Will serve as the *Summary* section on [Archives West](https://archiveswest.orbiscascade.org/search.php?r=idu). | *Records, pictures, and other miscellaneous papers from the University of Idaho Press.* |
-| Arrangement | Yes | Include whether the collection has retained its original order, or if there was archivist intervention.| *Original order retained.* OR *The original order of this born-digital collection was retained during ingestion. During the processing stage archivists reorganized folders and filenames in order to allow easier integrated into a single system of arrangement.* |
+| Arrangement | Yes | Include whether the collection has retained its original order, or if there was archivist intervention. Describe reasoning for intervention. | *Original order retained.* OR *The original order of this born-digital collection was retained during ingestion. During the processing stage archivists reorganized folders and filenames in order to allow easier integrated into a single system of arrangement.* |
 | Bibliography | Optional | Include a bibliography if outside research done and compiled to complete the Biographical/Historical Note. To include a clickable link, see [Clickable Links in AS & AW]({{ '/content/processing/links-as-aw.html' | relative_url }}). |
 | Biographical / Historical | Yes | Include historical context or biographical context about the collection. See [Composing a Collection Description]({{ '/content/processing/collection-description.html' | relative_url }}) to help fill out this field. |
 | Conditions Governing Access | Yes | Inform researchers about accessing physical and digital materials. | *Collection is open for research.* |
@@ -255,12 +262,43 @@ Below are fields usually filled out by processors.
 | Immediate Source of Acquisition | Yes (if known) | Include donor information (i.e. name and date) and/or how the collection came to Spec. | *The materials in this collection were donated by Joe Vandal in 2023.* | 
 | Physical Characteristics and Technical Requirements | Optional | Note important physical characteristics of the collection. Note whether there are technology requirements to view certain materials. | *Please note this collection contains electronic pdfs and will require a PDF viewer software.* |
 | Preferred Citation | Yes | See [Citations]({{ '/content/processing/citations.html' | relative_url }}) documentation. Copy into this field. |
-| Processing Information | Optional | Include processing information. | *Digital materials were processed by Jane Vandal in 2023.* |
-| Related Materials | Optional | If there are other collections with materials relating to important subjects in the collection you are describing, include information about those collections. | *Related materials may be found in* [Photo/Manu/Uni] Group [Number] [Collection Name]. |
-| Scope and Contents | Yes| Label must be: "Content Description". The type of records included in the collection as well as the topics or subjects covered in those records. | *This collection contains photographs and memorabilia kept by Joe Vandal. Joe was a U of I alum and active member of the Vandal community. Much of the material focuses on making a Jane Vandal mascot.* |
+| Processing Information | Optional | Brief description of actions taken during processing that have an impact on the use or content of the collection (unusual arrangement, sampling techniques used, etc.). | *Digital materials were processed by Jane Vandal in 2023.* |
+| Related Materials | Optional | If there are other collections with materials relating to important subjects in the collection you are describing, include information about those collections. Use links to hyperlink ArchivesWest finding aids. To include a clickable link, see [Clickable Links in AS & AW]({{ '/content/processing/links-as-aw.html' | relative_url }}) | *Related materials may be found in* [Photo/Manu/Uni] Group [Number] [Collection Name]. |
+| Scope and Contents | Yes| The type of records included in the collection as well as the topics or subjects covered in those records. | *This collection contains photographs and memorabilia kept by Joe Vandal. Joe was a U of I alum and active member of the Vandal community. Much of the material focuses on making a Jane Vandal mascot.* |
 | Separated Materials | Optional | Note whether some materials were separated and place into other collections. | *The books in this collection were separated and added to the Day-NW Book Collection held by Special Collections and Archives.* |
 
 ---
+### Uploading ArchivesSpace Spreadsheet
+
+To upload a completed spreadsheet:
+- In ArchivesSpace, search for the correct Resource Record and click the **Edit** button (right of the record title and date range) 
+
+{% include figure.html img="edit.jpg" alt="AS resource edit" caption="" width="" %}
+
+- Click **Load Via Spreadsheet**. 
+
+{% include figure.html img="load-via.jpg" alt="loading template" caption="" width="60%" %}
+
+- Click **Select File** and find the spreadsheet you created.
+- Click **Import from Spreadsheet**. A new browser window will pop up as the spreadsheet and information gets loaded in. 
+
+{% include figure.html img="select-file.jpg" alt="selecting file" caption="" width="60%" %}
+
+- Here is where you will see whether the spreadsheet has any errors. If import has no errors, click **Refresh Page** then exit the import browser window. If errors occur, consult a colleague. 
+
+{% include figure.html img="refresh.jpg" alt="refresh the page" caption="" width="60%" %}
+
+- The browse that has the **Load Spreadsheet** window still open. On the right hand side click **Close.** 
+    - The Series, Sub-Series, and Items from the spreadsheet should populate.
+
+{% capture text %}
+**NOTE:** If issues occur, consult colleagues or use the [Orbis Cascade Help Form](https://www.orbiscascade.org/programs/osdc/help-request/).
+{% endcapture %}
+
+{% include alert.html text=text color="danger" %}
+
+---
+
 ### Instances
 
 The Resource Record must be saved before container lists can be added. A container instance is the location of where the collection is housed in archival storage.
@@ -283,10 +321,28 @@ To add an instance:
 6. Save the Resource.
 7. To add locations, see [Labeling and Shelving]({{ '/content/processing/labels.html' | relative_url }}).
 
-**Use the [ArchivesSpace Spreadsheet Template]({{ '/content/processing/spreadsheet.html' | relative_url }}) to complete the Series, Sub-Series, and Item level portions of the collection record.**
+---
+### Manual Entry
 
-{% capture text %}
-**NOTE:** Small collections can be added manually in ArchiveSpace.
-{% endcapture %}
+Small collections can be filled in manually in ArchivesSpace (as can individual lines). 
 
-{% include alert.html text=text color="warning" %}
+1. After all descriptive fields have been entered, you can begin adding folders and items. Navigate to the top level (Collection line) of the Resource Record.
+[image]
+2. Select "Edit"
+3. Click "Add Child"
+[image]
+4. A new screen will appear with fields to fill in:
+    - Title: Name of the folder, series, or item.
+    - Level of Description: Series, Subseries, or File.
+    - Dates:
+        - Date Expression
+        - Type
+        - Begin Date
+        - End Date
+        - Certainty (optional)
+    - Extent
+        - Number
+        - Items
+    - Notes
+        - Physical Description (what the material is)
+    - Instances: Box, Folder, and/or Object

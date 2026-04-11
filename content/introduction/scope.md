@@ -7,7 +7,8 @@ title: Scope of Collections
 *Last updated 03-24-2026*
 
 <div class="text-center mb-2">
-    <a href="#{{ 'University Collections' | slugify }}" class="btn btn-secondary my-2 mx-1">University and Manuscript Collections</a>
+    <a href="#{{ 'University Collections' | slugify }}" class="btn btn-secondary my-2 mx-1">University Collections</a>
+     <a href="#{{ 'Manuscript Collections' | slugify }}" class="btn btn-secondary my-2 mx-1">Manuscript Collections</a>
     <a href="#{{ 'Other Archival Collections' | slugify }}" class="btn btn-secondary my-2 mx-1">Other Collections</a>
     <a href="#{{ 'Born-Digital and Hybrid Collections' | slugify }}" class="btn btn-secondary my-2 mx-1">Born-Digital and Hybrid</a>
     <a href="#{{ 'Examples' | slugify }}" class="btn btn-secondary my-2 mx-1">Examples</a>
@@ -15,7 +16,7 @@ title: Scope of Collections
 
 Within Spec there are two primary classes of materials: university and manuscript collections.
 
-### University Collections
+## University Collections
 ---
 
 The **University Collection** consists of items related to the history of U of I, the work of its faculty, and the experiences of its students. Particularly strong components of the University Collection include:
@@ -27,7 +28,7 @@ The **University Collection** consists of items related to the history of U of I
 - University publications 
 - University presidential papers 
 
-### Manuscript Collections
+## Manuscript Collections
 ---
 
 The **Manuscript Collection** consists of those materials that are not directly connected to U of I. Spec has traditionally focused on the following subject areas in its Manuscript Collection:
@@ -42,28 +43,28 @@ Spec has also identified secondary or emerging subject areas for the manuscript 
 - LGBTQIA+ 
 - Military 
 
-### Other Archival Collections
+## Other Archival Collections
 ---
-#### Photograph Groups
+### Photograph Groups
 
 Photographs are a significant primary source type within Spec holdings and as such large collections have been catalogued as distinct record sets using the designation Photograph Group.  
 
-#### Small MGs
+### Small MGs
 
 Some collections are very small (i.e., one item in one folder). When those are processed, they are given a Small Manuscript Group identifier that start with the number **5** and shelved in the Small MG storage area. 
 
 For example, MG 5831 is the [Isabel Miller Sci-Fi collection](https://archiveswest.orbiscascade.org/ark:80444/xv250330) consisting of 3 items in one folder.
 
-#### International Jazz Collection
+### International Jazz Collection
 
 In 2007, the Lionel Hampton Jazz Festival's archival holdings were transferred to Spec. At that time [International Jazz Collection](https://www.ijc.uidaho.edu/) was added to Spec priorities.   
 
 A variety of material types are present in the University, Manuscript, and International Jazz Collections. The preponderance of material is documentary in nature. Spec has long collected audio and more recently video recordings. A limited amount of visual artwork, both framed and unframed, has been accepted. Objects or regalia also make up a small but important part of the collections.  
  
-#### Vertical Files
+### Vertical Files
 Items of an ephemeral nature documenting the University of Idaho, state of Idaho, and American West. Collections include athletics, campus life and culture, university departments, employees, memorabilia, and Idaho subjects. 
 
-#### Book Collections
+### Book Collections
 
 Spec has been collecting Rare Books for many decades. It consists of those books that, because of their artifact or association qualities, must be provided more attention and care. These include early imprints, such as incunabula (books published between 1450 and 1500); significant works from famous presses; volumes with exceptional bindings or illustrations; and first editions of landmark books. See [Material Locations]({{ '/content/tips-tricks/locations.html' | relative_url }}) for general book locations.
 
@@ -92,7 +93,8 @@ Additionally there are phone books and city directories for many Idaho cities, c
 - [Idaho Telephone and Business Directories](https://archiveswest.orbiscascade.org/ark:80444/xv238803) (Archives West finding aid)
 - [Non-Idaho Telephone and Business Directories](https://www.lib.uidaho.edu/special-collections/non-idaho-directories.html)
 
-#### Born-Digital and Hybrid Collections
+---
+### Born-Digital and Hybrid Collections
 
 In keeping with the U of I Library's mission to preserve university, state, and regional historical archives, Special Collections and Archives serves as the caretaker of digital archival resources.  Digital preservation involves a series of managed activities that are necessary to ensure long-term access to digital materials. Digital archival resources encompass both digitized analog materials and born-digital materials, meaning materials that have never been or do not have any analog (physical) equivalents. The general scope covers:
 

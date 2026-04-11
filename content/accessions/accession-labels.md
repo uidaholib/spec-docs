@@ -1,39 +1,35 @@
 ---
-section: Processing Manual
-nav_order: 10
-title: Labeling and Shelving
+section: Accession Manual
+nav_order: 3
+title: Labeling and Shelving Accessions
+topics: 
 ---
-<div class="text-center mb-2">
-    <a href="#{{ 'Labeling Boxes' | slugify }}" class="btn btn-secondary my-2 mx-1">Labeling Boxes</a>
-    <a href="#{{ 'Shelving Materials and Linking Locations' | slugify }}" class="btn btn-secondary my-2 mx-1">Shelving and Linking Locations</a>
-    <a href="#{{ 'Creating or Editing Location Records in ArchivesSpace' | slugify }}" class="btn btn-secondary my-2 mx-1">Creating or Editing Location Records</a>  
-</div>
 
-### Labeling Boxes
+*Updated 04-10-2026*
 
-Fill out the [Box Template](https://vandalsuidaho.sharepoint.com/:w:/r/sites/Storage-Library/Documents/spec/Collections/Accessions/Box_Label_template.docx?d=we3ba908310825c1ea33bb3e6196f877f&csf=1&web=1&e=rM2Mxc) with the collection ID, title, date range, and the box number. For collections that have more than one box, make sure to put “Box 1 of” and then whatever the final box total is. 
+## Labeling Boxes
 
-{% capture text %}
-**NOTE:** Try not to adjust the label sizes in the Word doc.
-{% endcapture %}
+Fill in the [Box Template](https://vandalsuidaho.sharepoint.com/:w:/r/sites/Storage-Library/Documents/spec/Collections/Accessions/Box_Label_template.docx?d=we3ba908310825c1ea33bb3e6196f877f&csf=1&web=1&e=rM2Mxc) with the Accession number, title, date range, and the box number. For accessions that have more than one box, make sure to put "Box # of #" (e.g., Box 10 of 12).
 
-{% include alert.html text=text color="warning" %}
+**NOTE**: Try not to adjust the label sizes or spacing in the Word doc.
 
-Before printing, be sure to find the label paper (next to the small grey HP printer). Place a piece in the paper feeder, not a tray. After that, feel free to print. Place the labels on the appropriate box.
+Before printing, place a sheet of label paper (next to the small gray HP printer in the processing room) in the manual feed tray of the printer, not the main paper compartment. 
+
+Place labels on the appropriate boxes. 
 
 ---
-### Shelving Materials and Linking Locations
+## Shelving Materials and Linking Locations
 
-Consult with colleagues, if needed, about where an appropriate place is to house the collection. Make note of the row, section, and shelf each box is on.  
+Consult with colleagues, if needed, about an appropriate location to shelve the materials. Note cage, row, section, and shelf of each box.  
 
-Return to *Resource Record* in ArchivesSpace and scroll to the **Instances** field. It should look like this:
+Return to *Resource Record* in ArchivesSpace and scroll to the Instances field. It should look like this:
 
 {% include figure.html img="instances.jpg" alt="instances field" caption="" width="50%" %}
 
 To link location information: 
-1. Click on the blue Top Container button, and then click **View.** 
-2. A window will pop up with the container details. Click **Edit.** 
-3. In the Locations field, click **Add Location** (to the right). 
+1. Click on the blue Top Container button, and then click View. 
+2. A window will pop up with the container details. Click Edit.
+3. In the Locations field, click Add Location (to the right). 
 
 {% include figure.html img="locations.jpg" alt="locations field" caption="" width="80%" %}
 
@@ -43,9 +39,9 @@ All cage locations should be in ArchivesSpace. From the dropdown menu, select �
 
 When searching for a location, filtering the result by Room is beneficial. After filtering to the area, you’re searching for, in the text box type in the row information.  
 - For example, if you’re putting a collection in Cage 1, in Row 113, select “Cage 1” from the Room. Then type in “113.” 
-- Once you find the location you need using the row, section, and shelf information you gathered, select the correct result. Then click **Link to Locations.** After linking, your screen will return here with the newly added location information.
+- Once you find the location you need using the row, section, and shelf information you gathered, select the correct result. Then click Link to Locations. After linking, your screen will return here with the newly added location information.
 
-Be sure to click **Save Top Container.** Now when you go back to the Resource Record and scroll to the Instances, the boxes will have locations attached to them.
+Be sure to click Save Top Container. Now when you go back to the Resource Record and scroll to the Instances, the boxes will have locations attached to them.
 
 {% capture text %}
 **WARNING:** When editing a box's location, make sure you aren't editing the actual *location* information as shown below. Changing this information doesn't change box information, it changes the entire location record.

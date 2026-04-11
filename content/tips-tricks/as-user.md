@@ -4,6 +4,10 @@ nav_order: 3
 title: New User in ArchivesSpace
 ---
 
+*Updated 04-10-2026*
+
+This process is usually completed by Dulce. Anyone else doing this process should check with Dulce first.
+
 To create a new user in ArchivesSpace:
 
 1. Got to [https://uidaho.libraryhost.com/admin](https://uidaho.libraryhost.com/).

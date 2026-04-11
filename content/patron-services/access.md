@@ -4,6 +4,8 @@ nav_order: 5
 title: Collections Use and Access
 ---
 
+*Updated 04-10-2026*
+
 The holdings of Spec are maintained and made available for the benefit of university stakeholders and the public. The use of the collections is central to the mission of the department and should be facilitated whenever possible.  
 
 ---
@@ -31,6 +33,16 @@ When a reproduction request exceeds the parameters listed above, it may be appro
 Spec representatives retain the right to *refuse* any individual research or reproduction request that interferes with their normal duties. While customer service of great concern to the department, it is not a research firm and cannot accommodate all requests due to staffing limitations.  
 
 Based upon advice from University of Idaho General Counsel in Summer 2022, Spec should not assess use fees on materials provided to researchers.  
+
+Spec scans archival materials for patron inquiries, inter-departmental requests, and other digitization projects such as digital collections. When a *part* or a *whole* collection has been scanned, they are marked with orange "SCANNED" stickers (located in the processing room).
+
+{% capture text %}
+**NOTE:** Before scanning check the **Archive Drive** to see whether something has already been scanned! If you don't have access to the drive, contact the Digital Archivist.
+{% endcapture %}
+
+{% include alert.html text=text color="warning" %}
+
+When transferring files to patrons that are too large to send via email, use the *free* file transfer site [WeTransfer](https://wetransfer.com/). Creating a free account is *not* required.
 
 ---
 ### Access to Born-Digital Materials

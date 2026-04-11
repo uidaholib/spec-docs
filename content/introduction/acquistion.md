@@ -189,4 +189,4 @@ If a donor wishes to have staff scan and return accessioning procedures. If the 
 
 [Section under construction]
 
-See [Ingesting Digital Materials](({{ '/content/practices-procedures/digital-ingest.html' | relative_url }})) for information about ingesting digital materials. 
+See [Ingesting Digital Materials]({{ '/content/processing/digital-ingest.html' | relative_url }}) for information about ingesting digital materials. 

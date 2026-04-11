@@ -1,6 +1,6 @@
 ---
-section: Processing
-nav_order: 9
+section: Processing Manual
+nav_order: 12
 title: Digital Processing Walkthrough
 ---
 

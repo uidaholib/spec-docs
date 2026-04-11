@@ -4,18 +4,17 @@ nav_order: 4
 title: Composing a Collection Description
 topics: 
 ---
----
-*This manual is based on documentation created by Amy Thompson on how to create resource records in ArchivesSpace. It was updated in 2023 to reflect the most current departmental practices.*
+
+*This manual is based on documentation created by Amy Thompson on how to create resource records in ArchivesSpace. It was updated in 2026 to reflect the most current departmental practices.*
+
+*Updated 04-10-2026*
 
 Begin by reviewing that all steps of the **[Accession Manual]({{ '/content/accessions/rehouse.html' | relative_url }})** are complete. This is especially important for donations that came in before 2017, when ArchivesSpace was adopted. 
 
-The following information will be needed to create a complete collection record in ArchivesSpace. 
+The following information will be needed to create a complete collection record in ArchivesSpace. **Worksheets**: Most information will be entered into the Finding Aid Worksheet and Processing Worksheet for the collection. Templates for these two files can be found on SharePoint under [libspec files] (https://vandalsuidaho.sharepoint.com/:f:/r/sites/Storage-Library/Documents/spec/Temporary%20Workers/libspec%20files?csf=1&web=1&e=s1aqcj).
 
-{% capture text %}
-**NOTE:** It is recommended processors should gather the following information into a single document before working in ArchivesSpace. Doing this allows more context to be added to a collection, as well as helps with grammatical errors.
-{% endcapture %}
 
-1. **Title:** The title will likely be the same unique name given to the donation. The name of the person/group + type of records, such as papers, records, or collection.
+1. **Title:** The title will likely be the same unique name given to the donation: the name of the person/group plus the type of records, such as papers, records, or collection.
 2. **Identifier:** Assign the identifier based on the next available number in the [List of All Collections](https://vandalsuidaho.sharepoint.com/:x:/r/sites/Storage-Library/Documents/spec/Collections/Processed%20Collections/List%20of%20All%20Processed%20Collections.xlsx?d=w5ab19cc4fbee525e912b7bcd8afa738a&csf=1&web=1&e=cs00Gc&nav=MTVfezAwMDAwMDAwLTAwMDEtMDAwMC0wMjAwLTAwMDAwMDAwMDAwMH0). If you have questions about the difference between MGs, UGs, and PGs, see the [Scope of Collections]({{ '/content/introduction/scope.html' | relative_url }}) documentation.
 3. **Dates:** The general dates represented in the collection, ex: 1927-1970.  
 4. **Quantity:** The volume of the collection, ex: 2.5 c.f.  
