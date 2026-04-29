@@ -18,9 +18,11 @@ title: RECA Claims Resources
 
 -----
 
-#### Instructions for Researching a RECA Claim
+#### Researching a RECA Claim
 
 - Instructions for researching a RECA claim (SharePoint): [Downwinder (RECA) reference questions](https://vandalsuidaho.sharepoint.com/:w:/r/sites/Storage-Library/Documents/spec/Reference/Downwinders/Downwinder%20(RECA)%20reference%20questions.docx?d=w005e93170368445b87b38609c8913e63&csf=1&web=1&e=BBkiH3)
+
+- Digital collection for directories (internal use): [https://hastingsspec.github.io/directoriesspec/](https://hastingsspec.github.io/directoriesspec/)
 
 -----
 
@@ -46,7 +48,7 @@ title: RECA Claims Resources
 *Make sure links work*
 
 {:.table .table-bordered}
-| Thank you for submitting your request for residence documentation for [Person Name] of [Place Name].<br><br> Unfortunately, we were unable to find listings for [Person Name] in our [Place Name] directories. If you have any other ideas about where [Person Name] might have lived in Idaho during the 1951-1962 period, please let us know.<br><br> If you have not done so already, I suggest contacting the Idaho State Archives ([https://history.idaho.gov/archives/reca/](https://history.idaho.gov/archives/reca/)), which has its own collections that may be helpful with residence documentation.<br><br> You might also consider checking out the [Idaho Downwinders Support Group](https://www.facebook.com/groups/23945323401810681/) on Facebook. It is run by Tona Henderson, who knows far more about Downwinders cases than we do. Tona’s phone number is 208-365-2669 (I think she’s open to answering calls during normal business hours), and her email is tonahenderson@hotmail.com.<br><br> Please let me know if you have any questions or concerns. |
+| Thank you for submitting your request for residence documentation for [Person Name] of [Place Name].<br><br> Unfortunately, we were unable to find listings for [Person Name] in our [Place Name] directories. If you have any other ideas about where [Person Name] might have lived in Idaho during the 1951-1962 period, or if there is a parent or other close relative of the person we can look for, please let me know.<br><br> If you have not done so already, I suggest contacting the Idaho State Archives ([https://history.idaho.gov/archives/reca/](https://history.idaho.gov/archives/reca/)), which has its own collections that may be helpful with residence documentation.<br><br> You might also consider checking out the [Idaho Downwinders Support Group](https://www.facebook.com/groups/23945323401810681/) on Facebook. It is run by Tona Henderson, who knows far more about Downwinders cases than we do. Tona’s phone number is 208-365-2669 (I think she’s open to answering calls during normal business hours), and her email is tonahenderson@hotmail.com.<br><br> Please let me know if you have any questions or concerns. |
 
 
 #### Outside Resources
