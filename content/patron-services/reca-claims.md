@@ -38,7 +38,13 @@ title: RECA Claims Resources
 *For a cover letter, Dulce needs this text. Please edit as needed to reflect collections used and/or multiple names searched:*
 
 {:.table .table-bordered}
-| Included with this letter please find scans of pages from the telephone directory for [Idaho town] published in years [19XX to 19XX OR 19XX, 19XX, and 19XX]. The scans were made from original directories within the University of Idaho’s IDTELE collection. The attached records containing references to [Name of Person in Listing] of [Idaho town], Idaho are a true and accurate copy of a record kept in our files. |
+| To [claimant full name]: <br><br> Following the completion of your research inquiry with the University of Idaho Library Special Collections and Archives, page scans have been provided to you from the telephone directory [or city directory] for [town name] published in [date(s)]. The scans were made from original directories within the University of Idaho Library’s IDTELE collection. The documentation provided containing references to [person name] of [town name, Idaho,] are a true and accurate copy of a record kept in our files. |
+
+
+Example: 
+
+{:.table .table-bordered}
+| To John Smith: <br><br> Following the completion of your research inquiry with the University of Idaho Library Special Collections and Archives, page scans have been provided to you from the city directories for Boise, Idaho, published in 1956, 1957, and 1958. The scans were made from original directories within the University of Idaho Library’s IDTELE collection. The documentation provided containing references to Jane Smith of Boise, Idaho, are a true and accurate copy of a record kept in our files. |
 
 
 -----
