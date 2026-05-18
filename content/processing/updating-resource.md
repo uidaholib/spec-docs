@@ -24,6 +24,8 @@ Delete the existing series by clicking on the series and hitting the Delete butt
 
 **Make sure** that you are not clicked on the Collection line. If you hit delete while on the Collection line, the ENTIRE record will be deleted. Deleted records cannot be recovered (don't worry too much if this happens - we've all done it). 
 
-[image]
+{% include figure.html img="donotclick.png" alt="" caption="Do not click Delete while you're on the Collection level - this will delete the entire record, which cannot be undone" %}
+
+{% include figure.html img="okaytoclick.png" alt="" caption="If you want to delete series within the collection, make sure that you're on the Series level before you click delete." %}
 
 Follow normal steps for uploading Resource Record to Archives West. 

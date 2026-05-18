@@ -5,13 +5,6 @@ layout: lesson-content
 
 <div class="row text-center py-2">
     <div class="col-md-3">
-        <h2 class="py-2">Practices and Procedures</h2>
-        <a class="btn btn-outline-primary m-1" href="{{ '/content/practices-procedures/accession-processing.html' | relative_url }}">Accession and Processing</a>
-        <a class="btn btn-outline-primary m-1" href="{{ '/content/patron-services/copyright.html' | relative_url }}">Copyright Guidance</a>
-        <a class="btn btn-outline-primary m-1" href="{{ '/content/practices-procedures/publications.html' | relative_url }}">Books, Periodicals, and Maps</a>
-        <a class="btn btn-outline-primary m-1" href="https://forms.office.com/pages/responsepage.aspx?id=Y2u8fpJXGUqyCwS4JgSIUxaSEHQ0MBFJmCa2EIVFmhNUQTRRUjJYQktMMFpNUElYQVBTRFNOMjA5Ry4u">Patron Support Report</a>
-    </div>
-    <div class="col-md-3">
         <h2 class="py-2">Accession Manual</h2>
         <a class="btn btn-outline-success m-1" href="https://uidaho.libraryhost.com/">ArchivesSpace Login</a>
         <a class="btn btn-outline-success m-1" href="{{ '/content/accessions/rehouse.html' | relative_url }}">Rehousing Materials</a>
@@ -26,11 +19,18 @@ layout: lesson-content
         <a class="btn btn-outline-danger m-1" href="{{ '/content/processing/labels.html' | relative_url }}">Labeling and Shelving</a>
     </div>
     <div class="col-md-3">
-        <h2 class="py-2">Digital Materials</h2>
-        <a class="btn btn-outline-secondary m-1" href="https://uidaholib.github.io/spec-docs/content/practices-procedures/digital-preservation.html">Digital Preservation</a>
-        <a class="btn btn-outline-secondary m-1" href="https://uidaholib.github.io/spec-docs/content/practices-procedures/accession-processing.html#born-digital-processing">Born-Digital Processing</a>
-        <a class="btn btn-outline-secondary m-1" href="{{ '/content/practices-procedures/digital-ingest.html' | relative_url }}">Ingesting Digital Materials</a>
-        <a class="btn btn-outline-secondary m-1" href="https://uidaholib.github.io/spec-docs/content/processing/spreadsheet.html#born-digital-and-hybrid-collections">ArchiveSpace and DROID Spreadsheet</a>
+        <h2 class="py-2">Student Workers</h2>
+        <a class="btn btn-outline-secondary m-1" href="https://uidaholib.github.io/spec-docs/content/processing/worksheets.html">Worksheets</a>
+        <a class="btn btn-outline-secondary m-1" href="https://uidaholib.github.io/spec-docs/content/processing/collection-description.html">Composing a Collection Description</a>
+        <a class="btn btn-outline-secondary m-1" href="https://uidaholib.github.io/spec-docs/content/processing/spreadsheet.html">ArchivesSpace Spreadsheet</a>
+        <a class="btn btn-outline-secondary m-1" href="https://uidaholib.github.io/spec-docs/content/processing/rehouse-arrange.html">Rehousing and Arrangement</a>
+    </div>
+        <div class="col-md-3">
+        <h2 class="py-2">Patron Services</h2>
+        <a class="btn btn-outline-primary m-1" href="https://uidaholib.github.io/spec-docs/content/patron-services/access.html">Collections Use and Access</a>
+        <a class="btn btn-outline-primary m-1" href="https://uidaholib.github.io/spec-docs/content/processing/collection-description.html">Copyright Guidance</a>
+        <a class="btn btn-outline-primary m-1" href="https://uidaholib.github.io/spec-docs/content/patron-services/reca-claims.html">RECA Claims Resources</a>
+        <a class="btn btn-outline-primary m-1" href="https://forms.office.com/pages/responsepage.aspx?id=Y2u8fpJXGUqyCwS4JgSIUxaSEHQ0MBFJmCa2EIVFmhNUQTRRUjJYQktMMFpNUElYQVBTRFNOMjA5Ry4u">Patron Support Form</a>
     </div>
 </div>
 

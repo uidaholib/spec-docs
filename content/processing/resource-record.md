@@ -231,8 +231,23 @@ Example:
 {% capture text %}
 **NOTE:** Be sure to add three or more subjects. One MUST be a subject by Archives West. Consult colleagues for more information.
 {% endcapture %}
-
 {% include alert.html text=text color="warning" %}
+
+Typically "Idaho" is used. You can find this using Browse:
+
+{% include figure.html img="subjects.png" alt="" caption="" %}
+
+Enter "Idaho" into the Filter by text box in the upper left corner.
+
+{% include figure.html img="subjectsbrowse.png" alt="" caption="" %}
+
+In the Source list on the left, select the option from archiveswest. This will leave you with one result to choose.
+
+{% include figure.html img="subjectidaho.png" alt="" caption="" %}
+
+Click "Link" to add this subject to your resource record.
+
+{% include figure.html img="subjectlink.png" alt="" caption="" %}
 
 ---
 ### Notes
@@ -327,10 +342,14 @@ To add an instance:
 Small collections can be filled in manually in ArchivesSpace (as can individual lines). 
 
 1. After all descriptive fields have been entered, you can begin adding folders and items. Navigate to the top level (Collection line) of the Resource Record.
-[image]
+
+{% include figure.html img="manuallevel.png" alt="" caption="" %}
+
 2. Select "Edit"
 3. Click "Add Child"
-[image]
+
+{% include figure.html img="manualadd.png" alt="" caption="" %}
+
 4. A new screen will appear with fields to fill in:
     - Title: Name of the folder, series, or item.
     - Level of Description: Series, Subseries, or File.

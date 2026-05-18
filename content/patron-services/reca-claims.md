@@ -44,7 +44,7 @@ title: RECA Claims Resources
 Example: 
 
 {:.table .table-bordered}
-| To John Smith: <br><br> Following the completion of your research inquiry with the University of Idaho Library Special Collections and Archives, page scans have been provided to you from the city directories for Boise, Idaho, published in 1956, 1957, and 1958. The scans were made from original directories within the University of Idaho Library’s IDTELE collection. The documentation provided containing references to Jane Smith of Boise, Idaho, are a true and accurate copy of a record kept in our files. |
+| To John Smith: <br><br> Following the completion of your research inquiry with the University of Idaho Library Special Collections and Archives, page scans have been provided to you from the city directories for Boise, Idaho, published in 1956, 1957, and 1958. The scans were made from original directories within the University of Idaho Library’s IDTELE collection. The documentation provided containing references to Jane Smith of Boise, Idaho, are true and accurate copies of records kept in our files. |
 
 
 -----

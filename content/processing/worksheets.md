@@ -25,7 +25,7 @@ Processing Worksheet information will come either from Spec staff/faculty or wil
 - Extent post-processing: How many boxes do you have after processing?
 - Did a usable order exist?: Yes or No
 - Existing descriptive documents: Was there an existing inventory at the start?
-- Resource/Group Number (UG/MG/PG): Assigned number from the List of All Collections[]
+- Resource/Group Number (UG/MG/PG): Assigned number from the List of All Collections[https://vandalsuidaho.sharepoint.com/:x:/r/sites/Storage-Library/Documents/spec/Collections/Processed%20Collections/List%20of%20All%20Processed%20Collections.xlsx?d=w5ab19cc4fbee525e912b7bcd8afa738a&csf=1&web=1&e=F5myQT]
 
 Other fields should have descriptive notes or questions to think about.
 

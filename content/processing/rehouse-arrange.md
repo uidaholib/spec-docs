@@ -79,6 +79,9 @@ Use only **pencil** when writing on folders. Some other materials may need to be
     - Remove paper clips and binder clips. If the clips were holding together small groups of papers, replace with a Plastiklip. Larger groups of paper: either place in their own folder, fold a strip of acid-free paper around one edge of the "packet", or rotate the "packet" 180 degrees to indicate that they are separate from surrounding groups of papers.
 3. Duplicate Materials
     - Retain only one or two copies of true duplicates. A copy is not considered a duplicate if it has characteristics that distinguish it from other materials (notes in the margins, signed by the author, etc.). Please consult with colleagues if you have questions about which materials to retain.
+
+{% include figure.html img="folderlabel.png" alt="photograph of a folder with writing on it" caption="Labeling folders: Title (left), date (center), identifiers (right), # of items on front flap" %}
+
 4. Sensitive Materials
     - Spec typically does not retain sensitive materials that cannot be made available to researchers. Sensitive materials include: 
         - Social Security Numbers
