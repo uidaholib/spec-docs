@@ -25,9 +25,9 @@ keywords: "special collections, archives"
 featured-image: "/images/uidaho-workshop.jpg"
 
 # author name, displayed in credits
-author: sszobody
+author: sszobody; hastingsspec
 # year or date published, displayed in sidebar
-publication_year: 2023
+publication_year: 2023; updated 2026
 # location of code, the full url to your github repository
 source-code: https://github.com/uidaholib/spec-docs
 # content license (typically "cc by-sa"), displayed in sidebar
