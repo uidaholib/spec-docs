@@ -9,7 +9,7 @@ title: Answering Patron Inquiries
 
 {% include alert.html text=text color="warning" %}
 
-When a patron contacts Spec and their inquiry is detailed, answering their questions or requests may be cut and dry.
+When a patron contacts Spec and their inquiry is detailed, answering their questions or requests may be straightforward.
 
 However, sometimes a patron request isn't very clear. In those cases, asking for clarification or even asking more questions about the subject might help narrow down a scope of research.
 
@@ -24,3 +24,13 @@ When prompted to find a **digital assets**, see whether the finding aid record i
 Example:
 
 {% include figure.html img="digital-files.jpg" alt="finding aid with digital file name included" caption="" width="" %}
+
+
+## Directing a Patron to Use Archives West
+
+Example language: 
+
+*Make sure links work*
+
+{:.table .table-bordered}
+| We would be glad to help you access any materials in our archives that pertain to your research. To begin, you can review the finding aids for our collections by visiting Archives West, the consortium of regional archives we belong to. If in your search you find any materials related to [*research topic*], please send us an email to make an appointment to see the materials. We would need to know the collection number and the folders or boxes you want to see. <br><br>It might be worth expanding your search in Archives West to other repositories in the region. You can do so by changing the filter at the top of the search box. <br><br>We recently produced a tutorial to introduce the basics of using Archives West. It can be found here: [https://youtu.be/P_aH4S3MZrg?si=qrvhYn3daUkdr0lt](https://youtu.be/P_aH4S3MZrg?si=qrvhYn3daUkdr0lt). <br><br>Please reach out if we can be of further assistance.|
