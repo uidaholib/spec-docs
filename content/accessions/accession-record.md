@@ -9,6 +9,9 @@ topics:
 
 The following is based on the Accessions Manual created by Ashlyn Velte in 2018 and subsequently updated by Amy Thompson in 2019 and 2022. It was again updated in 2023 by Dulce Kersting-Lark.
 
+**NOTE**: For acquisitions 1 cubic foot or smaller, Spec employees should attempt to complete accessioning and processing as soon as possible, except for accessions that are tied to a larger group of accessions or an existing processed collection. (June 2026)
+
+
 ---
 ### Log into [ArchivesSpace (AS)](https://uidaho.libraryhost.com/)
 - URL: [https://uidaho.libraryhost.com/](https://uidaho.libraryhost.com/).
@@ -77,7 +80,7 @@ Era and Calendar autopopulate as *CE* and *Gregorian* respectively; generally no
 ---
 ### Extents
 
-The Extents section in the Accession Record refers to the size of the collection (usually # of cubic feet, i.e. # of bankers boxes).
+The Extents section in the Accession Record refers to the size of the collection (usually # of cubic feet, i.e. # of bankers boxes). **Always record Extent for accessions - this is a required element.**
 
 {:.table .table-bordered}
 | Field | Required | Content | Examples |

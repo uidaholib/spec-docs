@@ -127,6 +127,8 @@ Dulce will provide cover letters via Teams (for digital-only requests) or in per
 
 According to the patron's request, either email the scans and cover letter as attachments, or print out the materials to be mailed or picked up in person. If you are not printing out listings scans for the patron, send the scans as email attachments and include a "Dear patron..." insert with the mailed cover letter.
 
+Do not record Downwinders requests in the Patron Support Form. Metrics will be calculated via the RECA spreadsheet.
+
 -----
 
 ### Resources for Unsuccessful Searches
