@@ -17,7 +17,7 @@ Then there are times when a patron has a very broad topic and doesn't quite know
 
 1. [How-To Search Archives West](https://vandalsuidaho.sharepoint.com/:b:/r/sites/Storage-Library/Documents/spec/Marketing%20and%20Communications/How-To%20Search%20AW.pdf?csf=1&web=1&e=wXhZRF)
 2. [How-To Search the Library Catalog](https://vandalsuidaho.sharepoint.com/:b:/r/sites/Storage-Library/Documents/spec/Marketing%20and%20Communications/How-To%20Search%20Library%20Catalog%20(1).pdf?csf=1&web=1&e=cdEo9O)
-3. [How-To Search HistPhoto](https://vandalsuidaho.sharepoint.com/:b:/r/sites/Storage-Library/Documents/spec/Marketing%20and%20Communications/How-To%20Search%20HistPhoto.pdf?csf=1&web=1&e=06OMNp)
+3. [How-To Search Digital Collections](https://vandalsuidaho.sharepoint.com/:b:/r/sites/Storage-Library/Documents/spec/Policies%20and%20Procedures/How-To%20for%20Patrons/How-To%20Search%20Digital%20Collections.pdf?csf=1&web=1&e=gJNPL3)
 
 When prompted to find a **digital assets**, see whether the finding aid record includes the file names. Look for these in the Archive Drive. Ask colleagues for help if issues arise.
 
