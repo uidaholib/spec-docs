@@ -113,13 +113,13 @@ If a directory includes the person you're looking for:
 In the [RECA Requests](https://vandalsuidaho.sharepoint.com/:x:/r/sites/Storage-Library/Documents/spec/Reference/Downwinders/RECA%20Requests.xlsx?d=wdb63c796c08741578c7d7767a24d8cee&csf=1&web=1&e=bWjebs) spreadsheet, enter cover letter language into the "Text for cover letter" column. Edit the following template to reflect appropriate names, places, dates, and collections used: 
 
 {:.table .table-bordered}
-| To [claimant full name]: <br><br> Following the completion of your research inquiry with the University of Idaho Library Special Collections and Archives, page scans have been provided to you from the telephone directory [or city directory] for [town name] published in [date(s)]. The scans were made from original directories within the University of Idaho Library’s IDTELE collection. The documentation provided containing references to [person name] of [town name, Idaho,] are a true and accurate copy of a record kept in our files. |
+| To [claimant full name]: <br><br> Following the completion of your research inquiry with the University of Idaho Library Special Collections and Archives, page scans have been provided to you from the telephone directory [or city directory] for [town name] published in [date(s)]. The scans were made from original directories within the University of Idaho Library’s IDTELE collection. The documentation provided containing [# of scanned pages] pertaining to [person name] of [town name, Idaho,] are a true and accurate copy of a record kept in our files. |
 
 
 Example: 
 
 {:.table .table-bordered}
-| To John Smith: <br><br> Following the completion of your research inquiry with the University of Idaho Library Special Collections and Archives, page scans have been provided to you from the city directories for Boise, Idaho, published in 1956, 1957, and 1958. The scans were made from original directories within the University of Idaho Library’s IDTELE collection. The documentation provided containing references to Jane Smith of Boise, Idaho, are true and accurate copies of records kept in our files. |
+| To John Smith: <br><br> Following the completion of your research inquiry with the University of Idaho Library Special Collections and Archives, page scans have been provided to you from the city directories for Boise, Idaho, published in 1956, 1957, and 1958. The scans were made from original directories within the University of Idaho Library’s IDTELE collection. The documentation provided containing 9 pages pertaining to Jane Smith of Boise, Idaho, are true and accurate copies of records kept in our files. |
 
 Dulce will provide cover letters via Teams (for digital-only requests) or in person (for "by mail" requests). 
 
