@@ -102,7 +102,9 @@ If a directory includes the person you're looking for:
 - Make sure that file name accurately reflects city/town, year, and directory type (ex. jerome_phone_1959.pdf) 
 - Enhance the image:  
     - Crop the scans in the scanning program to show just the page you need, removing any part of the scanner bed or other pages captured in the image (Zeutschel: Crop>Crop).  
-    - If the directory's pages are darkened, increase the contrast of the scan (Zeutschel: Optimize Image>Contrast). These two steps will make the final printouts more readable by creating more contrast between the text and the rest of the page. 
+    - If the directory's pages are darkened, increase the contrast of the scan (Zeutschel: Optimize Image>Contrast). These two steps will make the final printouts more readable by creating more contrast between the text and the rest of the page.
+ 
+NOTE: Do not highlight listings. Do not alter the scans in any way.
 
 **[Student workers: at this point, send scans to a Spec staff or faculty member]**
 
