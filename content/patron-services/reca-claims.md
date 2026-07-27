@@ -131,6 +131,11 @@ According to the patron's request, either email the scans and cover letter as at
 
 Do not record Downwinders requests in the Patron Support Form. Metrics will be calculated via the RECA spreadsheet.
 
+Suggested email language when you're sending mailed cover letter and emailed listings scans:
+
+{:.table .table-bordered}
+| Dear [patron name,] <br><br> Thank you for submitting your request for residency documentation. Please find attached scanned pages from the [place name] directories, published in [years], in which [person name] of [place name] is listed. If you do not have access to a printer to print out these attachments, please let me know. <br><br> I have mailed you a cover letter to include with these scans as part of your RECA claim. It should arrive within the next week or so.<br><br> Please let me know if you have any questions. |
+
 -----
 
 ### Resources for Unsuccessful Searches
@@ -140,7 +145,7 @@ If you cannot find the person you're looking for in the directories, you may use
 *Make sure links work*
 
 {:.table .table-bordered}
-| Thank you for submitting your request for residence documentation for [Person Name] of [Place Name].<br><br> Unfortunately, we were unable to find listings for [Person Name] in our [Place Name] directories. If you have any other ideas about where [Person Name] might have lived in Idaho during the 1951-1962 period, or if there is a parent or other close relative of the person we can look for, please let me know.<br><br> If you have not done so already, I suggest contacting the Idaho State Archives ([https://history.idaho.gov/archives/reca/](https://history.idaho.gov/archives/reca/)), which has its own collections that may be helpful with residence documentation.<br><br> You might also consider checking out the [Idaho Downwinders Support Group](https://www.facebook.com/groups/23945323401810681/) on Facebook. It is run by Tona Henderson, who knows far more about Downwinders cases than we do. Tona’s phone number is 208-365-2669 (I think she’s open to answering calls during normal business hours), and her email is tonahenderson@hotmail.com.<br><br> Please let me know if you have any questions or concerns. |
+| Thank you for submitting your request for residence documentation for [Person Name] of [Place Name].<br><br> Unfortunately, we were unable to find listings for [Person Name] in our [Place Name] directories. If you have any other ideas about where [Person Name] might have lived in Idaho during the 1951-1962 period, or if there is a parent or other close relative of the person we can look for, please let me know.<br><br> If you have not done so already, I suggest contacting the Idaho State Archives ([https://history.idaho.gov/archives/reca/](https://history.idaho.gov/archives/reca/)), which has its own collections that may be helpful with residence documentation.<br><br> You might also consider checking out the [Idaho Downwinders Support Group](https://www.facebook.com/groups/23945323401810681/) on Facebook. It is run by Tona Henderson, who knows far more about Downwinders cases than we do. Tona’s email is tonahenderson@hotmail.com.<br><br> Please let me know if you have any questions or concerns. |
 
 **NOTE:** If the patron requested that you look up a woman or minor, ask if there is a male head of household (father or husband) we might look for instead. Residency can be established by providing these kinds of listings along with marriage/birth certificates from the county or state.
 
