@@ -131,7 +131,12 @@ According to the patron's request, either email the scans and cover letter as at
 
 Do not record Downwinders requests in the Patron Support Form. Metrics will be calculated via the RECA spreadsheet.
 
-Suggested email language when you're sending mailed cover letter and emailed listings scans:
+*Suggested email language for sending documents as email attachments:*
+
+{:.table .table-bordered}
+| Dear [patron name], <br><br> Thank you for submitting your request for residency documentation. <br><br> We found listings for [person name] in the directories for [place name] in [years]. Please find attached scans of these listings, as well as a cover letter from the head of my department, attesting that the scans represent real items in our collections.<br><br> If you have any questions or concerns, please let me know. |
+
+*Suggested email language when you're sending mailed cover letter and emailed listings scans:*
 
 {:.table .table-bordered}
 | Dear [patron name,] <br><br> Thank you for submitting your request for residency documentation. Please find attached scanned pages from the [place name] directories, published in [years], in which [person name] of [place name] is listed. If you do not have access to a printer to print out these attachments, please let me know. <br><br> I have mailed you a cover letter to include with these scans as part of your RECA claim. It should arrive within the next week or so.<br><br> Please let me know if you have any questions. |
