@@ -10,6 +10,7 @@ title: RECA Claims Resources
     <a href="#{{ 'Scanning Directories' | slugify }}" class="btn btn-secondary my-2 mx-1">Scanning Directories</a>
     <a href="#{{ 'Cover Letters' | slugify }}" class="btn btn-secondary my-2 mx-1">Cover Letters</a>
     <a href="#{{ 'Resources for Unsuccessful Searches' | slugify }}" class="btn btn-secondary my-2 mx-1">Resources for Unsuccessful Searches</a>
+    <a href="#{{ 'Digitized Directories' | slugify }}" class="btn btn-secondary my-2 mx-1">Digitized Directories</a>
 </div>
 
 -----
@@ -163,3 +164,17 @@ Feel free to recommend the following resources to patrons as well:
 - Telecommunications History Group [https://www.telcomhistory.org/](https://www.telcomhistory.org/). Note: they may charge for lookups.
 
 - RECA information from the U.S. Department of Justice, including a link to the online claim portal: [Radiation Exposure Compensation Act](https://www.justice.gov/civil/reca)
+
+
+-----
+
+### Digitized Directories
+
+*Last updated 08-07-26*
+
+**Directory communities fully digitized:**
+
+- Cascade 
+- Troy
+
+[Directory digitization progress spreadsheet](https://docs.google.com/spreadsheets/d/1BowrlbJ49diqGyKDguDNSQQ3zbBF4R_Kob9kZevsBD8/edit?usp=sharing)
