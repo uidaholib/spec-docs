@@ -174,7 +174,13 @@ Feel free to recommend the following resources to patrons as well:
 
 **Directory communities fully digitized:**
 
-- Cascade 
-- Troy
+- [Aberdeen](https://vandalsuidaho.sharepoint.com/:f:/r/sites/Storage-Library/Documents/spec/Collections/Book%20Collections/Idaho%20Telephone%20and%20Business%20Directories/Directory%20scans/Aberdeen?d=w6d3c40062bd543049c213c376ec9b46d&csf=1&web=1&e=6MCOn3)
+
+- [American Falls](https://vandalsuidaho.sharepoint.com/:f:/r/sites/Storage-Library/Documents/spec/Collections/Book%20Collections/Idaho%20Telephone%20and%20Business%20Directories/Directory%20scans/American%20Falls?d=wa5f507f93d014431beb456fe65ba3a99&csf=1&web=1&e=tyY3eH)
+
+- [Cascade](https://vandalsuidaho.sharepoint.com/:f:/r/sites/Storage-Library/Documents/spec/Collections/Book%20Collections/Idaho%20Telephone%20and%20Business%20Directories/Directory%20scans/Cascade?d=wbb4259a4210f409295f48f6efd6ac08d&csf=1&web=1&e=yfE8in)
+
+- [Troy](https://vandalsuidaho.sharepoint.com/:f:/r/sites/Storage-Library/Documents/spec/Collections/Book%20Collections/Idaho%20Telephone%20and%20Business%20Directories/Directory%20scans/Troy?d=w3c980ebb6f344be9b97c008e570ea886&csf=1&web=1&e=kzGtQg)
+
 
 [Directory digitization progress spreadsheet](https://docs.google.com/spreadsheets/d/1BowrlbJ49diqGyKDguDNSQQ3zbBF4R_Kob9kZevsBD8/edit?usp=sharing)
