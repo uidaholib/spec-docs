@@ -26,7 +26,7 @@ title: RECA Claims Resources
 
 *Make sure links work*:
 
-{:.table .table-bordered}
+{:.table .table-borderless .shadow .rounded .template-box}
 | Dear [patron],<br><br>Thank you for contacting Special Collections and Archives at the University of Idaho. We have a collection of Idaho directories that we can look through to help with your supplemental proof of residence documentation for the RECA ("Downwinders") application.<br><br>To help us answer RECA-related requests more efficiently, please submit your request using our online form: [Request for Assistance with RECA Claim](https://forms.office.com/Pages/ResponsePage.aspx?id=Y2u8fpJXGUqyCwS4JgSIUxaSEHQ0MBFJmCa2EIVFmhNURUQ4RjZZMFEzVjVRSjNFOEhNSTRKNk9ITC4u). This will ensure that we have all the information needed to begin our search.<br><br>Due to the volume of recent Downwinders requests, it may take two to three weeks to process your request. We appreciate your patience while we assist you. Please let us know if you have any questions about completing the form. |
 
 #### RECA Responses Spreadsheet
@@ -36,6 +36,8 @@ title: RECA Claims Resources
 -----
 
 ### Researching a RECA Claim
+
+{% include figure.html img="reca-tree.jpg" caption="RECA decision tree" width="25" %}
 
 #### Background
 
@@ -59,13 +61,13 @@ Patrons should supply the following via the [Request for Assistance with RECA Cl
 
 #### Locating Directory Information
 
-- Read through the "Using Telephone and City Directories" section below
+- Make sure that you're familiar with the "Using Telephone and City Directories" below and/or Instructions for researching a RECA claim (SharePoint): [Downwinder (RECA) reference questions](https://vandalsuidaho.sharepoint.com/:w:/r/sites/Storage-Library/Documents/spec/Reference/Downwinders/Downwinder%20(RECA)%20reference%20questions.docx?d=w005e93170368445b87b38609c8913e63&csf=1&web=1&e=BBkiH3)
 - Consult the [IDTELE](https://archiveswest.orbiscascade.org/ark:80444/xv238803) finding aid and/or the [University of Idaho Spec Directories](https://hastingsspec.github.io/directoriesspec/) site to determine which directories include the town you're looking for
 - Pull the relevant items from the directories section of the rare books room (Moscow and University of Idaho directories are in the Reading Room)
 - Look through listings for the name(s) that the patron provided. If you cannot find the person, consider alternative sources based on the information in "Using Telephone and City Directories" below
 
-
-#### Using Telephone and City Directories
+<details markdown="1">
+<summary><strong>Using Telephone and City Directories</strong> (reference &amp; search tips)</summary>
 
 {:.table .table-bordered}
 | **Telephone books** | **City directories** |
@@ -75,12 +77,14 @@ Patrons should supply the following via the [Request for Assistance with RECA Cl
 | May include listings for multiple towns and nearby rural areas. Areas included tend to be determined by geographic proximity - which communities were closest to each other, regardless of county lines, and sometimes regardless of state lines | Typically focused on a single city plus surrounding small towns and rural areas. Coverage unlikely to cross county/state lines. Sparsely-populated counties unlikely to be covered by city directories. |
 | Do not include reverse lookup sections | Often include reverse lookup sections, organized by address first or phone number first |
 
+<div class="alert alert-secondary" markdown="1">
 **Telephone and city directories may NOT include:**
 - Minors
 - People who moved frequently
 - People without phones
 - People in very rural areas
 - Anyone who opted out of being listed
+</div>
 
 **Tips for searching**
 - Both telephone books and city directories may include listings for multiple towns and surrounding rural areas. Our [IDTELE](https://archiveswest.orbiscascade.org/ark:80444/xv238803) finding aid and [University of Idaho Spec Directories](https://hastingsspec.github.io/directoriesspec/) site indicate which towns are included in which directories. For example, listings for Burke are included in the Wallace directories. 
@@ -93,41 +97,46 @@ Patrons should supply the following via the [Request for Assistance with RECA Cl
 - Check multiple years: if someone isn't listed for one year, check the year before or after -- they might have moved into or out of the area. 
 - Genealogical sites such as Ancestry and FamilySearch may have information that provides leads. 
 
-
-Instructions for researching a RECA claim (SharePoint): [Downwinder (RECA) reference questions](https://vandalsuidaho.sharepoint.com/:w:/r/sites/Storage-Library/Documents/spec/Reference/Downwinders/Downwinder%20(RECA)%20reference%20questions.docx?d=w005e93170368445b87b38609c8913e63&csf=1&web=1&e=BBkiH3)
-
-Digital collection for directories (internal use): [https://hastingsspec.github.io/directoriesspec/](https://hastingsspec.github.io/directoriesspec/)
+</details>
 
 -----
 
 ### Scanning Directories
 
 If a directory includes the person you're looking for:
-- Phone book: Scan the front cover, title page, and relevant internal listings of the directory 
-- City directory: Scan the title page, the page that explains abbreviations, and the relevant internal listings 
-    - NOTE: For both types of directories, be sure that either the front cover OR the title page shows the directory's year 
-- Make sure that file name accurately reflects city/town, year, and directory type (ex. jerome_phone_1959.pdf) 
-- Enhance the image:  
-    - Crop the scans in the scanning program to show just the page you need, removing any part of the scanner bed or other pages captured in the image (Zeutschel: Crop>Crop).  
-    - If the directory's pages are darkened, increase the contrast of the scan (Zeutschel: Optimize Image>Contrast). These two steps will make the final printouts more readable by creating more contrast between the text and the rest of the page.
- 
-NOTE: Do not highlight listings. Do not alter the scans in any way.
 
-**[Student workers: at this point, send scans to a Spec staff or faculty member]**
+1. **Scan the directory:**
+    - Phone book: Scan the front cover, title page, and relevant internal listings of the directory
+    - City directory: Scan the title page, the page that explains abbreviations, and the relevant internal listings
+    - **NOTE:** For both types of directories, be sure that either the front cover OR the title page shows the directory's year.
 
+2. **Name the file** so it accurately reflects city/town, year, and directory type (ex. `jerome_phone_1959.pdf`)
+
+3. **Enhance the image:**
+    - Crop the scans in the scanning program to show just the page you need, removing any part of the scanner bed or other pages captured in the image (Zeutschel: Crop>Crop)
+    - If the directory's pages are darkened, increase the contrast of the scan (Zeutschel: Optimize Image>Contrast). These two steps will make the final printouts more readable by creating more contrast between the text and the rest of the page
+
+<div class="alert alert-warning" markdown="1">
+**Do not highlight listings. Do not alter the scans in any way.**
+</div>
+
+<div class="alert alert-info" markdown="1">
+**Student workers:** at this point, send scans to a Spec staff or faculty member.
+</div>
 -----
 
 ### Cover Letters
 
-In the [RECA Requests](https://vandalsuidaho.sharepoint.com/:x:/r/sites/Storage-Library/Documents/spec/Reference/Downwinders/RECA%20Requests.xlsx?d=wdb63c796c08741578c7d7767a24d8cee&csf=1&web=1&e=bWjebs) spreadsheet, enter cover letter language into the "Text for cover letter" column. Edit the following template to reflect appropriate names, places, dates, and collections used: 
+In the [RECA Requests](https://vandalsuidaho.sharepoint.com/:x:/r/sites/Storage-Library/Documents/spec/Reference/Downwinders/RECA%20Requests.xlsx?d=wdb63c796c08741578c7d7767a24d8cee&csf=1&web=1&e=bWjebs) spreadsheet, enter cover letter language into the "Text for cover letter" column. Edit the following template to reflect appropriate names, places, dates, and collections used.
 
-{:.table .table-bordered}
+**Cover letter template:**
+
+{:.table .table-borderless .shadow .rounded .template-box}
 | To [claimant full name]: <br><br> Following the completion of your research inquiry with the University of Idaho Library Special Collections and Archives, page scans have been provided to you from the telephone directory [or city directory] for [town name] published in [date(s)]. The scans were made from original directories within the University of Idaho Library’s IDTELE collection. The documentation provided containing [# of scanned pages] pertaining to [person name] of [town name, Idaho,] are a true and accurate copy of a record kept in our files. |
 
+**Cover letter example:**
 
-Example: 
-
-{:.table .table-bordered}
+{:.table .table-borderless .shadow .rounded .template-box}
 | To John Smith: <br><br> Following the completion of your research inquiry with the University of Idaho Library Special Collections and Archives, page scans have been provided to you from the city directories for Boise, Idaho, published in 1956, 1957, and 1958. The scans were made from original directories within the University of Idaho Library’s IDTELE collection. The documentation provided containing 9 pages pertaining to Jane Smith of Boise, Idaho, are true and accurate copies of records kept in our files. |
 
 Dulce will provide cover letters via Teams (for digital-only requests) or in person (for "by mail" requests). 
@@ -138,14 +147,14 @@ According to the patron's request, either email the scans and cover letter as at
 
 Do not record Downwinders requests in the Patron Support Form. Metrics will be calculated via the RECA spreadsheet.
 
-*Suggested email language for sending documents as email attachments:*
+**Suggested email language for sending documents as email attachments:**
 
-{:.table .table-bordered}
+{:.table .table-borderless .shadow .rounded .template-box}
 | Dear [patron name], <br><br> Thank you for submitting your request for residency documentation. <br><br> We found listings for [person name] in the directories for [place name] in [years]. Please find attached scans of these listings, as well as a cover letter from the head of my department, attesting that the scans represent real items in our collections.<br><br> If you have any questions or concerns, please let me know. |
 
-*Suggested email language when you're sending mailed cover letter and emailed listings scans:*
+**Suggested email language when you're sending mailed cover letter and emailed listings scans:**
 
-{:.table .table-bordered}
+{:.table .table-borderless .shadow .rounded .template-box}
 | Dear [patron name,] <br><br> Thank you for submitting your request for residency documentation. Please find attached scanned pages from the [place name] directories, published in [years], in which [person name] of [place name] is listed. If you do not have access to a printer to print out these attachments, please let me know. <br><br> I have mailed you a cover letter to include with these scans as part of your RECA claim. It should arrive within the next week or so.<br><br> Please let me know if you have any questions. |
 
 -----
@@ -156,37 +165,30 @@ If you cannot find the person you're looking for in the directories, you may use
 
 *Make sure links work*
 
-{:.table .table-bordered}
+{:.table .table-borderless .shadow .rounded .template-box}
 | Thank you for submitting your request for residence documentation for [Person Name] of [Place Name].<br><br> Unfortunately, we were unable to find listings for [Person Name] in our [Place Name] directories. If you have any other ideas about where [Person Name] might have lived in Idaho during the 1951-1962 period, or if there is a parent or other close relative of the person we can look for, please let me know.<br><br> If you have not done so already, I suggest contacting the Idaho State Archives ([https://history.idaho.gov/archives/reca/](https://history.idaho.gov/archives/reca/)), which has its own collections that may be helpful with residence documentation.<br><br> You might also consider checking out the [Idaho Downwinders Support Group](https://www.facebook.com/groups/23945323401810681/) on Facebook. It is run by Tona Henderson, who knows far more about Downwinders cases than we do. Tona’s email is tonahenderson@hotmail.com.<br><br> Please let me know if you have any questions or concerns. |
 
 **NOTE:** If the patron requested that you look up a woman or minor, ask if there is a male head of household (father or husband) we might look for instead. Residency can be established by providing these kinds of listings along with marriage/birth certificates from the county or state.
 
-Feel free to recommend the following resources to patrons as well:
-
 #### Outside Resources
 
+Feel free to recommend the following resources to patrons as well:
+
 - Idaho State Archives Downwinder form: [https://history.idaho.gov/archives/reca/](https://history.idaho.gov/archives/reca/)
-
 - Telecommunications History Group [https://www.telcomhistory.org/](https://www.telcomhistory.org/). Note: they may charge for lookups.
-
 - RECA information from the U.S. Department of Justice, including a link to the online claim portal: [Radiation Exposure Compensation Act](https://www.justice.gov/civil/reca)
-
 
 -----
 
 ### Digitized Directories
 
-*Last updated 08-07-26*
+*Last updated 08-17-26*
 
 **Directory communities fully digitized:**
 
 - [Aberdeen](https://vandalsuidaho.sharepoint.com/:f:/r/sites/Storage-Library/Documents/spec/Collections/Book%20Collections/Idaho%20Telephone%20and%20Business%20Directories/Directory%20scans/Aberdeen?d=w6d3c40062bd543049c213c376ec9b46d&csf=1&web=1&e=6MCOn3)
-
 - [American Falls](https://vandalsuidaho.sharepoint.com/:f:/r/sites/Storage-Library/Documents/spec/Collections/Book%20Collections/Idaho%20Telephone%20and%20Business%20Directories/Directory%20scans/American%20Falls?d=wa5f507f93d014431beb456fe65ba3a99&csf=1&web=1&e=tyY3eH)
-
 - [Cascade](https://vandalsuidaho.sharepoint.com/:f:/r/sites/Storage-Library/Documents/spec/Collections/Book%20Collections/Idaho%20Telephone%20and%20Business%20Directories/Directory%20scans/Cascade?d=wbb4259a4210f409295f48f6efd6ac08d&csf=1&web=1&e=yfE8in)
-
 - [Troy](https://vandalsuidaho.sharepoint.com/:f:/r/sites/Storage-Library/Documents/spec/Collections/Book%20Collections/Idaho%20Telephone%20and%20Business%20Directories/Directory%20scans/Troy?d=w3c980ebb6f344be9b97c008e570ea886&csf=1&web=1&e=kzGtQg)
-
 
 [Directory digitization progress spreadsheet](https://docs.google.com/spreadsheets/d/1BowrlbJ49diqGyKDguDNSQQ3zbBF4R_Kob9kZevsBD8/edit?usp=sharing)
