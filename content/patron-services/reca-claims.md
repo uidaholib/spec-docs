@@ -52,12 +52,18 @@ Patrons should supply the following via the [Request for Assistance with RECA Cl
 - Town(s) in Idaho where they likely resided
 - Whether the claimant is filing by mail or online; if by mail, record mailing address
 
+{:.table .table-bordered .shadow .rounded .table-light}
+| **Spec Collections that may include Proof of Presence documentation** |
+| - Idaho Telephone and Business Directories (IDTELE). [Finding aid](https://archiveswest.orbiscascade.org/ark:80444/xv238803). [Directories database](https://hastingsspec.github.io/directoriesspec/)<br> - University of Idaho Student Directories. [Finding aid](https://archiveswest.orbiscascade.org/ark:80444/xv602058).<br> - Idaho High School and College Annuals. [Finding aid](https://archiveswest.orbiscascade.org/ark:80444/xv120813).<br> - The Idaho state brand book. [Idaho SF101.I3](https://alliance-uidaho.primo.exlibrisgroup.com/permalink/01ALLIANCE_UID/10k9nr0/cdi_globaltitleindex_catalog_57313439) |
+
+
 #### Locating Directory Information
 
 - Read through the "Using Telephone and City Directories" section below
 - Consult the [IDTELE](https://archiveswest.orbiscascade.org/ark:80444/xv238803) finding aid and/or the [University of Idaho Spec Directories](https://hastingsspec.github.io/directoriesspec/) site to determine which directories include the town you're looking for
 - Pull the relevant items from the directories section of the rare books room (Moscow and University of Idaho directories are in the Reading Room)
 - Look through listings for the name(s) that the patron provided. If you cannot find the person, consider alternative sources based on the information in "Using Telephone and City Directories" below
+
 
 #### Using Telephone and City Directories
 
