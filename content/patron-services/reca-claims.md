@@ -9,7 +9,7 @@ title: RECA Claims Resources
     <a href="#{{ 'Researching a RECA Claim' | slugify }}" class="btn btn-secondary my-2 mx-1">Researching a RECA Claim</a>
     <a href="#{{ 'Scanning Directories' | slugify }}" class="btn btn-secondary my-2 mx-1">Scanning Directories</a>
     <a href="#{{ 'Cover Letters' | slugify }}" class="btn btn-secondary my-2 mx-1">Cover Letters</a>
-    <a href="#{{ 'Resources for Unsuccessful Searches' | slugify }}" class="btn btn-secondary my-2 mx-1">Resources for Unsuccessful Searches</a>
+    <a href="#{{ 'Responding to the Patron' | slugify }}" class="btn btn-secondary my-2 mx-1">Responding to the Patron</a>
     <a href="#{{ 'Digitized Directories' | slugify }}" class="btn btn-secondary my-2 mx-1">Digitized Directories</a>
 </div>
 
@@ -27,7 +27,7 @@ title: RECA Claims Resources
 *Make sure links work*:
 
 {:.table .table-borderless .shadow .rounded .template-box}
-| Dear [patron],<br><br>Thank you for contacting Special Collections and Archives at the University of Idaho. We have a collection of Idaho directories that we can look through to help with your supplemental proof of residence documentation for the RECA ("Downwinders") application.<br><br>To help us answer RECA-related requests more efficiently, please submit your request using our online form: [Request for Assistance with RECA Claim](https://forms.office.com/Pages/ResponsePage.aspx?id=Y2u8fpJXGUqyCwS4JgSIUxaSEHQ0MBFJmCa2EIVFmhNURUQ4RjZZMFEzVjVRSjNFOEhNSTRKNk9ITC4u). This will ensure that we have all the information needed to begin our search.<br><br>Due to the volume of recent Downwinders requests, it may take two to three weeks to process your request. We appreciate your patience while we assist you. Please let us know if you have any questions about completing the form. |
+| Dear [patron],<br><br>Thank you for contacting Special Collections and Archives at the University of Idaho. We have a collection of Idaho directories that we can look through to help with your supplemental proof of residence documentation for the RECA ("Downwinders") application.<br><br>To help us answer RECA-related requests more efficiently, please submit your request using our online form: [Request for Assistance with RECA Claim](https://forms.office.com/Pages/ResponsePage.aspx?id=Y2u8fpJXGUqyCwS4JgSIUxaSEHQ0MBFJmCa2EIVFmhNURUQ4RjZZMFEzVjVRSjNFOEhNSTRKNk9ITC4u). This will ensure that we have all the information needed to begin our search.<br><br>Due to the volume of recent Downwinders requests, it may take up to six weeks to process your request. We appreciate your patience while we assist you. Please let us know if you have any questions about completing the form. |
 
 #### RECA Responses Spreadsheet
 
@@ -139,9 +139,17 @@ In the [RECA Requests](https://vandalsuidaho.sharepoint.com/:x:/r/sites/Storage-
 {:.table .table-borderless .shadow .rounded .template-box}
 | To John Smith: <br><br> Following the completion of your research inquiry with the University of Idaho Library Special Collections and Archives, page scans have been provided to you from the city directories for Boise, Idaho, published in 1956, 1957, and 1958. The scans were made from original directories within the University of Idaho Library’s IDTELE collection. The documentation provided containing 9 pages pertaining to Jane Smith of Boise, Idaho, are true and accurate copies of records kept in our files. |
 
+<br>
+
 Dulce will provide cover letters via Teams (for digital-only requests) or in person (for "by mail" requests). 
 
-#### Responding to the Patron
+-----
+
+### Responding to the Patron
+
+<br>
+
+#### Successful Searches
 
 According to the patron's request, either email the scans and cover letter as attachments, or print out the materials to be mailed or picked up in person. If you are not printing out listings scans for the patron, send the scans as email attachments and include a "Dear patron..." insert with the mailed cover letter.
 
@@ -150,16 +158,16 @@ Do not record Downwinders requests in the Patron Support Form. Metrics will be c
 **Suggested email language for sending documents as email attachments:**
 
 {:.table .table-borderless .shadow .rounded .template-box}
-| Dear [patron name], <br><br> Thank you for submitting your request for residency documentation. <br><br> We found listings for [person name] in the directories for [place name] in [years]. Please find attached scans of these listings, as well as a cover letter from the head of my department, attesting that the scans represent real items in our collections.<br><br> If you have any questions or concerns, please let me know. |
+| Dear [patron name], <br><br> Thank you for submitting your request for residency documentation. <br><br> We found listings for [person name] in the directories for [place name] in [years]. Please find attached scans of these listings, as well as a certifying cover letter from the head of my department.<br><br> The University of Idaho Library was pleased to provide documentation that could support your RECA claim for Downwinder benefits. Over the past year, the Library has received approximately 100 of these requests each week, and we recently added a part-time staff member to help meet this growing demand. As part of our commitment to serving communities across Idaho and beyond, we provide this service free of charge.<br><br> If you found our work valuable, we invite you to support the Library's archive department with a gift of $25, or any amount that is meaningful to you. Your generosity helps ensure that we can continue providing expert research assistance and archival resources to our communities. To make an online gift, please visit the U of I Giving website [here](https://giving.uidaho.edu/campaigns/university-of-idaho-library-associates-2).<br><br> If you have any questions or concerns, please let me know.<br><br> Sincerely, [employee name] |
 
 **Suggested email language when you're sending mailed cover letter and emailed listings scans:**
 
 {:.table .table-borderless .shadow .rounded .template-box}
-| Dear [patron name,] <br><br> Thank you for submitting your request for residency documentation. Please find attached scanned pages from the [place name] directories, published in [years], in which [person name] of [place name] is listed. If you do not have access to a printer to print out these attachments, please let me know. <br><br> I have mailed you a cover letter to include with these scans as part of your RECA claim. It should arrive within the next week or so.<br><br> Please let me know if you have any questions. |
+| Dear [patron name,] <br><br> Thank you for submitting your request for residency documentation. Please find attached scanned pages from the [place name] directories, published in [years], in which [person name] of [place name] is listed. If you do not have access to a printer to print out these attachments, please let me know. <br><br> I have mailed you a cover letter to include with these scans as part of your RECA claim. It should arrive within the next two weeks.<br><br> The University of Idaho Library was pleased to provide documentation that could support your RECA claim for Downwinder benefits. Over the past year, the Library has received approximately 100 of these requests each week, and we recently added a part-time staff member to help meet this growing demand. As part of our commitment to serving communities across Idaho and beyond, we provide this service free of charge.<br><br> If you found our work valuable, we invite you to support the Library's archive department with a gift of $25, or any amount that is meaningful to you. Your generosity helps ensure that we can continue providing expert research assistance and archival resources to our communities. To make an online gift, please visit the U of I Giving website [here](https://giving.uidaho.edu/campaigns/university-of-idaho-library-associates-2).<br><br> If you have any questions or concerns, please let me know.<br><br> Sincerely, [employee name] |
 
 -----
 
-### Resources for Unsuccessful Searches
+#### Resources for Unsuccessful Searches
 
 If you cannot find the person you're looking for in the directories, you may use the following suggested email language, inserting appropriate names, places, dates, etc.: 
 
