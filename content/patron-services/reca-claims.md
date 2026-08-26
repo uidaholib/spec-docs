@@ -185,6 +185,11 @@ Feel free to recommend the following resources to patrons as well:
 - Idaho State Archives Downwinder form: [https://history.idaho.gov/archives/reca/](https://history.idaho.gov/archives/reca/)
 - Telecommunications History Group [https://www.telcomhistory.org/](https://www.telcomhistory.org/). Note: they may charge for lookups.
 - RECA information from the U.S. Department of Justice, including a link to the online claim portal: [Radiation Exposure Compensation Act](https://www.justice.gov/civil/reca)
+- Tona Henderson: tonahenderson@hotmail.com or 208-365-2669
+- For military records (Mountain Home AFB, for instance) and other federal records, suggest Senator Crapo's office: [https://www.crapo.senate.gov/contact](https://www.crapo.senate.gov/contact)
+- People looking for Basque ancestors in Idaho:
+    - Amaya Herrera, Basque Museum: amayah@basquemuseum.eus or (208) 343-6959
+    - Basque Museum general line: (208) 343-2671 
 
 -----
 
