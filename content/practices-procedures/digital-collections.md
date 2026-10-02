@@ -43,14 +43,10 @@ This digital collection creation walkthrough is an adapted version specifically 
     - Create low resolution JPG (File>Automate>Batch...access>jpg or 300dpijpg)
 - Text document
     - Straighten, crop, color correct in Photoshop
-    - Open TIFF in Adobe Acrobat
-    - Go to File>Save As Other>Optimized PDF
-    - In the Images panel, set Color Images to: 
-        - Downsample to 250 ppi
-        - Compression JPEG
-        - Quality: Medium or High
-    - Before batch processing, check your output on a sample document. Zoom to 100% and confirm that the text looks sharp. Check that file size is reasonable (500-1500 KB is reasonable).
-    - Send finished PDFs to Andrew for OCR
+    - Create 300 dpi JPGs
+    - Convert/collate JPGs into PDFs using Acrobat
+    - Compress PDFs. Go to File>Save As Other>Optimized PDF
+    - Process with Opticolumn for OCR (for now, send finished PDFs to Andrew for OCR)
 
 ### Develop Metadata
 
@@ -116,4 +112,4 @@ This digital collection creation walkthrough is an adapted version specifically 
 
 ### Final Steps
 - Update the archival finding aid to include link(s) to the digital collection
-- Upload digital collections files to the archive drive and include a README (contact digital archivist)
+- Upload digital collections files to the archive drive. Include TIFFs, edited access files (JPGs, PDFs), and a README (contact digital archivist)
