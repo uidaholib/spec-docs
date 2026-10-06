@@ -165,6 +165,19 @@ Do not record Downwinders requests in the Patron Support Form. Metrics will be c
 {:.table .table-borderless .shadow .rounded .template-box}
 | Dear [patron name,] <br><br> Thank you for submitting your request for residency documentation. Please find attached scanned pages from the [place name] directories, published in [years], in which [person name] of [place name] is listed. If you do not have access to a printer to print out these attachments, please let me know. <br><br> I have mailed you a cover letter to include with these scans as part of your RECA claim. It should arrive within the next two weeks.<br><br> The University of Idaho Library was pleased to provide documentation that could support your RECA claim for Downwinder benefits. Over the past year, the Library has received approximately 100 of these requests each week, and we recently added a part-time staff member to help meet this growing demand. As part of our commitment to serving communities across Idaho and beyond, we provide this service free of charge.<br><br> If you found our work valuable, we invite you to support the Library's archive department with a gift of $25, or any amount that is meaningful to you. Your generosity helps ensure that we can continue providing expert research assistance and archival resources to our communities. To make an online gift, please visit the U of I Giving website [here](https://giving.uidaho.edu/campaigns/university-of-idaho-library-associates-2).<br><br> If you have any questions or concerns, please let me know.<br><br> Sincerely, [employee name] |
 
+**If the patron would like to provide a donation by check:**
+
+Make checks out to:  
+University of Idaho Foundation  
+
+In memo line or separate note with check, note that donation is for the Library Associate's Fund  
+
+Mail to:  
+University of Idaho Foundation, Inc.  
+Attn: Gift Processing  
+875 Perimeter Drive MS 3143  
+Moscow, ID 83844-3143  
+
 -----
 
 #### Resources for Unsuccessful Searches
