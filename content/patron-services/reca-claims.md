@@ -56,13 +56,13 @@ Patrons should supply the following via the [Request for Assistance with RECA Cl
 
 {:.table .table-bordered .shadow .rounded .table-light}
 | **Spec Collections that may include Proof of Presence documentation** |
-| - Idaho Telephone and Business Directories (IDTELE). [Finding aid](https://archiveswest.orbiscascade.org/ark:80444/xv238803). [Directories database](https://hastingsspec.github.io/directoriesspec/)<br> - University of Idaho Student Directories. [Finding aid](https://archiveswest.orbiscascade.org/ark:80444/xv602058).<br> - Idaho High School and College Annuals. [Finding aid](https://archiveswest.orbiscascade.org/ark:80444/xv120813).<br> - The Idaho state brand book. [Idaho SF101.I3](https://alliance-uidaho.primo.exlibrisgroup.com/permalink/01ALLIANCE_UID/10k9nr0/cdi_globaltitleindex_catalog_57313439) |
+| - Idaho Telephone and Business Directories (IDTELE). [Finding aid](https://archiveswest.orbiscascade.org/ark:80444/xv238803). [Directories database](https://uidaholib.github.io/directoriesspec/)<br> - University of Idaho Student Directories. [Finding aid](https://archiveswest.orbiscascade.org/ark:80444/xv602058).<br> - Idaho High School and College Annuals. [Finding aid](https://archiveswest.orbiscascade.org/ark:80444/xv120813).<br> - The Idaho state brand book. [Idaho SF101.I3](https://alliance-uidaho.primo.exlibrisgroup.com/permalink/01ALLIANCE_UID/10k9nr0/cdi_globaltitleindex_catalog_57313439) |
 
 
 #### Locating Directory Information
 
 - Make sure that you're familiar with the "Using Telephone and City Directories" below and/or Instructions for researching a RECA claim (SharePoint): [Downwinder (RECA) reference questions](https://vandalsuidaho.sharepoint.com/:w:/r/sites/Storage-Library/Documents/spec/Reference/Downwinders/Downwinder%20(RECA)%20reference%20questions.docx?d=w005e93170368445b87b38609c8913e63&csf=1&web=1&e=BBkiH3)
-- Consult the [IDTELE](https://archiveswest.orbiscascade.org/ark:80444/xv238803) finding aid and/or the [University of Idaho Spec Directories](https://hastingsspec.github.io/directoriesspec/) site to determine which directories include the town you're looking for
+- Consult the [IDTELE](https://archiveswest.orbiscascade.org/ark:80444/xv238803) finding aid and/or the [University of Idaho Spec Directories](https://uidaholib.github.io/directoriesspec/) site to determine which directories include the town you're looking for
 - Pull the relevant items from the directories section of the rare books room (Moscow and University of Idaho directories are in the Reading Room)
 - Look through listings for the name(s) that the patron provided. If you cannot find the person, consider alternative sources based on the information in "Using Telephone and City Directories" below
 
@@ -87,7 +87,7 @@ Patrons should supply the following via the [Request for Assistance with RECA Cl
 </div>
 
 **Tips for searching**
-- Both telephone books and city directories may include listings for multiple towns and surrounding rural areas. Our [IDTELE](https://archiveswest.orbiscascade.org/ark:80444/xv238803) finding aid and [University of Idaho Spec Directories](https://hastingsspec.github.io/directoriesspec/) site indicate which towns are included in which directories. For example, listings for Burke are included in the Wallace directories. 
+- Both telephone books and city directories may include listings for multiple towns and surrounding rural areas. Our [IDTELE](https://archiveswest.orbiscascade.org/ark:80444/xv238803) finding aid and [University of Idaho Spec Directories](https://uidaholib.github.io/directoriesspec/) site indicate which towns are included in which directories. For example, listings for Burke are included in the Wallace directories. 
 - Telephone and city directories often have multiple sections of listings that encompass nearby towns and rural areas. If you can't find the person you're looking for in the town provided by the patron, try looking in other sections of the same directory.  
 - A city directory may have multiple rural routes listed, so be sure to look through each rural route. 
 - If you can't find the person you're looking for, check for other family members they might have lived with (Ancestry.com can be helpful in establishing connections). 
